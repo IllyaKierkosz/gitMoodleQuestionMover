@@ -2,14 +2,17 @@
 use warnings;
 use strict;
 
-my $dir = "InputFiles";
-opendir(DIR, $dir) or die "Couldn't open input file directory: $!";
-while (my $file = readdir(DIR)) {
+my $inDir = "InputFiles";
+#Need an "InputFiles" directory. This is where the moodle lessons to be searched go.
+
+mkdir("Questions")
+opendir(inDIR, $inDir) or die "Couldn't open input file directory: $!";
+while (my $file = readdir(inDIR)) {
 	my $filetarget = "lesson";
 	if ($file =~ /\Q$filetarget\E/){
 	print "Working on $file\n";
-	open(my $read, "<","$dir/$file") or die "Couldn't open input file $file: $!\n";
-	open(my $outext, ">", "Questions-$file") or die "Couldn't create output file for $file: $!";
+	open(my $read, "<","$inDir/$file") or die "Couldn't open input file $file: $!\n";
+	open(my $outext, ">", "Questions/Questions-$file") or die "Couldn't create output file for $file: $!";
 		my $target = "<qtype>3</qtype>"; my $targetClose = "</page>";
 		my @workingText;
 		while(my $comptext = <$read>){
@@ -37,4 +40,4 @@ while (my $file = readdir(DIR)) {
 	close($read);
 	}
 }
-closedir(DIR);
+closedir(inDIR);
