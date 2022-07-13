@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="641" moduleid="147127" modulename="lesson" contextid="220609">
+  <lesson id="641">
+    <course>3115</course>
+    <name>Lesson 4: 2D motion</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>3</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>1640187600</deadline>
+    <timemodified>1632791024</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="9435">
+        <prevpageid>0</prevpageid>
+        <nextpageid>9436</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1530197333</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You do not have to finish the whole lesson in one sitting.  You may retry the lesson if you are not happy with the outcome.  Here is a "map" of the lesson.  I am including this so that you can check whether you have completed all parts.  Note in particular that for some reason the moodle lessons sometimes skip the reflective writing items (I haven't figured out why), so this map helps you figure out where those should be:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_2dmotion.png" width="600" height="557" alt="lesson map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21541">
+            <jumpto>9436</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-1: General 2D Motion</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21542">
+            <jumpto>9440</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-2: Projectile Motion</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21543">
+            <jumpto>9450</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-3: Solving Projectile Motion Problems</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21544">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-4: Uniform Circular Motion</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21545">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21591">
+            <jumpto>9447</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9436">
+        <prevpageid>9435</prevpageid>
+        <nextpageid>9437</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1498939555</timemodified>
+        <title>Online Lecture 4-1 (Part 1):General 2D Motion</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=LlEF31yGKfY&amp;amp;list=PLhdf1WEdn-4Oq8tRaI8BXYtbKNtiNzYKg&amp;amp;index=1"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This expands on the material in section 3.1-3.3 in the text.  If you have the text you may want to supplement the lecture by reading/skimming these sections.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21540">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9437">
+        <prevpageid>9436</prevpageid>
+        <nextpageid>9438</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467681850</timecreated>
+        <timemodified>0</timemodified>
+        <title>Which are correct acceleration vectors for projectile?</title>
+        <contents>&lt;p&gt;Which of the diagrams below shows the correct acceleration vectors added to the motion diagram of a projectile?  It is perfectly OK to be wrong here.  The important thing is to commit to an answer before then seeing how we find the answer so that you will know how well you understand.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/draw_ball_mot_diag_five_choices.png" width="804" height="483" alt="five options for acceleration in projectile motion" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21557">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>Yes, that's correct.  The next page shows why.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21558">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21559">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21560">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21561">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9438">
+        <prevpageid>9437</prevpageid>
+        <nextpageid>9439</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1467681947</timecreated>
+        <timemodified>1467681963</timemodified>
+        <title>Online lecture 4-1 (part 2)</title>
+        <contents>&lt;p&gt;Now watch this short video to find out the correct answer.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=b8H1aLBLJ_M&amp;amp;list=PLhdf1WEdn-4Oq8tRaI8BXYtbKNtiNzYKg&amp;amp;index=2"&gt;video link&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21562">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681947</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click here when you have finished watching the video.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9439">
+        <prevpageid>9438</prevpageid>
+        <nextpageid>9440</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1467681259</timecreated>
+        <timemodified>1631050559</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 4 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lecture 1".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Can a velocity be negative?  Can the x-component of a velocity be negative?  If either or both can be negative then describe the circumstances under which they would be negative.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21555">
+            <jumpto>9435</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681259</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9440">
+        <prevpageid>9439</prevpageid>
+        <nextpageid>9441</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1498939645</timemodified>
+        <title>Online Lecture 4-2: Projectile Motion</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=LTaUrBx6mjw&amp;amp;list=PLhdf1WEdn-4Oq8tRaI8BXYtbKNtiNzYKg&amp;amp;index=3"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 3.6 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21546">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9441">
+        <prevpageid>9440</prevpageid>
+        <nextpageid>9442</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21550">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9442">
+        <prevpageid>9441</prevpageid>
+        <nextpageid>9451</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467682749</timecreated>
+        <timemodified>1467682800</timemodified>
+        <title>description of components of projectile motion</title>
+        <contents>&lt;p&gt;As you have just seen in the videos, projectile motion can be analyzed in terms of the horizontal, x, and vertical, y, components of its motion. The x and y motions are best described as:&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21563">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal motion is at constant velocity and the vertical motion has a constant acceleration.</answer_text>
+            <response>Yes, good.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21564">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal and vertical motions are each at constant velocity.</answer_text>
+            <response>No, the horizontal component of motion is at constant velocity, but the vertical component has constant acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21565">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal and vertical motions are each with constant acceleration.</answer_text>
+            <response>Hmm...sort of.  But the acceleration in the horizontal component is zero, so we would usually describe this as constant velocity motion, not constant acceleration.  You are correct that the vertical component of motion is with a constant acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21566">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions depend on each other because the vertical velocity depends on the horizontal velocity.</answer_text>
+            <response>No.  The two components are independent.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9451">
+        <prevpageid>9442</prevpageid>
+        <nextpageid>9452</nextpageid>
+        <qtype>3</qtype>
+        <qoption>1</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467684512</timecreated>
+        <timemodified>0</timemodified>
+        <title>Select all true statements.</title>
+        <contents>&lt;p&gt;Select all of the statements below that are true.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21585">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The acceleration during projectile motion is directed straight down.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21586">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal component of velocity is constant in projectile motion.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21587">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal component of velocity during projectile motion increases because of the push that the projectile was given initially.</answer_text>
+            <response>No, the acceleration is down (it has no horizontal component) so the horizontal velocity is constant.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21588">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal position vs. time graph for projectile motion will be a parabola.</answer_text>
+            <response>No, the horizontal velocity is constant.  Constant velocity results in a position vs. time graph that is a straight line.  The **vertical** position vs. time graph is a parabola.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21589">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The acceleration of a projectile decreases as it goes up and is zero at the top of the trajectory.</answer_text>
+            <response>No, the acceleration of a projectile is constant.  It is always g down, at every point in its motion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9445">
+        <prevpageid>9443</prevpageid>
+        <nextpageid>9453</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683061</timecreated>
+        <timemodified>1467683491</timemodified>
+        <title>horizontal component of projectile motion</title>
+        <contents>&lt;p&gt;You throw a ball horizontally off the edge of a roof. Its initial velocity is 15 m/s &lt;strong&gt;horizontal&lt;/strong&gt;. After 2.0 s, the ball's distance from the side of the building (i.e. its horizontal distance from its starting point) will be&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21567">
+            <jumpto>9456</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>30 m</answer_text>
+            <response>Yes, because the horizontal component of velocity is 15 m/s and stays constant.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21568">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>less than 30 m because gravity is slowing it down</answer_text>
+            <response>No, first of all, gravity is speeding it up.  But secondly, the acceleration due to gravity has no effect on the horizontal component of the ball's motion, so it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21569">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>greater than 30 m because gravity is speeding it up</answer_text>
+            <response>No, the acceleration due to gravity has no effect on the horizontal component of the ball's motion, so it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21570">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>we need more information to be able to answer this</answer_text>
+            <response>No.  The ball's horizontal component of velocity is 15 m/s and constant.  So after 2 s it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9446">
+        <prevpageid>9444</prevpageid>
+        <nextpageid>9448</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546509</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21553">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546509</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9453">
+        <prevpageid>9445</prevpageid>
+        <nextpageid>9456</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683325</timecreated>
+        <timemodified>1467683508</timemodified>
+        <title>vertical component of ball's trajectory</title>
+        <contents>&lt;p&gt;A ball is thrown &lt;strong&gt;horizontally&lt;/strong&gt; off of a high building. One second later the vertical component of the ball's velocity is (neglecting air drag)&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21571">
+            <jumpto>9456</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>9.81 m/s, down</answer_text>
+            <response>Yes, it's initial vertical velocity is zero, so after one second accelerating at g it will be going 9.81 m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21572">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0</answer_text>
+            <response>No, it's vertical velocity is zero at the instant it is thrown.  But gravity accelerates it down so after one second it is going 9.81 m/s down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21573">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>it depends on how hard the ball was thrown</answer_text>
+            <response>No, the ball was thrown horizontally.  So its initial vertical component of velocity was zero.  One second later its vertical component of velocity is 9.81 m/s down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21574">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>equal to the horizontal component of its velocity</answer_text>
+            <response>No.  The two components are independent.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9448">
+        <prevpageid>9446</prevpageid>
+        <nextpageid>9454</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683690</timecreated>
+        <timemodified>1467683995</timemodified>
+        <title>direction of acceleration in UCM</title>
+        <contents>&lt;p&gt;You are in a car that is driving at constant speed around a circular track. The direction of your acceleration is&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21575">
+            <jumpto>9455</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>towards the center of the circle</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21576">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>away from the center of the circle</answer_text>
+            <response>No.  You might consider rewatching the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21577">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>forward (tangent to the circle)</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21578">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down because of gravity</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21579">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>the acceleration is zero since the car is going at constant speed.</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9454">
+        <prevpageid>9448</prevpageid>
+        <nextpageid>9455</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683952</timecreated>
+        <timemodified>0</timemodified>
+        <title>compare magnitudes of acceleration in UCM</title>
+        <contents>&lt;p&gt;Alice is driving her car at a constant speed of 80 km/hr around a circular track with a radius of 100 m. Bob is driving his car at a constant speed of 80 km/hr around a circular track with a radius of 200 m. Compare the accelerations&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21580">
+            <jumpto>9455</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's acceleration is larger than Bob's</answer_text>
+            <response>yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21581">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Bob's acceleration is larger than Alice's</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21582">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's and Bob's accelerations are both zero</answer_text>
+            <response>No, they are travelling in a circle, so their velocities are changing direction.  Thus, they are accelerating since their velocities are changing.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21583">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's and Bob's accelerations are equal, but nonzero</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21584">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need more information</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9447">
+        <prevpageid>9449</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530197293</timecreated>
+        <timemodified>1631050883</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------After Lecture 3-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 4 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-3".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Can a velocity be negative?  Can the x-component of a velocity be negative?  If either or both can be negative then describe the circumstances under which they would be negative.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;------------After Lecture 4-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lectures 1.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 1, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 1 write a heading saying "End of Lesson".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. An object moving  in uniform circular motion is (by definition) moving  at a constant &lt;strong&gt;speed&lt;/strong&gt;.  Does this mean that its acceleration is zero?  Explain.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21590">
+            <jumpto>9435</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530197293</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9443">
+        <prevpageid>9450</prevpageid>
+        <nextpageid>9445</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21549">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9452">
+        <prevpageid>9451</prevpageid>
+        <nextpageid>9450</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1467680810</timemodified>
+        <title>End of cluster 4-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21551">
+            <jumpto>9435</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1467680810</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9450">
+        <prevpageid>9452</prevpageid>
+        <nextpageid>9443</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1498939713</timemodified>
+        <title>Online Lecture 4-3: Solving Projectile Motion Problems</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=phB8hHNDlGY&amp;amp;list=PLhdf1WEdn-4Oq8tRaI8BXYtbKNtiNzYKg&amp;amp;index=4"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 3.7 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21547">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9456">
+        <prevpageid>9453</prevpageid>
+        <nextpageid>9444</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1467680826</timemodified>
+        <title>End of cluster 4-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21552">
+            <jumpto>9435</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1467680826</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9455">
+        <prevpageid>9454</prevpageid>
+        <nextpageid>9449</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546526</timecreated>
+        <timemodified>1467681398</timemodified>
+        <title>End of cluster 4-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21554">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546526</timecreated>
+            <timemodified>1467681398</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9449">
+        <prevpageid>9455</prevpageid>
+        <nextpageid>9447</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1467681384</timecreated>
+        <timemodified>1631050886</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 1.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 1, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 1 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. An object moving  in uniform circular motion is (by definition) moving  at a constant &lt;strong&gt;speed&lt;/strong&gt;.  Does this mean that its acceleration is zero?  Explain.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21556">
+            <jumpto>9435</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681384</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9444">
+        <prevpageid>9456</prevpageid>
+        <nextpageid>9446</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1498939751</timemodified>
+        <title>Online Lecture 4-4: Uniform Circular Motion</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=z9KrPCMFP64&amp;amp;list=PLhdf1WEdn-4Oq8tRaI8BXYtbKNtiNzYKg&amp;amp;index=5"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 3.8 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21548">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

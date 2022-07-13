@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="644" moduleid="147139" modulename="lesson" contextid="220621">
+  <lesson id="644">
+    <course>3115</course>
+    <name>Lesson 7: Uniform Circular Motion</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>7</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>3</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>1640187600</deadline>
+    <timemodified>1635351698</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="9518">
+        <prevpageid>0</prevpageid>
+        <nextpageid>9519</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1530219346</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You don't have to finish the lesson all in one sitting.  You can also retry it if you are not satisfied with how you did.  Here is a "map" of the lesson.  I am including this so that you can check whether you have completed all parts.  Note in particular that for some reason the moodle lessons sometimes skip the reflective writing items (I haven't figured out why), so this map helps you figure out where those should be:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_circular_motion.png" width="600" height="528" alt="lesson map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21754">
+            <jumpto>9519</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-1: Extending Some Kinematics Concepts</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21755">
+            <jumpto>9524</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-2: Forces in Uniform Circular Motion</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21756">
+            <jumpto>9527</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-3: Fictitious Forces</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21757">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21794">
+            <jumpto>9531</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9519">
+        <prevpageid>9518</prevpageid>
+        <nextpageid>9520</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1498943035</timemodified>
+        <title>Online Lecture 7-1: Reviewing and Extending Kinematics of Uniform Circular Motion</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=V0FnmLxgTZI"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 6.1 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21751">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9520">
+        <prevpageid>9519</prevpageid>
+        <nextpageid>9521</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462908568</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21753">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462908568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9521">
+        <prevpageid>9520</prevpageid>
+        <nextpageid>9522</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469463047</timecreated>
+        <timemodified>1536458348</timemodified>
+        <title>period vs. speed</title>
+        <contents>&lt;p&gt;Amy runs around a circular track with a period of 120 s. Meanwhile Brian runs around the same track with a period of 150 s. Which runner is running faster?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21765">
+            <jumpto>9523</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Amy</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21766">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Brian</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21767">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the track’s radius to be able to answer this.</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.  We don't need to know the radius of the track to conclude who was running faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21768">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't determine this from their periods.</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.  If all we want to know is who ran faster then their periods are enough to determine this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9522">
+        <prevpageid>9521</prevpageid>
+        <nextpageid>9523</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469463873</timecreated>
+        <timemodified>1536458153</timemodified>
+        <title>ants on turntable (speed)</title>
+        <contents>&lt;p&gt;Two ants are standing still on a turntable (in case you don't know, a turntable is an ancient device used to play "records" which were an audio recording format used in antiquity). The turntable is turning. Ant A is 1.0 cm from the center of the turntable. Ant B is 5.0 cm from the center of the turntable. Which ant has the greater speed?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21770">
+            <jumpto>9523</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ant B</answer_text>
+            <response>Yes.  Both ants complete a "trip around the circle" in the same amount of time.  Ant B travels further in that time so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21771">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ant A</answer_text>
+            <response>No.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  Ant B travels further in that time because it is going around a larger circle, so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21772">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The ants are moving at the same speed.</answer_text>
+            <response>No.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  So their *periods* are the same.  But the question asked about speed, not period.  Ant B travels further in that time because it is going around a larger circle, so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21773">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Both ants are stationary (speed 0).</answer_text>
+            <response>Relative to the turntable they are stationary.  But if you were on a merry go round which was turning I doubt you would describe yourself as stationary.  We are talking about the ants' speeds relative to the ground, which is certainly not zero.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21774">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We don't have enough information.</answer_text>
+            <response>We do have enough information to conclude which ant travels further.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  Ant B travels further in that time because it is going around a larger circle, so it is going faster.  We can't *calculate* their speeds with the information given but we certainly know which is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9523">
+        <prevpageid>9522</prevpageid>
+        <nextpageid>9524</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462905142</timecreated>
+        <timemodified>1469463069</timemodified>
+        <title>End of cluster 7-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21752">
+            <jumpto>9518</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462905142</timecreated>
+            <timemodified>1469463069</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9524">
+        <prevpageid>9523</prevpageid>
+        <nextpageid>9525</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1498943101</timemodified>
+        <title>Online Lecture 7-2: Forces in Uniform Circular Motion</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=am4VdgkHzTw"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 6.2 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21758">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9525">
+        <prevpageid>9524</prevpageid>
+        <nextpageid>9526</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21761">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9526">
+        <prevpageid>9525</prevpageid>
+        <nextpageid>9533</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469479240</timecreated>
+        <timemodified>1536459013</timemodified>
+        <title>direction of net force on person in roller coaster</title>
+        <contents>&lt;p&gt;You are riding a roller coaster which has a loop. At the instant that you pass through the top of the loop which way is the net force on you?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21775">
+            <jumpto>9534</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down</answer_text>
+            <response>Yes, since down is towards the centre of the circle you are moving in.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21776">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>up</answer_text>
+            <response>No.  This is uniform circular motion (just like the car at the bottom of the valley in the lecture).  At the top of the loop the centre of the circle is below you.  So the net force is down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21777">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>forward (i.e. in the direction of your motion)</answer_text>
+            <response>No, you may have a persistent confusion between velocity and acceleration.  We have seen (draw the motion diagram) that in uniform circular motion the acceleration points toward the centre of the circle.  Newton's 2nd Law tells us that the net force acts in the same direction as the acceleration.  So the net force acts down since that is the direction to the centre of the circle.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21778">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>zero</answer_text>
+            <response>No.  Are you thinking that the speed is constant so the acceleration should be zero?  Acceleration is rate of change of velocity, and the direction of the velocity is changing.  So the acceleration is not zero and neither is the net force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9533">
+        <prevpageid>9526</prevpageid>
+        <nextpageid>9534</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469479770</timecreated>
+        <timemodified>1536459368</timemodified>
+        <title>Vertical circle</title>
+        <contents>&lt;p&gt;Think about the part of the video where I was swinging the water bottle around on the string.  Suppose I swing it in a vertical circle in front of me instead of a horizontal circle above my head.  As the bottle passes through the bottom of the circle which way is the net force on it?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21779">
+            <jumpto>9534</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>up</answer_text>
+            <response>Yes, up is the direction to the centre of the circle, so that is the direction of the net force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21780">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down</answer_text>
+            <response>No.  At the instant the bottle is passing through the bottom of the circle the direction to the centre of the circle is up.  So the net force would point up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21781">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Right, just as it was in the lecture</answer_text>
+            <response>No, at the instant the bottle is passing through the bottom of the circle the direction to the centre of the circle is up.  So the net force would point up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21782">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>In the direction of motion</answer_text>
+            <response>You may have a persistent misunderstanding leading you to think that the net force is always in the direction of motion.  Remember that Newton's 1st Law tells us that no force is needed to keep an object in motion.  A motion diagram would show you that the acceleration at this moment is up, and so the net force must also be up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21783">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>This is instantaneously uniform circular motion, just like the car in the lecture.  Since the speed isn't changing the acceleration is zero and so is the net force.</answer_text>
+            <response>Acceleration is not rate of change of speed.  It is rate of change of velocity.   A motion diagram would show you that the acceleration at this moment is up, and so the net force must also be up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9529">
+        <prevpageid>9527</prevpageid>
+        <nextpageid>9535</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21760">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9532">
+        <prevpageid>9528</prevpageid>
+        <nextpageid>9531</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1469463261</timecreated>
+        <timemodified>1631055894</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 2.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 2, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 2 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Consider this statement.  "Whenever an object moves in a circle at constant speed, one of the forces acting on the object must always point directly towards the centre of the circle."  Is this statement correct?  If it is correct then explain how we know.   If it is not correct then give a counterexample.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21769">
+            <jumpto>9518</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463261</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9535">
+        <prevpageid>9529</prevpageid>
+        <nextpageid>9536</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469544506</timecreated>
+        <timemodified>0</timemodified>
+        <title>FBD of child on merry-go-round</title>
+        <contents>&lt;p&gt;A child is sitting on a merry-go-round (not holding on) without falling off while the merry-go-round turns at a constant rate. Each of the following Which of the following is the most correct free body diagram for the child?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/FBDs_child_on_merry_go_round.png" alt="five FBDs" height="603" width="783" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21784">
+            <jumpto>9528</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21785">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  What is F&lt;sub&gt;c&lt;/sub&gt;?  What is exerting it.  There is a force acting in the direction indicated for F&lt;sub&gt;c&lt;/sub&gt;, but labelling it this way makes it totally unclear what kind of force it is.  Are you choosing A because you believe that every time something is moving in a circle there must be a force called the "centripetal force" which points to the centre?  This is one of the misconceptions caused by the use of the term "centrifugal force".  Recall that I will not use this term.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21786">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  First of all there is no net force accompanying that FBD.  Second of all, what kind of force is the one labelled "v^2/r"?  Labels of forces on free body diagrams should make it clear what kind of forces are there, not attempt to make statements about how they are calculated as those sorts of decisions are best made after you have finished writing down Newton's 2nd Law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21787">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  The net force points towards the centre in uniform circular motion.  Also, the net force points to the centre in uniform circular motion.  Oh, did I mention that the net force points to the centre in uniform circular motion?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21788">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>There is no force in the direction of motion.  The net force points towards the centre of the circle.  If there was a force called "F&lt;sub&gt;motion&lt;/sub&gt;", what would the agent of that force be?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9527">
+        <prevpageid>9530</prevpageid>
+        <nextpageid>9529</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1498943165</timemodified>
+        <title>Online Lecture 7-3: Force "Illusions", Fictitious Forces and More Tricks of Friction</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=rSc_bktpIxs"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in sections 6.2-6.3 in the text.  If you have the text you may want to supplement the lecture by reading/skimming these sections.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21759">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9531">
+        <prevpageid>9532</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530219313</timecreated>
+        <timemodified>1631055890</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------After Lecture 2-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 7 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-2".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. You may have noticed that if you are in a car that is going fast, and it goes over the crest of a  hill you might "feel light" for a moment, or more commonly you would notice an odd sensation in your stomach.  Using ideas from these videos, attempt to explain this observation.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;
+&lt;p&gt;------------After Lecture 3-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 2.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 2, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 2 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Consider this statement.  "Whenever an object moves in a circle at constant speed, one of the forces acting on the object must always point directly towards the centre of the circle."  Is this statement correct?  If it is correct then explain how we know.   If it is not correct then give a counterexample.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21793">
+            <jumpto>9518</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530219313</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9534">
+        <prevpageid>9533</prevpageid>
+        <nextpageid>9530</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1469463095</timemodified>
+        <title>End of cluster 7-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21762">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1469463095</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9530">
+        <prevpageid>9534</prevpageid>
+        <nextpageid>9527</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1469462459</timecreated>
+        <timemodified>1631055522</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 7 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-2".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. You may have noticed that if you are in a car that is going fast, and it goes over the crest of a  hill you might "feel light" for a moment, or more commonly you would notice an odd sensation in your stomach.  Using ideas from these videos, attempt to explain this observation.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21764">
+            <jumpto>9518</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469462459</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9536">
+        <prevpageid>9535</prevpageid>
+        <nextpageid>9528</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469546850</timecreated>
+        <timemodified>0</timemodified>
+        <title>car on banked curve</title>
+        <contents>&lt;p&gt;In the lecture we looked at a car going around a curve.  The car is going at constant speed.  Curves on many highways are banked.  Below is a diagram showing a car on a banked curve, seen from above and from behind.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_banked_curve_and_top_view.png" alt="car on banked curve" height="517" width="649" /&gt;&lt;/p&gt;
+&lt;p&gt;Which of the following is the most correct free body diagram for this car.  All of these free body diagrams are drawn from the same perspective as the back view of the car in the diagram above.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_on_banked_curve_several_FBDs.png" alt="car banked curve, several FBDs" height="640" width="596" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21789">
+            <jumpto>9528</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes, thinking about agents and about the direction of the net force makes this the only one of the options which could be correct.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21790">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  Did you choose this one because you think that if the speed is constant then the acceleration should be zero?  Acceleration is rate of change of velocity, not rate of change of speed.  There is a force on this diagram labelled "F&lt;sub&gt;c&lt;/sub&gt;".  What would be the agent of this force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21791">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  Did you choose this one because you think that in circular motion there must always be a "centripetal force", labelled "F&lt;sub&gt;c&lt;/sub&gt;" pointing to the centre?  This is one of the misconceptions caused by the use of the term, centripetal force.  What would be the agent of this force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21792">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  Did you choose this one because you think that in circular motion there must always be a "centripetal force", labelled "F&lt;sub&gt;c&lt;/sub&gt;" pointing to the centre?  This is one of the misconceptions caused by the use of the term, centripetal force.  What would be the agent of this force?  Also, the normal force in this diagram is not in the correct direction.  Remember that "normal" means "perpendicular".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9528">
+        <prevpageid>9536</prevpageid>
+        <nextpageid>9532</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1469502417</timemodified>
+        <title>End of cluster 7-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21763">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1469502417</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

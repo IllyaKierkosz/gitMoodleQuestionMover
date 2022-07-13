@@ -1,0 +1,587 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1462907103</timecreated>
+        <timemodified>1599568664</timemodified>
+        <title>Which equation is dimensionally correct?</title>
+        <contents>&lt;p&gt;Using the usual symbols (x for positions, v for velocities, a for accelerations, t for times) which equation below is dimensionally correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21302">
+            <jumpto>9348</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$a = \frac{{v_f}^2}{2\Delta x}$$</answer_text>
+            <response>Yes.  That gives (m/s)^2/m = m/s^2</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21303">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$a = \frac{{v_f}^2}{2\Delta t}$$</answer_text>
+            <response>No.  That gives a right hand side of m^2/s^3 which is not correct units for an acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21304">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$a = \frac{v_f}{2\Delta t^2}$$</answer_text>
+            <response>No.  The right side of the equation has units of m/s^3 which are not correct units for an acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21305">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$a = \frac{{v_f}^2}{2\Delta x^2}$$</answer_text>
+            <response>No.  The right side of the equation has units of 1/s^2 which is not correct units for an acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21328">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$a = 2 {v_f}^2 \Delta x$$</answer_text>
+            <response>No.  The right side of the equation has units of m^3/s^2, which is not correct for an acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463598609</timecreated>
+        <timemodified>1599568869</timemodified>
+        <title>Units for pressure</title>
+        <contents>&lt;p&gt;This question is just about unit analysis, so don't worry that some of the quantities we are using are unfamiliar.&lt;/p&gt;
+&lt;p&gt;You will encounter pressure in other courses, especially if you are in certain of the technology programs where you will take some fluids courses.  Here is one equation which gives a pressure (this is pressure within a stationary fluid)&lt;/p&gt;
+&lt;p&gt;$$\Delta P = \rho g h $$&lt;/p&gt;
+&lt;p&gt;where ΔP is a pressure change, ρ is a density (in kg/m&lt;sup&gt;3&lt;/sup&gt;), g is an acceleration and h is a height (distance).  From this, determine the correct units of pressure in terms of base SI units.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21307">
+            <jumpto>9348</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{kg}{m \cdot s^2}$$</answer_text>
+            <response>Yes.  We have
+$$\frac{kg}{m^3} \frac{m}{s^2} s = \frac{kg}{m \cdot s^2$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21308">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$Pa$$</answer_text>
+            <response>Yes, but that isn't in terms of base SI units.  I suspect you either just knew that pressures are measured in Pa, or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21309">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{N}{m^2}$$</answer_text>
+            <response>Yes, but that isn't in terms of base SI units.  I suspect you either just knew that pressures are measured in N/m&lt;sup&gt;2&lt;/sup&gt;, or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21310">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$psi$$</answer_text>
+            <response>Yuck!  That isn't even metric.  We are in an advanced nation that uses SI, not a primitive backwater (like a certain neighbour to the south) which still clings to antiquated units.  Anyway, you couldn't have got that from the information given, so either you just knew that psi are a unit of pressure or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21315">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{kg \cdot m}{s^2}$$</answer_text>
+            <response>No.  Those are units of a force.  Did you incorrectly cancel some of the meters?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21351">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;$$\frac{kg}{s^2}$$&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No, check again. Acceleration is in m/s&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463599267</timecreated>
+        <timemodified>1498655633</timemodified>
+        <title>which equation is dimensionally correct?  get t</title>
+        <contents>&lt;p&gt;Working with standard symbols (x for positions, v for velocities, a for accelerations, t for times) which of the following equations is dimensionally correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21311">
+            <jumpto>9348</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$t = \sqrt{\frac{2 \Delta x}{a}}$$</answer_text>
+            <response>Yes.  We get m/(m/s^2) = s^2 under the square root sign, which gives s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21312">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$t = \frac{2 \Delta x}{a}$$</answer_text>
+            <response>No.  The right side of that equation has units of s^2, but we want it to have units of s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21313">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$t = \sqrt{\frac{\Delta v}{a}}$$</answer_text>
+            <response>No.  The right, side of this equation has units of 
+$$\sqrt{s}$$
+but we want it to have units of s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21314">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$t = \frac{\Delta v}{x}$$</answer_text>
+            <response>No.  The right side of that equation has units of s^-1, but we want it to have units of s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466626274</timecreated>
+        <timemodified>1467116177</timemodified>
+        <title>Add numbers with sig. fig. rules. 1</title>
+        <contents>&lt;p&gt;Which of the answers below to the addition&lt;/p&gt;
+&lt;p&gt;1.234 m + 0.0179 m&lt;/p&gt;
+&lt;p&gt;is written using correct significant figures?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21329">
+            <jumpto>9352</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466626274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;1.252 m&lt;/p&gt;</answer_text>
+            <response>Yes.  1.234 has 3 digits after the decimal and 0.0179 has 4.  In this case the sig. fig. rule for addition says we round to 3 digits after the decimal.</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21330">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466626274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1.2519 m</answer_text>
+            <response>No.  We don't know the 4th digit after the decimal place for 1.234 m.  So we don't know the 4th digit after the decimal place for the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21331">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466626274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1.25 m</answer_text>
+            <response>Have you mixed the rule up with the rule for multiplication?  You have rounded to the number of sig. figs. of the number with fewer sig. figs.  But the addition rule has to do with digits after the decimal place, not sig. figs.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21332">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466626274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1.3 m</answer_text>
+            <response>No.  Why have you rounded to just 2 significant figures?  This isn't what any of the sig. fig. rules say to do.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21333">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466626274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1.2520 m</answer_text>
+            <response>No.  We don't know the 4th digit after the decimal place of 1.234 m.  So we don't know the 4th digit after the decimal place in the answer.  We would only write the answer you chose if we knew that the 4th digit after the decimal place was a zero.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466627853</timecreated>
+        <timemodified>0</timemodified>
+        <title>add numbers with sig. fig. rule 2</title>
+        <contents>&lt;p&gt;Which of the answers below to the addition&lt;/p&gt;
+&lt;p&gt;142.16 kg + 3.743 kg&lt;/p&gt;
+&lt;p&gt;is written with the correct number of significant figures?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21334">
+            <jumpto>9352</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466627853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>145.90 kg</answer_text>
+            <response>Yes.  142.16 has two digits after the decimal whereas 3.743 has three digits after the decimal.  So in this case the sig. fig. rule for addition says we should round the answer to two digits after the decimal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21335">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466627853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>145.903 kg</answer_text>
+            <response>No.  We don't know the 3rd digit after the decimal place in 142.16 kg, so we can't know the 3rd digit after the decimal in the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21336">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466627853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>145.9 kg</answer_text>
+            <response>No.  It is likely that either you are dropping the final "0" because you've been taught you "always can" or you are mixed up with the sig. fig. rule for multiplication.  But in writing measurements we write all digits that we know, even if they are zero.  The sig. fig. rule for addition tells us that we do know the 2nd digit after the decimal place, so we should write it, even though it is zero.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21337">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466627853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>146 kg</answer_text>
+            <response>Why are you rounding to only three digits?  This isn't consistent with any of the rules for sig. figs.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21338">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466627853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>145.900 kg</answer_text>
+            <response>No.  We don't know the 3rd digit after the decimal place in 142.16 kg, so we can't know the 3rd digit after the decimal in the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466648064</timecreated>
+        <timemodified>1466649171</timemodified>
+        <title>Write measurement with correct sig. figs.</title>
+        <contents>&lt;p&gt;We have made 16 measurements of the acceleration due to gravity (g).  The mean of our measurements is 9.761734 m/s&lt;sup&gt;2&lt;/sup&gt;.  The standard deviation of the measurements is 0.1843295 m/s&lt;sup&gt;2&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Which of the following is the correct way to write our final experimental value for g?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21341">
+            <jumpto>9361</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466648064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$9.76 \pm 0.05 \, \textrm{m/s}^2$$</answer_text>
+            <response>Yes, you've correctly used the SDOM as the uncertainty and you have rounded correctly.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21342">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$9.761734 \pm 0.1843295 \, \textrm{m/s}^2$$</answer_text>
+            <response>There are two problems with this answer.  One is that you've used the standard deviation as the uncertainty in the mean.  But you should use the SDOM (it wasn't given but you can easily calculate it).  The second problem is that you are not correctly applying the significant figures rules.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21343">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$9.8 \pm 0.2\, \textrm{m/s}^2$$</answer_text>
+            <response>You are rounding correctly.  But you have used the standard deviation as the uncertainty when you should be using the SDOM.  The SDOM wasn't given but you can easily calculate it.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21344">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$9.761734 \pm 0.0460823 \, \textrm{m/s}^2$$</answer_text>
+            <response>You have (correctly) used the SDOM as the uncertainty.  But you haven't applied the rules for significant figures correctly.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466648961</timecreated>
+        <timemodified>1466649023</timemodified>
+        <title>Write measurement with correct sig. figs. 2</title>
+        <contents>&lt;p&gt;We are doing an experiment in which a metal ball is shot out of a launcher and later collides with a pendulum (this is called a "ballistic pendulum experiment").  We have measured the speed of the ball leaving the launcher 9 times and have found a mean speed of 6.8137104 m/s with a standard deviation of 0.590137 m/s.&lt;/p&gt;
+&lt;p&gt;Which of the following is the correct way to write the experimentally determined speed of the ball as it leaves the launcher?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21345">
+            <jumpto>9361</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466648961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$6.8 \pm 0.2 \, \textrm{m/s}$$</answer_text>
+            <response>Yes.  You have used the SDOM as the uncertainty and you have rounded correctly.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21346">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$6.8137104 \pm 0.590137 \, \textrm{m/s}$$</answer_text>
+            <response>There are two problems with this answer.  One is that you've used the standard deviation as the uncertainty in the mean.  But you should use the SDOM (it wasn't given but you can easily calculate it).  The second problem is that you are not correctly applying the significant figures rules.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21347">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$6.8 \pm 0.6 \, \textrm{m/s}$$</answer_text>
+            <response>You are rounding correctly.  But you have used the standard deviation as the uncertainty when you should be using the SDOM.  The SDOM wasn't given but you can easily calculate it.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21348">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466648961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$6.8137104 \pm 0.1967123 \, \textrm{m/s}$$</answer_text>
+            <response>You have (correctly) used the SDOM as the uncertainty.  But you haven't applied the rules for significant figures correctly.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

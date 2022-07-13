@@ -1,0 +1,478 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469463047</timecreated>
+        <timemodified>1536458348</timemodified>
+        <title>period vs. speed</title>
+        <contents>&lt;p&gt;Amy runs around a circular track with a period of 120 s. Meanwhile Brian runs around the same track with a period of 150 s. Which runner is running faster?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21765">
+            <jumpto>9523</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Amy</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21766">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Brian</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21767">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the track’s radius to be able to answer this.</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.  We don't need to know the radius of the track to conclude who was running faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21768">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't determine this from their periods.</answer_text>
+            <response>Please use common sense.  In a race the person who completes the race in less time must have run faster.  Amy took less time to go around the circle so she must have been running faster.  The *equation*, \( v = 2\pi r/T\) is nothing more than an expression of this common sense notion.  If all we want to know is who ran faster then their periods are enough to determine this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469463873</timecreated>
+        <timemodified>1536458153</timemodified>
+        <title>ants on turntable (speed)</title>
+        <contents>&lt;p&gt;Two ants are standing still on a turntable (in case you don't know, a turntable is an ancient device used to play "records" which were an audio recording format used in antiquity). The turntable is turning. Ant A is 1.0 cm from the center of the turntable. Ant B is 5.0 cm from the center of the turntable. Which ant has the greater speed?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21770">
+            <jumpto>9523</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ant B</answer_text>
+            <response>Yes.  Both ants complete a "trip around the circle" in the same amount of time.  Ant B travels further in that time so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21771">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ant A</answer_text>
+            <response>No.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  Ant B travels further in that time because it is going around a larger circle, so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21772">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The ants are moving at the same speed.</answer_text>
+            <response>No.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  So their *periods* are the same.  But the question asked about speed, not period.  Ant B travels further in that time because it is going around a larger circle, so it is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21773">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Both ants are stationary (speed 0).</answer_text>
+            <response>Relative to the turntable they are stationary.  But if you were on a merry go round which was turning I doubt you would describe yourself as stationary.  We are talking about the ants' speeds relative to the ground, which is certainly not zero.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21774">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469463873</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We don't have enough information.</answer_text>
+            <response>We do have enough information to conclude which ant travels further.  Both ants complete a "trip around the circle" in the same amount of time (the same amount of time it takes for the turntable to go around once).  Ant B travels further in that time because it is going around a larger circle, so it is going faster.  We can't *calculate* their speeds with the information given but we certainly know which is going faster.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469479240</timecreated>
+        <timemodified>1536459013</timemodified>
+        <title>direction of net force on person in roller coaster</title>
+        <contents>&lt;p&gt;You are riding a roller coaster which has a loop. At the instant that you pass through the top of the loop which way is the net force on you?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21775">
+            <jumpto>9534</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down</answer_text>
+            <response>Yes, since down is towards the centre of the circle you are moving in.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21776">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>up</answer_text>
+            <response>No.  This is uniform circular motion (just like the car at the bottom of the valley in the lecture).  At the top of the loop the centre of the circle is below you.  So the net force is down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21777">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>forward (i.e. in the direction of your motion)</answer_text>
+            <response>No, you may have a persistent confusion between velocity and acceleration.  We have seen (draw the motion diagram) that in uniform circular motion the acceleration points toward the centre of the circle.  Newton's 2nd Law tells us that the net force acts in the same direction as the acceleration.  So the net force acts down since that is the direction to the centre of the circle.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21778">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>zero</answer_text>
+            <response>No.  Are you thinking that the speed is constant so the acceleration should be zero?  Acceleration is rate of change of velocity, and the direction of the velocity is changing.  So the acceleration is not zero and neither is the net force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469479770</timecreated>
+        <timemodified>1536459368</timemodified>
+        <title>Vertical circle</title>
+        <contents>&lt;p&gt;Think about the part of the video where I was swinging the water bottle around on the string.  Suppose I swing it in a vertical circle in front of me instead of a horizontal circle above my head.  As the bottle passes through the bottom of the circle which way is the net force on it?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21779">
+            <jumpto>9534</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>up</answer_text>
+            <response>Yes, up is the direction to the centre of the circle, so that is the direction of the net force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21780">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down</answer_text>
+            <response>No.  At the instant the bottle is passing through the bottom of the circle the direction to the centre of the circle is up.  So the net force would point up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21781">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Right, just as it was in the lecture</answer_text>
+            <response>No, at the instant the bottle is passing through the bottom of the circle the direction to the centre of the circle is up.  So the net force would point up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21782">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>In the direction of motion</answer_text>
+            <response>You may have a persistent misunderstanding leading you to think that the net force is always in the direction of motion.  Remember that Newton's 1st Law tells us that no force is needed to keep an object in motion.  A motion diagram would show you that the acceleration at this moment is up, and so the net force must also be up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21783">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469479770</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>This is instantaneously uniform circular motion, just like the car in the lecture.  Since the speed isn't changing the acceleration is zero and so is the net force.</answer_text>
+            <response>Acceleration is not rate of change of speed.  It is rate of change of velocity.   A motion diagram would show you that the acceleration at this moment is up, and so the net force must also be up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469544506</timecreated>
+        <timemodified>0</timemodified>
+        <title>FBD of child on merry-go-round</title>
+        <contents>&lt;p&gt;A child is sitting on a merry-go-round (not holding on) without falling off while the merry-go-round turns at a constant rate. Each of the following Which of the following is the most correct free body diagram for the child?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/FBDs_child_on_merry_go_round.png" alt="five FBDs" height="603" width="783" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21784">
+            <jumpto>9528</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21785">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  What is F&lt;sub&gt;c&lt;/sub&gt;?  What is exerting it.  There is a force acting in the direction indicated for F&lt;sub&gt;c&lt;/sub&gt;, but labelling it this way makes it totally unclear what kind of force it is.  Are you choosing A because you believe that every time something is moving in a circle there must be a force called the "centripetal force" which points to the centre?  This is one of the misconceptions caused by the use of the term "centrifugal force".  Recall that I will not use this term.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21786">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  First of all there is no net force accompanying that FBD.  Second of all, what kind of force is the one labelled "v^2/r"?  Labels of forces on free body diagrams should make it clear what kind of forces are there, not attempt to make statements about how they are calculated as those sorts of decisions are best made after you have finished writing down Newton's 2nd Law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21787">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  The net force points towards the centre in uniform circular motion.  Also, the net force points to the centre in uniform circular motion.  Oh, did I mention that the net force points to the centre in uniform circular motion?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21788">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469544506</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>There is no force in the direction of motion.  The net force points towards the centre of the circle.  If there was a force called "F&lt;sub&gt;motion&lt;/sub&gt;", what would the agent of that force be?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1469546850</timecreated>
+        <timemodified>0</timemodified>
+        <title>car on banked curve</title>
+        <contents>&lt;p&gt;In the lecture we looked at a car going around a curve.  The car is going at constant speed.  Curves on many highways are banked.  Below is a diagram showing a car on a banked curve, seen from above and from behind.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_banked_curve_and_top_view.png" alt="car on banked curve" height="517" width="649" /&gt;&lt;/p&gt;
+&lt;p&gt;Which of the following is the most correct free body diagram for this car.  All of these free body diagrams are drawn from the same perspective as the back view of the car in the diagram above.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_on_banked_curve_several_FBDs.png" alt="car banked curve, several FBDs" height="640" width="596" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21789">
+            <jumpto>9528</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes, thinking about agents and about the direction of the net force makes this the only one of the options which could be correct.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21790">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  Did you choose this one because you think that if the speed is constant then the acceleration should be zero?  Acceleration is rate of change of velocity, not rate of change of speed.  There is a force on this diagram labelled "F&lt;sub&gt;c&lt;/sub&gt;".  What would be the agent of this force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21791">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  Did you choose this one because you think that in circular motion there must always be a "centripetal force", labelled "F&lt;sub&gt;c&lt;/sub&gt;" pointing to the centre?  This is one of the misconceptions caused by the use of the term, centripetal force.  What would be the agent of this force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21792">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1469546850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  Did you choose this one because you think that in circular motion there must always be a "centripetal force", labelled "F&lt;sub&gt;c&lt;/sub&gt;" pointing to the centre?  This is one of the misconceptions caused by the use of the term, centripetal force.  What would be the agent of this force?  Also, the normal force in this diagram is not in the correct direction.  Remember that "normal" means "perpendicular".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

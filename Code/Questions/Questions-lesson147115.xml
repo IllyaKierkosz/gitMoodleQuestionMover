@@ -1,0 +1,1438 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1462907103</timecreated>
+        <timemodified>1466799293</timemodified>
+        <title>Motion diagram - turning around</title>
+        <contents>&lt;p&gt;Here is a motion diagram:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MD_slow_stop_reverse_speed_no_accel.png" alt="a motion diagram" height="120" width="397" /&gt;&lt;/p&gt;
+&lt;p&gt;Which of the descriptions below best describes the motion shown in this diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21357">
+            <jumpto>9376</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the left while slowing down.  It stops, then moves to the right while speeding up.  The label "same point" on the duplicates of point 5 indicate that the two parts of the motion are really along the same line, not displaced from each other as shown.</answer_text>
+            <response>Yes, it stops at point 5.  </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21358">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the left.  Then it moves slightly down.  Then it moves back to the right.</answer_text>
+            <response>No.  Notice the "same point" label on the duplicates of point 5.  This means that the points after point 5 have been slightly displaced so that they don't fall on top of the points before point 5.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21359">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Two objects are moving.  One is going left while slowing down.  The other is moving right while speeding up.</answer_text>
+            <response>No, this is a motion diagram for a single object.  Notice the "same point" label on the duplicates of point 5.  This means that the points after point 5 have been slightly displaced so that they don't fall on top of the points before point 5.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21360">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves left, then it moves to the right.</answer_text>
+            <response>Yes, but you need to give more detail.  Simply saying the direction of a motion is never sufficient.  A complete description of a motion always includes information about how the velocity is changing.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21364">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462907103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the left speeding up.  Then it moves to the right speeding up.</answer_text>
+            <response>No, it is not speeding up as it moves to the left.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463598609</timecreated>
+        <timemodified>1463600898</timemodified>
+        <title>Ball thrown upwards</title>
+        <contents>&lt;p&gt;Here is a motion diagram: &lt;img src="@@PLUGINFILE@@/MD_vertical_slow_stop_reverse_speed_no_accel.png" alt="a motion diagram" width="104" height="289" /&gt; Which of the descriptions below best describes the motion shown in this diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21365">
+            <jumpto>9383</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves upward while slowing down.  Then it moves down while speeding up.</answer_text>
+            <response>Yes.  The direction of motion reverses at time 4.  This motion is very much like a real object that is thrown straight upward.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21366">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves up, then it moves down.</answer_text>
+            <response>Yes, but it isn't sufficient to just give the direction of motion.  You also need to describe how the speed changes during the motion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21367">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves up.  Then it moves slightly left.  Then it moves down.</answer_text>
+            <response>No.  Notice the "same point" label on the duplicates of point 4.  This means that the points after point 4 have been slightly displaced so that they don't fall on top of the points before point 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21368">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Two objects are moving.  One is going up while slowing down.  The other is moving down while speeding up.</answer_text>
+            <response>No, this is a motion diagram for a single object.  Notice the "same point" label on the duplicates of point 4.  This means that the points after point 4 have been slightly displaced so that they don't fall on top of the points before point 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21381">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463598609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves upward while speeding up.  Then it moves down while speeding up.</answer_text>
+            <response>No.  It is not speeding up when it is moving upward.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463599267</timecreated>
+        <timemodified>1463600936</timemodified>
+        <title>Ball thrown downward (bounce)</title>
+        <contents>&lt;p&gt;Here is a motion diagram: &lt;img src="@@PLUGINFILE@@/MD_vertical_bounce_no_accel.png" alt="a motion diagram" width="106" height="299" /&gt; Which of the descriptions below best describes the motion shown in this diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21369">
+            <jumpto>9383</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves down while speeding up.  It reverses direction and then moves up while slowing down.</answer_text>
+            <response>Yes.  This is very much like the behaviour of a ball which is dropped and bounces off of the floor.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21370">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves down while slowing down.  It stops and then moves up while speeding up.</answer_text>
+            <response>You have the reversal of direction correct, but you haven't correctly seen when it speeding up and when it is slowing down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21371">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves down.  Then it moves slightly to the right.  Then it moves up.</answer_text>
+            <response>No.  Notice the "same point" label on the duplicates of point 4.  This means that the points after point 4 have been slightly displaced so that they don't fall on top of the points before point 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21372">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Two objects are moving.  One is going down while speeding up.  The other is moving up while slowing down.</answer_text>
+            <response>No, this is a motion diagram for a single object.  Notice the "same point" label on the duplicates of point 4.  This means that the points after point 4 have been slightly displaced so that they don't fall on top of the points before point 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21373">
+            <jumpto>9367</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463599267</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Two objects are moving.  One is going down while slowing down.  The other is moving up while speeding up.</answer_text>
+            <response>No, this is a motion diagram for a single object.  Notice the "same point" label on the duplicates of point 4.  This means that the points after point 4 have been slightly displaced so that they don't fall on top of the points before point 4.  Also, you haven't correctly seen when it is speeding up or slowing down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466798258</timecreated>
+        <timemodified>1466811589</timemodified>
+        <title>get displacement - 1</title>
+        <contents>&lt;p&gt;Olaf the snowman is running down the hill towards a fire which he is curious about.  He starts 4 m uphill from the fire.  He then trickles down the hill a further 6 m before stopping.  Someone has conveniently left a set of axes lying around as shown in the diagram.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/olaf_fire_puddle.png" alt="picture showing fire at origin and positive x-axis pointing uphill" height="338" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;What is Olaf's displacement from his starting point to the place where he stops?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21413">
+            <jumpto>9380</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466798258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-10 m</answer_text>
+            <response>Yup.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21414">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466798258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>10 m</answer_text>
+            <response>The axes set a sign convention which you haven't used.  Or recall that a displacement is
+
+$$\Delta x = x_f - x_i$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21415">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466798258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-6 m</answer_text>
+            <response>No, that's his final position, which is different from his displacement.  Remember that displacement is
+
+$$\Delta x = x_f - x_i$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21416">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466798258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>6 m</answer_text>
+            <response>No, that's his distance from the origin at the end of his motion.  First of all, pay attention to the sign convention that the definition of the axes defines.  Secondly remember that displacement is
+
+$$\Delta x = x_f - x_i$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21417">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466798258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't calculate his displacement.  We need to know what angle the hillside makes with the horizontal.</answer_text>
+            <response>No.  Did you watch the video lecture?  There is an example in it which is also on a hillside and angles never came up.  We have defined an x-axis along the slope of the hill, and Olaf moves entirely along this axis.  So we don't have to worry about angles.  We'll deal with things like that once we are working in two dimensions.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463601648</timecreated>
+        <timemodified>0</timemodified>
+        <title>Const. speed then speed up</title>
+        <contents>&lt;p&gt;Here is a motion diagram:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MD_const_speed_then_speed_up_no_accel.png" alt="a motion diagram" width="551" height="73" /&gt;&lt;/p&gt;
+&lt;p&gt;Which description below is the best match for this motion diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21383">
+            <jumpto>9375</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463601648</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the right.  It goes at a constant speed for a while, then speeds up.</answer_text>
+            <response>Yes.  It appears to start speeding up sometime just after time 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21384">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463601648</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the right, speeding up.</answer_text>
+            <response>Almost, but it isn't speeding up for the whole time.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21385">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463601648</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the right at constant speed.</answer_text>
+            <response>Almost, but it isn't going at a constant speed for the whole time.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21386">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463601648</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the right and accelerates to the right.</answer_text>
+            <response>It isn't accelerating for the whole time.  Also, for now it is best to just talk about how the speed changes (speeding up/slowing down) instead of trying to talk about the direction of the acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21387">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463601648</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves to the right.  It slows down for a while, then speeds up.</answer_text>
+            <response>No, this object is not slowing down at any time.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1463600532</timecreated>
+        <timemodified>0</timemodified>
+        <title>Motion diagram - speed up then slow down</title>
+        <contents>&lt;p&gt;Here is a motion diagram:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MD_diagonal_speed_up_then_slow_down_no_accel.png" alt="a motion diagram" width="239" height="255" /&gt;&lt;/p&gt;
+&lt;p&gt;Which description below is the best match for this motion diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21376">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1463600532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves diagonally up and to the right.  It speeds up for a while and then slows down for a while.</answer_text>
+            <response>Yes.  Maximum speed seems to be sometime between time 3 and time 4.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21377">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463600532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>An object moves diagonally up and to the right.</answer_text>
+            <response>Yes, but it is not sufficient to just say what direction the object moves in.  You also need to describe how its speed changes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21378">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463600532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves in the positive direction.  It is accelerating in the positive direction.</answer_text>
+            <response>No. First of all, the object is not accelerating in the same direction for the whole time shown. Secondly, we haven't defined "positive" and "negative". As much as possible work with intuitive descriptions of directions (up/down/left/right/north/etc.). You do need to be able to turn these into mathematical descriptions such as positive and negative, but don't do this before you have to.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21379">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463600532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves diagonally up and to the right while slowing down.</answer_text>
+            <response>Almost, but the object is not slowing down for the whole time shown.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21380">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463600532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves diagonally up and to the right while speeding up.</answer_text>
+            <response>Almost, but the object is not speeding up for the whole time shown.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466808199</timecreated>
+        <timemodified>1466811636</timemodified>
+        <title>find displacement - 2</title>
+        <contents>&lt;p&gt;A ball starts 4 m below a hoop as shown.  Someone has very conveniently left a big bold set of axes taped to the hoop (the origin is at the hoop.  The ball is thrown up through the hoop.  It rises to 2 m above the hoop and then falls back down.  On its way back through the hoop it gets stuck so that it remains in the hoop.  What is the displacement (from the time it is thrown until it gets stuck) of the ball?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/ball_thrown_up_through_hoop.png" alt="ball thrown up through hoop, origin at hoop, up is positive" height="395" width="204" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21441">
+            <jumpto>9380</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466808199</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>4 m</answer_text>
+            <response>Yes, it is just 
+
+$$\Delta y = y_f - y_i$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21442">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466808199</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>8 m</answer_text>
+            <response>No.  That is the distance that the ball has travelled.  Distance travelled is quite different from displacement.  Watch the last few minutes of the lecture again if you don't understand the distinction.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21443">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466808199</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0</answer_text>
+            <response>No, that is its final position.  Displacement is the change in position.  It is only zero for an object that finishes in the same place that it started.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21444">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466808199</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-4 m</answer_text>
+            <response>Oops!  Did you do initial - final instead of final - initial?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21445">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466808199</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>6 m</answer_text>
+            <response>No, that is the maximum displacement that the ball reaches, not its displacement from start to finish.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 8:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466801118</timecreated>
+        <timemodified>1466811688</timemodified>
+        <title>get velocity from graph</title>
+        <contents>&lt;p&gt;Below is the position vs. time graph for some object.  What is the velocity of this object at t = 4 s?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_constv_with_axes.png" alt="x vs t graph, intercept 1, slope 2" height="442" width="464" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21418">
+            <jumpto>9385</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466801118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0.5 m/s</answer_text>
+            <response>Yes, it is just the slope of the line.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21419">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0.75 m/s</answer_text>
+            <response>No.  You used v=x/t instead of
+$$v = \frac{\Delta x}{\Delta t}</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21420">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1 m/s</answer_text>
+            <response>Oops!  I think you missed that the t-axis was scaled so each "tick" was an increment of 2 s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21421">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>2 m/s</answer_text>
+            <response>I think you either misread the graph or tried to find the slope with run/rise instead of rise/run.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21422">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>3 m/s</answer_text>
+            <response>No.  At t = 4 s the *position* is 3 m.  This isn't a v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 9:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1462906682</timecreated>
+        <timemodified>1466799366</timemodified>
+        <title>Motion diagram - going up</title>
+        <contents>&lt;p&gt;Here is a motion diagram:      &lt;img src="@@PLUGINFILE@@/MD_go_up_const_v_then_slow_to_stop_no_accel.png" alt="a motion diagram" height="500" width="64" /&gt;            Which description below is the best match for this motion diagram?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21353">
+            <jumpto>9376</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1462906682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves up at constant speed for a while, then slows down and stops.</answer_text>
+            <response>Yes, it looks like it is going at constant speed up until point 4, then it slows down after that.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21354">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462906682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves in the positive direction, accelerating in the negative direction.</answer_text>
+            <response>No.  First of all, the object is not accelerating for the whole time shown.  Secondly, we haven't defined "positive" and "negative".  As much as possible work with intuitive descriptions of directions (up/down/left/right/north/etc.).  You do need to be able to turn these into mathematical descriptions such as positive and negative, but don't do this before you have to.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21355">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462906682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves up, accelerating down.</answer_text>
+            <response>Almost, but the object is not accelerating for the whole time shown.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21356">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462906682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves upward while slowing down.</answer_text>
+            <response>Almost, but it its not slowing down during the whole time shown.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21382">
+            <jumpto>9373</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462906682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object moves upward while accelerating upward.</answer_text>
+            <response>No.  For now it is best to just describe whether the object is speeding up or slowing down rather than trying to decide on the direction of the acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 10:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466801619</timecreated>
+        <timemodified>1466811731</timemodified>
+        <title>get velocity from graph - 1</title>
+        <contents>&lt;p&gt;Below is the position vs. time graph for some object.  What is the velocity of this object at t = 2 s?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_constv_with_axes-1.png" alt="x vs t graph, intercept 5, slope -2" height="446" width="474" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21423">
+            <jumpto>9385</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466801619</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-2 m/s</answer_text>
+            <response>Yes, it is just the slope of the line.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21424">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801619</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>2 m/s</answer_text>
+            <response>You seem to have missed that the line has a negative slope.  Did you do "initial - final" instead of "final - initial" somewhere in your calculation?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21425">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801619</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0.5 m/s</answer_text>
+            <response>No, I think you did v = x/t instead of
+
+$$v = \frac{\Delta x}{\Delta t}$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21426">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801619</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1 m/s</answer_text>
+            <response>No.  It's *position* at t = 2 s is 1 m.  This is not a v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21427">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466801619</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-0.5 m/s</answer_text>
+            <response>No.  There are any number of mistakes that might have led  you to this answer.  Perhaps you took run/rise instead of rise/run while calculating the slope?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 11:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466810849</timecreated>
+        <timemodified>1466811407</timemodified>
+        <title>match motion diagram to correct acceleration vectors -2</title>
+        <contents>&lt;p&gt;Below is a motion diagram without acceleration vectors added.  Which figure (A, B, C or D) shows the correct acceleration vectors for this motion diagram?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/match_MD_const_speed_with_a_vectors-2.png" alt="motion diagrams with acceleration vectors." height="787" width="554" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21451">
+            <jumpto>9402</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Yes, it is speeding up initially (accel. points in direction of motion) then it slows down (accel. points opposite to motion)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21452">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21453">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  Remember that in physics terminology an object that is slowing down is accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21454">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  Remember that in physics terminology an object that is slowing down is accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21455">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>None of them.  Without axes defined we can't figure out the sign of the acceleration vector.</answer_text>
+            <response>We eventually found that the direction of the acceleration vector for 1D motion only depends on whether the object is speeding up, slowing down, or moving with constant velocity.  Have another look at the beginning of this lecture and think about what the answer would have been if we had reversed the sign convention.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 12:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466812946</timecreated>
+        <timemodified>0</timemodified>
+        <title>which is the correct set of knowns? - 2</title>
+        <contents>&lt;p&gt;We define east as positive.  A car starts at the origin going east at 30 m/s.  It slows down at a rate of 5 m/s&lt;sup&gt;2&lt;/sup&gt; until it comes to rest.&lt;/p&gt;
+&lt;p&gt;Which of the sets of knowns/unknowns below is consistent with this description?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21460">
+            <jumpto>9405</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = ?, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = -5 m/s&lt;sup&gt;2&lt;/sup&gt;, Delta-t = ? </answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21461">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = ?, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = 5 m/s&lt;sup&gt;2&lt;/sup&gt;, Delta-t = ? </answer_text>
+            <response>No.  Think about which way the acceleration vector points.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21462">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = ?, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = ?, Delta-t = ? </answer_text>
+            <response>No, we have been told the acceleration.  Remember that objects that are slowing down are accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21463">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = ?, x&lt;sub&gt;f&lt;/sub&gt; = ?, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = 5 m/s&lt;sup&gt;2&lt;/sup&gt;, Delta-t = ? </answer_text>
+            <response>No, we have been told the initial position (but not by being given a number.  Also, think about what direction the acceleration points.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 13:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466812493</timecreated>
+        <timemodified>0</timemodified>
+        <title>which is the correct set of knowns?</title>
+        <contents>&lt;p&gt;We define east as positive.  A car starts at the origin going east at 30 m/s.  It is slowing down at a constant rate.  It comes to rest after going 200 m.&lt;/p&gt;
+&lt;p&gt;Which of the sets of knowns/unknowns below is consistent with this description?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21456">
+            <jumpto>9405</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = 200 m, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = ?, Delta-t = ? </answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21457">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = 200 m, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = 0, Delta-t = ? </answer_text>
+            <response>No.  Remember that objects that are slowing down are accelerating in the physics meaning of the term.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21458">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = 200 m, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = ?, a = ?, Delta-t = ? </answer_text>
+            <response>No.  We know the final velocity, though it isn't given as a number in the question.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21459">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x&lt;sub&gt;i&lt;/sub&gt; = 0, x&lt;sub&gt;f&lt;/sub&gt; = 200 m, v&lt;sub&gt;i&lt;/sub&gt; = 30 m/s, v&lt;sub&gt;f&lt;/sub&gt; = 0, a = -30 m/s&lt;sup&gt;2&lt;/sup&gt;, Delta-t = ? </answer_text>
+            <response>No, we have not been given the acceleration.  Don't confuse acceleration with velocity.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 14:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466809889</timecreated>
+        <timemodified>1466811458</timemodified>
+        <title>match modtion diagram to correct acceleration vectors -1</title>
+        <contents>&lt;p&gt;Below is a motion diagram without acceleration vectors added.  Which figure (A, B, C or D) shows the correct acceleration vectors for this motion diagram?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/match_MD_const_speed_with_a_vectors.png" alt="motion diagrams with acceleration vectors." height="362" width="688" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21446">
+            <jumpto>9402</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes, the early part of the motion is with constant velocity, then it is slowing down so the acceleration points opposite to the motion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21447">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.  Look back near the beginning of the lecture at what the only three possibilities are for acceleration vectors in one dimension.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21448">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.  Look back near the beginning of the lecture at what the only three possibilities are for acceleration vectors in one dimension.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21449">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>You may have the very common misconception that an object must acceleration to maintain a constant speed.  This may be caused by mixing up the idea of acceleration with the idea of how much "effort" it takes to walk at a constant speed.  Acceleration and effort are entirely different from each other.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21450">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>None of them.  Without axes defined we can't figure out the sign of the acceleration vector.</answer_text>
+            <response>We eventually found that the direction of the acceleration vector for 1D motion only depends on whether the object is speeding up, slowing down, or moving with constant velocity.  Have another look at the beginning of this lecture and think about what the answer would have been if we had reversed the sign convention.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 15:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466802112</timecreated>
+        <timemodified>1466811782</timemodified>
+        <title>get velocity from graph - 2</title>
+        <contents>&lt;p&gt;Below is the position vs. time graph for some object.  What is the velocity of this object at t = 4 s?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_constv_with_axes-2.png" alt="x vs. t graph, intercept -1, slope 0.5" height="289" width="464" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21428">
+            <jumpto>9385</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466802112</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0.5 m/s</answer_text>
+            <response>Yes, it is just the slope of the line.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21429">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466802112</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0.25 m/s</answer_text>
+            <response>No, you seem to have used v = x/t instead of
+
+$$v = \frac{\Delta x}{\Delta t}$$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21430">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466802112</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>1 m/s</answer_text>
+            <response>No.  The *position* at t = 4 s is 1 m.  This is not a v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21431">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466802112</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>2 m/s</answer_text>
+            <response>No. Did you do run/rise instead of rise/run in your calculation?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21432">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466802112</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>-0.5 m/s</answer_text>
+            <response>No.  Did you do "initial - final" instead of "final - initial"?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 16:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466805694</timecreated>
+        <timemodified>1466811822</timemodified>
+        <title>match v vs. t to correct a vs. t</title>
+        <contents>&lt;p&gt;Which of the acceleration vs. time graphs below (A, B, C or D) is the best match for the velocity vs. time graph shown?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/match_vvst_to_correct_avst.png" alt="a v vs. t graph and 4 a vs. t graphs" height="917" width="782" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21433">
+            <jumpto>9393</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>Yes, the a vs. t graph at every time is the slope of the v. vs. t graph at that time.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21434">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  There are a number of misconceptions which might make you choose this answer.  Perhaps you are looking at the sign of the velocity?  But it is not the sign of the velocity that matters.  It is the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21435">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  There are a number of misconceptions which might make you choose this answer.  Perhaps you are looking at the sign of the velocity?  But it is not the sign of the velocity that matters.  It is the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21436">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  This one is identical to the v vs. t graph.  But the a vs. t graph is determined from the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 17:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466806114</timecreated>
+        <timemodified>1466811862</timemodified>
+        <title>match v vs. t to correct a vs. t -1</title>
+        <contents>&lt;p&gt;Which of the acceleration vs. time graphs below (A, B, C or D) is the best match for the velocity vs. time graph shown?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/match_vvst_to_correct_avst-1.png" alt="a v vs. t graph and 4 a vs. t graphs" height="908" width="781" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21437">
+            <jumpto>9393</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Yes, the a vs. t graph is just the slope of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21438">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, that's what the x vs. t graph for this motion might look like.  Remember that a vs. t is the slope of v vs. t, not the other way around.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21439">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>There are a number of misconceptions about acceleration which might cause you to choose this answer.  You may have a misconception that a forward acceleration is needed for an object to keep moving forward.  Or you may think that smaller velocity implies smaller acceleration.  Remember, the acceleration is the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21440">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>There are a number of misconceptions about acceleration which might cause you to choose this answer.  You may have a misconception that a forward acceleration is needed for an object to keep moving forward.  Or you may think that smaller velocity implies smaller acceleration.  Remember, the acceleration is the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

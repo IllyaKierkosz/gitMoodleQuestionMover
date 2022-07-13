@@ -1,0 +1,261 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1473708910</timecreated>
+        <timemodified>0</timemodified>
+        <title>Compare useful work done</title>
+        <contents>&lt;p&gt;Motor A burns diesel fuel to do work.  It does work at a rate of 500 W.  It does so with efficiency of 0.30.  Motor B also burns diesel to do work at a rate of 500 W but it does it with an efficiency of 0.40.&lt;/p&gt;
+&lt;p&gt;Which motor burns more diesel fuel to operate for one hour?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21986">
+            <jumpto>9618</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1473708910</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Motor A</answer_text>
+            <response>Yes, it is less efficient, so to do the same work it requires more input.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21987">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473708910</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Motor B</answer_text>
+            <response>No.  Remember efficiency is "what you get/what you pay".  "What you get" is the same for these two engines (500 W).  So the one with the lower efficiency requires more "what you pay", in other words, more fuel.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21988">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473708910</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have the same power output so they take the same amount of fuel.</answer_text>
+            <response>No.  One is more efficient than the other.  In other words, it does more work with a lower fuel consumption.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1473709412</timecreated>
+        <timemodified>1473710951</timemodified>
+        <title>Compare efficiencies</title>
+        <contents>&lt;p&gt;Motor A consumes electrical energy at a rate of 50 W to do work at a rate of 30 W.  Motor B consumes electrical energy at a rate of 100 W to do work at a rate of 30 W.  Which motor has higher efficiency?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21989">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1473709412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Motor A</answer_text>
+            <response>Yes, it has an efficiency of 0.6 while Motor B's efficiency is only 0.3.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21990">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473709412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Motor B</answer_text>
+            <response>No, remember that efficiency is "what you get/what you pay".  "What you get" is 30 W for both motors.  But motor A takes less electrical energy (what you pay) to do this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21991">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473709412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Their efficiencies are the same.</answer_text>
+            <response>No, remember that efficiency is "what you get/what you pay".  "What you get" is 30 W for both motors.  But motor A takes less electrical energy (what you pay) to do this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1473709813</timecreated>
+        <timemodified>0</timemodified>
+        <title>Energy transformation</title>
+        <contents>&lt;p&gt;When you climb a mountain what energy transformation is taking place (the system is you + Earth)?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21992">
+            <jumpto>9624</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1473709813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; U&lt;sub&gt;g&lt;/sub&gt; + E&lt;sub&gt;therm&lt;/sub&gt;</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21993">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473709813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; U&lt;sub&gt;g&lt;/sub&gt;</answer_text>
+            <response>The transformation from chemical to gravitational potential energy is not 100% efficient.  Where does the "lost" energy "go"?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21994">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473709813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; E&lt;sub&gt;therm&lt;/sub&gt;</answer_text>
+            <response>You go up, don't you?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21995">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473709813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; U&lt;sub&gt;g&lt;/sub&gt; + K</answer_text>
+            <response>No.  Your kinetic energy doesn't change.  But the conversion of chemical energy to gravitational potential energy is not 100% efficient</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1473710291</timecreated>
+        <timemodified>0</timemodified>
+        <title>Motor energy transformation</title>
+        <contents>&lt;p&gt;A gasoline motor is used to accelerate a mass from rest up to high speed.  What energy transformation has taken place if the system consists of the mass and the motor?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21996">
+            <jumpto>9624</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1473710291</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; K + E&lt;sub&gt;therm&lt;/sub&gt;</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21997">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473710291</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; K </answer_text>
+            <response>The motor cannot have worked at 100% efficiency.  Where did the "lost" energy "go"?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21998">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473710291</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; E&lt;sub&gt;therm&lt;/sub&gt;</answer_text>
+            <response>The mass speeds up.  What about its kinetic energy?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21999">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473710291</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U&lt;sub&gt;chem&lt;/sub&gt; -&gt; K + U&lt;sub&gt;g&lt;/sub&gt;</answer_text>
+            <response>Nothing is described as going up/down so there is no change in gravitational potential energy.  But the motor also cannot have operated with 100% efficiency.  So where did the "lost" energy "go"?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

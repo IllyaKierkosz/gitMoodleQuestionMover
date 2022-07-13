@@ -1,0 +1,712 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470953891</timecreated>
+        <timemodified>0</timemodified>
+        <title>effect on air puck - 1</title>
+        <contents>&lt;p&gt;We have an air puck (we are using an air puck so there is no friction to worry about).  It starts from rest.  Which of the following results in the puck going at a greater speed?&lt;/p&gt;
+&lt;p&gt;A: a 3 N force applied for 2 s&lt;/p&gt;
+&lt;p&gt;B: a 2 N force applied for 4 s&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21837">
+            <jumpto>9542</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470953891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Force B results in a greater final speed.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21838">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Force A results in a greater final speed.</answer_text>
+            <response>No, force B imparts a larger impulse.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21839">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Both forces result in the same final speed because one is a stronger force and the other is applied for a longer time.</answer_text>
+            <response>No.  It is true that one is stronger and the other is applied for longer.  But the total effect (change in velocity) is determined by the impulse and the impulses imparted by these two forces are not equal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21840">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't solve this without knowing the mass of the air puck.</answer_text>
+            <response>No.  Without the mass of the air puck we can't predict how fast it will actually be going.  But we can determine which force has the greater effect (results in a larger final speed) because we can calculate the impulses imparted by each force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470954092</timecreated>
+        <timemodified>0</timemodified>
+        <title>effect on air puck - 2</title>
+        <contents>&lt;p&gt;We have an air puck (we are using an air puck so there is no friction to worry about).  It starts from rest.  Which of the following results in the puck going at a greater speed?&lt;/p&gt;
+&lt;p&gt;A: an 8 N force applied for 1 s&lt;/p&gt;
+&lt;p&gt;B: a 2 N force applied for 4 s&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21841">
+            <jumpto>9542</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470954092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Both forces result in the same final speed.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21842">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470954092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Force A results in a greater final speed.</answer_text>
+            <response>No, the two forces impart the same impulse.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21843">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470954092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Force B results in a greater final speed.</answer_text>
+            <response>No, the two forces impart the same impulse.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21844">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470954092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't solve this without knowing the mass of the air puck.</answer_text>
+            <response>No.  Without the mass of the air puck we can't predict how fast it will actually be going.  But we can determine which force has the greater effect (results in a larger final speed) because we can calculate the impulses imparted by each force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470952370</timecreated>
+        <timemodified>0</timemodified>
+        <title>Which is knocked off</title>
+        <contents>&lt;p&gt;Two identical boards hang off desks by the same amount.  A bouncy ball and a wet wad of paper are dropped onto their ends.  Both have the same mass and are going the same speed upon impact.  The ball will bounce.  The wad of paper will go “splat” (i.e. it doesn't bounce at all).&lt;br /&gt;&lt;br /&gt;Which one, the ball or the wad, will knock its board off of the desk?&lt;img src="data:image/png;base64,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" alt="" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21821">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470952370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The ball.</answer_text>
+            <response>Yes, it has the larger change in momentum, so it has the larger impulse imparted on it.  So by Newton's 3rd law it also imparts the larger impulse on its board.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21822">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The wad of paper.</answer_text>
+            <response>Think about equating impulse to change in momentum.  Which has the larger change in momentum, the wad or the ball?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21823">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Geoff is trying to trick us.  They will both knock their boards off.</answer_text>
+            <response>I frequently try to trick you (for your own good).  But in this case you can take me at my word that one will knock its board off and the other won't.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21824">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Geoff is trying to trick us.  Neither will knock its board off.</answer_text>
+            <response>I frequently try to trick you (for your own good).  But in this case you can take me at my word that one will knock its board off and the other won't.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470953080</timecreated>
+        <timemodified>0</timemodified>
+        <title>Putty ball collides with steel ball</title>
+        <contents>&lt;p&gt;A 1.0 kg Silly Putty&lt;sup&gt;TM&lt;/sup&gt; ball moving 2.0 m/s to the right collides head on&lt;br /&gt; with a 2.0 kg steel ball moving to the left at 1.0 m/s. Which ball has more&lt;br /&gt; momentum?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21833">
+            <jumpto>9557</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470953080</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The magnitudes of their momenta are equal.</answer_text>
+            <response>Yes, they both have momenta of 2 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21834">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953080</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The steel ball.</answer_text>
+            <response>No, magnitude of momentum is just mv.  What they are made of is irrelevant.  They both have momenta of 2 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21835">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953080</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The putty ball.</answer_text>
+            <response>No, magnitude of momentum is just mv.  What they are made of is irrelevant.  They both have momenta of 2 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21836">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470953080</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Not enough information.</answer_text>
+            <response>No, magnitude of momentum is just mv.  They both have momenta of 2 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501815502</timecreated>
+        <timemodified>1501815572</timemodified>
+        <title>momentum conservation of bouncing ball</title>
+        <contents>&lt;p&gt;A ball is dropped and bounces off of the floor. Its speed immediately before the bounce is the same as its speed immediately after the bounce. If the system that we consider is only the ball, is the momentum of the system conserved?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21847">
+            <jumpto>9558</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501815502</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>No, because the ball has reversed the direction of its velocity.</answer_text>
+            <response>Yes.  Momentum is a vector so direction matters.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21848">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501815502</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Yes, because if the speed is the same before and after then so is the momentum.</answer_text>
+            <response>No.  Momentum is a vector.  Direction matters when you are deciding whether it has changed or not.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21849">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501815502</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the mass and velocity of the ball to answer this.</answer_text>
+            <response>No, we don't.  If you just draw the momentum vectors before and after the collision for the ball you will see that the momentum has changed.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21850">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501815502</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The momentum is only partly conserved because the Earth is not moving.</answer_text>
+            <response>Momentum is either conserved or it isn't.  There is no such thing as being "partly conserved".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501816107</timecreated>
+        <timemodified>1567603946</timemodified>
+        <title>Brick into bin</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/brick_into_bin.png" width="708" height="232" alt="brick into bin" /&gt;&lt;/p&gt;
+&lt;p&gt;The figure shows a brick being thrown into a bin at a construction site.  Before the brick lands in the bin, the brick is moving in the direction shown.  After the brick lands in the bin, the brick and the bin are moving together with a velocity to the right as shown.&lt;/p&gt;
+&lt;p&gt;Consider the system to be the brick and the bin.  Is the momentum of the system conserved in the collision?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21851">
+            <jumpto>9558</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501816107</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>No.</answer_text>
+            <response>Yes.  The vertical component is not conserved.  However, the horizontal component is conserved and could by used to find how fast the brick and bin move after the collision.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21852">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501816107</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Yes.  </answer_text>
+            <response>No, the momentum of the system must be right and down before the collision, but it must be to the right after the collision.  So the direction of the momentum has changed and the momentum has not been conserved.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21853">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501816107</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the masses of both objects and the velocity of the brick before the collision.</answer_text>
+            <response>No we don't.  The directions of the velocities make it clear that the direction of the momentum vector must have changed during the collision.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470945908</timecreated>
+        <timemodified>0</timemodified>
+        <title>force in collision of unequal mass balls</title>
+        <contents>&lt;p&gt;A steel ball of mass 3.0 kg moving at 1.0 m/s to the right collides with another steel ball of mass 1.0 kg moving at 2.0 m/s to the left. Which ball exerts the larger magnitude of force on the other ball over the course of the collision?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21817">
+            <jumpto>9548</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470945908</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They each exert the same magnitude of force on the other.</answer_text>
+            <response>Yes, that's what Newton's 3rd Law says.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21818">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945908</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 3.0 kg ball because it is more massive.</answer_text>
+            <response>No.  What does Newton's 3rd Law say?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21819">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945908</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 1.0 kg ball because it is going faster.</answer_text>
+            <response>No.  What does Newton's 3rd Law say?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21820">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945908</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need more information.</answer_text>
+            <response>No.  There is a law which tells us the answer to this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 8:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470952586</timecreated>
+        <timemodified>0</timemodified>
+        <title>force in steel ball/putty ball collision</title>
+        <contents>&lt;p&gt;A steel ball of mass 2.0 kg moving at 1.0 m/s to the right collides with a silly putty ball of mass 2.0 kg moving at 1.0 m/s to the left. Which ball exerts the larger magnitude of force on the other during the collision?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21825">
+            <jumpto>9548</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470952586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They each exert the same magnitude of force.</answer_text>
+            <response>Yes, that's what Newton's 3rd Law says.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21826">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The silly putty ball.</answer_text>
+            <response>What does Newton's 3rd Law tell us?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21827">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The steel ball.</answer_text>
+            <response>What does Newton's 3rd Law tell us?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21828">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Need more information.</answer_text>
+            <response>No, there is a law which tells us the answer to this one.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 9:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470945465</timecreated>
+        <timemodified>1470945510</timemodified>
+        <title>impulse imparted upon putty ball vs. steel ball</title>
+        <contents>&lt;p&gt;A 1.0 kg putty ball, moving at 10 m/s, hits a wall and sticks to it. A 1.0 kg steel ball, also moving at 10 m/s, hits the wall and bounces off with a speed after the collision of nearly 10 m/s. Which ball should you expect to impart a greater impulse on the wall during the collision and why?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21813">
+            <jumpto>9557</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470945465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The steel ball.</answer_text>
+            <response>Yes.  The vector subtraction of momentums tells us that the steel ball had a greater impulse imparted upon it.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21814">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They both were moving at the same speed and had the same mass so they will have imparted equal impulses.</answer_text>
+            <response>Impulse</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21815">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The impulse on the steel ball is zero (final speed = initial speed). So the putty ball must have imparted a larger impulse.</answer_text>
+            <response>Remember that momentum and impulse are both vectors.  The speeds of the steel ball before and after the collision with the wall may be the same, but the velocities are not.  So the impulse on the steel ball is not zero.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21816">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470945465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The putty ball will have imparted a greater impulse because its collision with the wall is completely elastic.</answer_text>
+            <response>Well, we haven't discussed the idea of elastic vs. inelastic collisions yet.  So it would have been unfair of me to give a question which required you to know about them.  But in any case this is incorrect.  The collision of the putty ball with the wall is completely *inelastic*.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 10:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1470952891</timecreated>
+        <timemodified>1499618781</timemodified>
+        <title>which has more momentum - 1</title>
+        <contents>&lt;p&gt;A 1.0 kg aluminum ball is moving to the right at 2.0 m/s. A 3.0 kg brass ball is moving to the left at 1.0 m/s. Which ball has a greater magnitude of momentum?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21829">
+            <jumpto>9557</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1470952891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 3.0 kg brass ball.</answer_text>
+            <response>Yes, the aluminum ball has a momentum component of 2 kg m/s and the brass one has a momentum component of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21830">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 1.0 kg aluminum ball.</answer_text>
+            <response>Magnitude of momentum is just mv.  So the aluminum ball has a momentum of 2 kg m/s and the brass one has a momentum of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21831">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have equal momenta.</answer_text>
+            <response>Magnitude of momentum is just mv.  So the aluminum ball has a momentum of 2 kg m/s and the brass one has a momentum of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21832">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1470952891</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Not enough information.</answer_text>
+            <response>Magnitude of momentum is just mv.  So the aluminum ball has a momentum of 2 kg m/s and the brass one has a momentum of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

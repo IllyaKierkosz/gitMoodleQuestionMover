@@ -1,0 +1,735 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468874460</timecreated>
+        <timemodified>0</timemodified>
+        <title>direction of normal for block on incline</title>
+        <contents>&lt;p&gt;A block is sitting on an inclined plane as shown.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/block_on_incline.png" alt="block on incline" height="295" width="417" /&gt;&lt;/p&gt;
+&lt;p&gt;Which of the options below shows the correct direction of the normal force acting on this block?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/options_n_block_on_incline.png" alt="options fro direction of normal force" height="412" width="584" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21707">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21708">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  It is a common misconception that normal forces act upward, because they very frequently do act straight upward.  Remember that "normal" means "perpendicular".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21709">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  Are you mixing the normal force up with the friction force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21710">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  Are you mixing the normal force up with the weight?  The normal force is exerted by the surface pushing on the object.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21711">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No. This is perpendicular to the surface.  But a normal force is always a "push".  The surface does not pull the object onto itself.  It pushes to keep the object from "falling through the surface".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468875184</timecreated>
+        <timemodified>0</timemodified>
+        <title>strength of normal force on box</title>
+        <contents>&lt;p&gt;A box is sitting stationary on a flat floor. Which of the following is a correct statement about the strength of the normal force exerted by the floor on the box?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21712">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is equal to the weight of the box since the box's acceleration is zero.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21713">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is greater than the weight of the box since this is necessary to keep the box from falling through the floor.</answer_text>
+            <response>No.  Not falling through the floor requires that the acceleration of the box is zero.  If the normal force is greater than the weight then the net force is not zero and the box will accelerate.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21714">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is less than the weight of the box since the force is spread out over the whole bottom surface of the box.</answer_text>
+            <response>No.  Perhaps you are thinking about a pressure?  But you can't compare a pressure to a force since they have different units.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21715">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is zero since nothing is pushing or pulling on the box.</answer_text>
+            <response>No.  The *net* force on the box is zero.  But this just means that all of the forces acting on the box add up to zero.  There is certainly a weight acting down on the box.  If that was the only force acting on the box then it would accelerate down.  So there must be a nonzero normal force acting on the box.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21716">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is equal to the strength of the floor.</answer_text>
+            <response>Is "the strength of the floor" a force?  It is certainly possible to quantify the strength of the floor.  But we haven't discussed this.  Also, if the normal force is "equal to the strength of the floor" wouldn't this mean that the floor would break if the box was any heavier?  This sounds like a dangerous situation indeed!</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468875731</timecreated>
+        <timemodified>1468875766</timemodified>
+        <title>strength of tension force holding up a light</title>
+        <contents>&lt;p&gt;A light is hanging, stationary, by a cord attached to the ceiling.  Which statement about the tension force exerted by the cord is true?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21717">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is the same as the weight of the light since the light's acceleration is zero.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21718">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is greater than the weight of the light since the light would fall otherwise.</answer_text>
+            <response>No.  For the light to not fall its acceleration must be zero.  If the tension was greater than the weight then the net force on the light would non-zero and the light would accelerate up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21719">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is less than the gravitational force on the light due to mechanical advantage.</answer_text>
+            <response>Have we discussed mechanical advantage?  Are there any pulleys in this situation?  Think in terms of basic physics.  Don't just choose the answer that "seems the most complicated".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21720">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is zero since nobody is pushing or pulling on the light.</answer_text>
+            <response>No.  The *net* force is zero, but this is very different from the tension being zero.  It means that the sum of all the forces acting on the light is zero.  There is certainly a downward weight force.  For the net force to be zero this must be counteracted by a non-zero tension force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21721">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is equal to the force it would take to break the cord.</answer_text>
+            <response>No.  This would only be true if the light was the the maximum weight that could be supported by the cord.  We haven't been told that this is the case (and it would be a *very* bad idea!).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468892027</timecreated>
+        <timemodified>1468892053</timemodified>
+        <title>Size of kinetic friction force</title>
+        <contents>&lt;p&gt;A block is sliding down a steep slope.  The block has a mass of 20 kg and the coefficient of kinetic friction between the block and the slope is 0.50.  Which statement about the friction force is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21731">
+            <jumpto>9513</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is considerably less than 100 N.</answer_text>
+            <response>Yes.  The normal force is less than mg because the block is on a slope.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21732">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is 100 N.</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21733">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is 98.1 N</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21734">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is considerably larger than 100 N.</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468890336</timecreated>
+        <timemodified>0</timemodified>
+        <title>kinetic vs. static friction</title>
+        <contents>&lt;p&gt;A block is stationary on an inclined plane. If you slowly tip the plane at steeper and steeper angles then the block will eventually start sliding.  Which of the statements below is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21722">
+            <jumpto>9517</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is less than the friction force that held it in place just before it started sliding.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21723">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is greater than the friction force that held it in place just before it started sliding.</answer_text>
+            <response>No.  The coefficient of kinetic friction is less than the coefficient of static friction.  At the instant that the block starts sliding the strength of the friction force acting on it decreases.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21724">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is zero.</answer_text>
+            <response>No.  It is in contact with the inclined plane and the inclined plane will exert a kinetic friction force on it.  </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21725">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is the same as the friction force that held it in place just before it started sliding.</answer_text>
+            <response>No.  The coefficient of kinetic friction is less than the coefficient of static friction.  At the instant that the block starts sliding the strength of the friction force acting on it decreases.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21726">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is a result of air drag alone.</answer_text>
+            <response>No. It is in contact with the inclined plane and the inclined plane will exert a kinetic friction force on it.  The force of air drag would be very small unless the block is eventually moving at very high speed.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468891331</timecreated>
+        <timemodified>0</timemodified>
+        <title>Strength of static friction force</title>
+        <contents>&lt;p&gt;You push horizontally on a table with a force of 50 N.  It doesn't move.  The table has a mass of 20 kg and the coefficient of static friction between the table and the floor is 0.50.  What is the strength of the force of static friction on the table.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21727">
+            <jumpto>9517</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>50 N</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21728">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>100 N</answer_text>
+            <response>No.  You probably just used \( f_s = \mu_s n \).  But that tells you the maximum value of the static friction.  The actual value in any case is found from Newton's 2nd law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21729">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>98.1 N</answer_text>
+            <response>No.  You probably just used \( f_s = \mu_s n \).  But that tells you the maximum value of the static friction.  The actual value in any case is found from Newton's 2nd law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21730">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0</answer_text>
+            <response>No, the net force is zero.  But this is because the friction force balances the force that you exert on the table.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468893695</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reaction force to normal force on you</title>
+        <contents>&lt;p&gt;You are sitting on a chair. The chair exerts a normal force upwards on you. This force is part of an interaction pair.  What is the other force in this pair?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21739">
+            <jumpto>9509</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that you exert downward on the chair.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21740">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The gravitational force acting on you.</answer_text>
+            <response>No.  The two forces in an interaction pair always act on different objects.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21741">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The gravitational force acting on the chair.</answer_text>
+            <response>No.  That is a force exerted by the Earth.  The partner to this force would have to be a force exerted by you.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21742">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that you exert upwards on the chair.</answer_text>
+            <response>No.  This would suggest that you are pulling upward on the chair.  Does this make sense?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21743">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that the floor exerts upwards on the chair.</answer_text>
+            <response>No.  We are talking about the "partner" to a force exerted on you.  So the force we are talking about must be a force exerted by you.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 8:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468893339</timecreated>
+        <timemodified>0</timemodified>
+        <title>Effect of pulling up</title>
+        <contents>&lt;p&gt;You have a 5 kg block with a string attached to it.  You can push the block across the floor at constant speed with your foot.  If you instead push the block across the floor at constant speed while pulling straight up on the string what happens?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21735">
+            <jumpto>9513</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You don't have to push as hard because the friction force is reduced.</answer_text>
+            <response>Yes.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21736">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You have to push just as hard.  The mass of the block hasn't changed.</answer_text>
+            <response>No.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21737">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You have to push harder with your foot because of the extra force on the string that you have to work against.</answer_text>
+            <response>No.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21738">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the coefficient of kinetic friction to answer this.</answer_text>
+            <response>No.  The principle at work is the same no matter what the coefficient is.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 9:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468894076</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reaction force while throwing ball</title>
+        <contents>&lt;p&gt;You are throwing a ball. Your hand pushes on the ball to accelerate it during the throw. Which of the following statements about the force exerted back on your hand by the ball is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21744">
+            <jumpto>9509</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand has the same magnitude as the force that you exert on the ball.</answer_text>
+            <response>Yes.  That's what Newton's 3rd Law tells us.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21745">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand is smaller than the force that you exert on the ball.</answer_text>
+            <response>No.  Newton's 3rd Law tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21746">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand is larger than the force that you exert on the ball.</answer_text>
+            <response>No.  Newton's 3rd Law tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21747">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>There is no force on your hand. Your hand is doing the pushing here. The ball exerts no force.</answer_text>
+            <response>No. Your hand is touching the ball, so the ball exerts a force on your hand.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21748">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need more information (such as how hard you are throwing the ball).</answer_text>
+            <response>No.  Newton's 3rd Law is universal.  It tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

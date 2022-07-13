@@ -1,0 +1,561 @@
+Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467681850</timecreated>
+        <timemodified>0</timemodified>
+        <title>Which are correct acceleration vectors for projectile?</title>
+        <contents>&lt;p&gt;Which of the diagrams below shows the correct acceleration vectors added to the motion diagram of a projectile?  It is perfectly OK to be wrong here.  The important thing is to commit to an answer before then seeing how we find the answer so that you will know how well you understand.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/draw_ball_mot_diag_five_choices.png" width="804" height="483" alt="five options for acceleration in projectile motion" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21557">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>Yes, that's correct.  The next page shows why.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21558">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21559">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21560">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21561">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467681850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Watch the next very short video to find out the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467682749</timecreated>
+        <timemodified>1467682800</timemodified>
+        <title>description of components of projectile motion</title>
+        <contents>&lt;p&gt;As you have just seen in the videos, projectile motion can be analyzed in terms of the horizontal, x, and vertical, y, components of its motion. The x and y motions are best described as:&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21563">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal motion is at constant velocity and the vertical motion has a constant acceleration.</answer_text>
+            <response>Yes, good.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21564">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal and vertical motions are each at constant velocity.</answer_text>
+            <response>No, the horizontal component of motion is at constant velocity, but the vertical component has constant acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21565">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions are independent. The horizontal and vertical motions are each with constant acceleration.</answer_text>
+            <response>Hmm...sort of.  But the acceleration in the horizontal component is zero, so we would usually describe this as constant velocity motion, not constant acceleration.  You are correct that the vertical component of motion is with a constant acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21566">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467682749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The x and y motions depend on each other because the vertical velocity depends on the horizontal velocity.</answer_text>
+            <response>No.  The two components are independent.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 3:
+        <qtype>3</qtype>
+        <qoption>1</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467684512</timecreated>
+        <timemodified>0</timemodified>
+        <title>Select all true statements.</title>
+        <contents>&lt;p&gt;Select all of the statements below that are true.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21585">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The acceleration during projectile motion is directed straight down.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21586">
+            <jumpto>9452</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal component of velocity is constant in projectile motion.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21587">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal component of velocity during projectile motion increases because of the push that the projectile was given initially.</answer_text>
+            <response>No, the acceleration is down (it has no horizontal component) so the horizontal velocity is constant.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21588">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The horizontal position vs. time graph for projectile motion will be a parabola.</answer_text>
+            <response>No, the horizontal velocity is constant.  Constant velocity results in a position vs. time graph that is a straight line.  The **vertical** position vs. time graph is a parabola.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21589">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467684512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The acceleration of a projectile decreases as it goes up and is zero at the top of the trajectory.</answer_text>
+            <response>No, the acceleration of a projectile is constant.  It is always g down, at every point in its motion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683061</timecreated>
+        <timemodified>1467683491</timemodified>
+        <title>horizontal component of projectile motion</title>
+        <contents>&lt;p&gt;You throw a ball horizontally off the edge of a roof. Its initial velocity is 15 m/s &lt;strong&gt;horizontal&lt;/strong&gt;. After 2.0 s, the ball's distance from the side of the building (i.e. its horizontal distance from its starting point) will be&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21567">
+            <jumpto>9456</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>30 m</answer_text>
+            <response>Yes, because the horizontal component of velocity is 15 m/s and stays constant.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21568">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>less than 30 m because gravity is slowing it down</answer_text>
+            <response>No, first of all, gravity is speeding it up.  But secondly, the acceleration due to gravity has no effect on the horizontal component of the ball's motion, so it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21569">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>greater than 30 m because gravity is speeding it up</answer_text>
+            <response>No, the acceleration due to gravity has no effect on the horizontal component of the ball's motion, so it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21570">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>we need more information to be able to answer this</answer_text>
+            <response>No.  The ball's horizontal component of velocity is 15 m/s and constant.  So after 2 s it will be 30 m from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683325</timecreated>
+        <timemodified>1467683508</timemodified>
+        <title>vertical component of ball's trajectory</title>
+        <contents>&lt;p&gt;A ball is thrown &lt;strong&gt;horizontally&lt;/strong&gt; off of a high building. One second later the vertical component of the ball's velocity is (neglecting air drag)&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21571">
+            <jumpto>9456</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>9.81 m/s, down</answer_text>
+            <response>Yes, it's initial vertical velocity is zero, so after one second accelerating at g it will be going 9.81 m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21572">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0</answer_text>
+            <response>No, it's vertical velocity is zero at the instant it is thrown.  But gravity accelerates it down so after one second it is going 9.81 m/s down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21573">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>it depends on how hard the ball was thrown</answer_text>
+            <response>No, the ball was thrown horizontally.  So its initial vertical component of velocity was zero.  One second later its vertical component of velocity is 9.81 m/s down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21574">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>equal to the horizontal component of its velocity</answer_text>
+            <response>No.  The two components are independent.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683690</timecreated>
+        <timemodified>1467683995</timemodified>
+        <title>direction of acceleration in UCM</title>
+        <contents>&lt;p&gt;You are in a car that is driving at constant speed around a circular track. The direction of your acceleration is&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21575">
+            <jumpto>9455</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>towards the center of the circle</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21576">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>away from the center of the circle</answer_text>
+            <response>No.  You might consider rewatching the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21577">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>forward (tangent to the circle)</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21578">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>down because of gravity</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21579">
+            <jumpto>9444</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683690</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>the acceleration is zero since the car is going at constant speed.</answer_text>
+            <response>No.  You might consider rewatching at least the beginning of the video.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+
+Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467683952</timecreated>
+        <timemodified>0</timemodified>
+        <title>compare magnitudes of acceleration in UCM</title>
+        <contents>&lt;p&gt;Alice is driving her car at a constant speed of 80 km/hr around a circular track with a radius of 100 m. Bob is driving his car at a constant speed of 80 km/hr around a circular track with a radius of 200 m. Compare the accelerations&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21580">
+            <jumpto>9455</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's acceleration is larger than Bob's</answer_text>
+            <response>yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21581">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Bob's acceleration is larger than Alice's</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21582">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's and Bob's accelerations are both zero</answer_text>
+            <response>No, they are travelling in a circle, so their velocities are changing direction.  Thus, they are accelerating since their velocities are changing.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21583">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Alice's and Bob's accelerations are equal, but nonzero</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21584">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467683952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need more information</answer_text>
+            <response>No.  a = v^2/r.  Since we divide by r a larger r results in a smaller acceleration if the speeds are the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+

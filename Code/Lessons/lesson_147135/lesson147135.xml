@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="643" moduleid="147135" modulename="lesson" contextid="220617">
+  <lesson id="643">
+    <course>3115</course>
+    <name>Lesson 6: Newton's Laws</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>7</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>4</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>1640187600</deadline>
+    <timemodified>1634603469</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="9492">
+        <prevpageid>0</prevpageid>
+        <nextpageid>9493</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1530218880</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;Here is a "map" of the lesson.  I am including this so that you can check whether you have completed all parts.  Note in particular that for some reason the moodle lessons sometimes skip the reflective writing items (I haven't figured out why), so this map helps you figure out where those should be:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_Ns_laws.png" width="600" height="379" alt="lesson map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21689">
+            <jumpto>9493</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 6-1: First look at calculating accelerations and forces</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21690">
+            <jumpto>9499</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 6-2: friction (part 1)</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21691">
+            <jumpto>9502</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 6-3: friction (part 2)</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21692">
+            <jumpto>9505</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 6-4: Newton's 3rd Law</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21693">
+            <jumpto>9510</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 6-5: A Few More Details About Newton's Laws</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21703">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21750">
+            <jumpto>9507</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9493">
+        <prevpageid>9492</prevpageid>
+        <nextpageid>9494</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1603031001</timemodified>
+        <title>Online Lecture 6-1: A First Look at Calculating Accelerations and Forces</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=EV_1Duh1yR0"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This covers the material in chapter 4 in the online text. You may want to supplement the lecture by reading/skimming this chapter.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21686">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9494">
+        <prevpageid>9493</prevpageid>
+        <nextpageid>9495</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462908568</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21687">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462908568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9495">
+        <prevpageid>9494</prevpageid>
+        <nextpageid>9496</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468874460</timecreated>
+        <timemodified>0</timemodified>
+        <title>direction of normal for block on incline</title>
+        <contents>&lt;p&gt;A block is sitting on an inclined plane as shown.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/block_on_incline.png" alt="block on incline" height="295" width="417" /&gt;&lt;/p&gt;
+&lt;p&gt;Which of the options below shows the correct direction of the normal force acting on this block?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/options_n_block_on_incline.png" alt="options fro direction of normal force" height="412" width="584" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21707">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21708">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  It is a common misconception that normal forces act upward, because they very frequently do act straight upward.  Remember that "normal" means "perpendicular".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21709">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  Are you mixing the normal force up with the friction force?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21710">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  Are you mixing the normal force up with the weight?  The normal force is exerted by the surface pushing on the object.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21711">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468874460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No. This is perpendicular to the surface.  But a normal force is always a "push".  The surface does not pull the object onto itself.  It pushes to keep the object from "falling through the surface".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9496">
+        <prevpageid>9495</prevpageid>
+        <nextpageid>9497</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468875184</timecreated>
+        <timemodified>0</timemodified>
+        <title>strength of normal force on box</title>
+        <contents>&lt;p&gt;A box is sitting stationary on a flat floor. Which of the following is a correct statement about the strength of the normal force exerted by the floor on the box?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21712">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is equal to the weight of the box since the box's acceleration is zero.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21713">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is greater than the weight of the box since this is necessary to keep the box from falling through the floor.</answer_text>
+            <response>No.  Not falling through the floor requires that the acceleration of the box is zero.  If the normal force is greater than the weight then the net force is not zero and the box will accelerate.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21714">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is less than the weight of the box since the force is spread out over the whole bottom surface of the box.</answer_text>
+            <response>No.  Perhaps you are thinking about a pressure?  But you can't compare a pressure to a force since they have different units.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21715">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is zero since nothing is pushing or pulling on the box.</answer_text>
+            <response>No.  The *net* force on the box is zero.  But this just means that all of the forces acting on the box add up to zero.  There is certainly a weight acting down on the box.  If that was the only force acting on the box then it would accelerate down.  So there must be a nonzero normal force acting on the box.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21716">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The normal force is equal to the strength of the floor.</answer_text>
+            <response>Is "the strength of the floor" a force?  It is certainly possible to quantify the strength of the floor.  But we haven't discussed this.  Also, if the normal force is "equal to the strength of the floor" wouldn't this mean that the floor would break if the box was any heavier?  This sounds like a dangerous situation indeed!</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9497">
+        <prevpageid>9496</prevpageid>
+        <nextpageid>9498</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468875731</timecreated>
+        <timemodified>1468875766</timemodified>
+        <title>strength of tension force holding up a light</title>
+        <contents>&lt;p&gt;A light is hanging, stationary, by a cord attached to the ceiling.  Which statement about the tension force exerted by the cord is true?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21717">
+            <jumpto>9498</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is the same as the weight of the light since the light's acceleration is zero.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21718">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is greater than the weight of the light since the light would fall otherwise.</answer_text>
+            <response>No.  For the light to not fall its acceleration must be zero.  If the tension was greater than the weight then the net force on the light would non-zero and the light would accelerate up.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21719">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is less than the gravitational force on the light due to mechanical advantage.</answer_text>
+            <response>Have we discussed mechanical advantage?  Are there any pulleys in this situation?  Think in terms of basic physics.  Don't just choose the answer that "seems the most complicated".</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21720">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is zero since nobody is pushing or pulling on the light.</answer_text>
+            <response>No.  The *net* force is zero, but this is very different from the tension being zero.  It means that the sum of all the forces acting on the light is zero.  There is certainly a downward weight force.  For the net force to be zero this must be counteracted by a non-zero tension force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21721">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468875731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The tension force is equal to the force it would take to break the cord.</answer_text>
+            <response>No.  This would only be true if the light was the the maximum weight that could be supported by the cord.  We haven't been told that this is the case (and it would be a *very* bad idea!).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9498">
+        <prevpageid>9497</prevpageid>
+        <nextpageid>9499</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1463858463</timecreated>
+        <timemodified>1467730823</timemodified>
+        <title>End of cluster 6-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21688">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1463858463</timecreated>
+            <timemodified>1467730823</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9499">
+        <prevpageid>9498</prevpageid>
+        <nextpageid>9500</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1603032126</timemodified>
+        <title>Online Lecture 6-2: Friction (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=ozEr2p4MyTw"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers some of the material in section 5.1 in the online text. You may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21694">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9500">
+        <prevpageid>9499</prevpageid>
+        <nextpageid>9511</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21698">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9511">
+        <prevpageid>9500</prevpageid>
+        <nextpageid>9512</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468892027</timecreated>
+        <timemodified>1468892053</timemodified>
+        <title>Size of kinetic friction force</title>
+        <contents>&lt;p&gt;A block is sliding down a steep slope.  The block has a mass of 20 kg and the coefficient of kinetic friction between the block and the slope is 0.50.  Which statement about the friction force is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21731">
+            <jumpto>9513</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is considerably less than 100 N.</answer_text>
+            <response>Yes.  The normal force is less than mg because the block is on a slope.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21732">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is 100 N.</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21733">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is 98.1 N</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21734">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468892027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The friction force is considerably larger than 100 N.</answer_text>
+            <response>No.  The friction force is proportional to the normal force.  For an object on an incline the normal force is less than the weight.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9504">
+        <prevpageid>9501</prevpageid>
+        <nextpageid>9516</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468890336</timecreated>
+        <timemodified>0</timemodified>
+        <title>kinetic vs. static friction</title>
+        <contents>&lt;p&gt;A block is stationary on an inclined plane. If you slowly tip the plane at steeper and steeper angles then the block will eventually start sliding.  Which of the statements below is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21722">
+            <jumpto>9517</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is less than the friction force that held it in place just before it started sliding.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21723">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is greater than the friction force that held it in place just before it started sliding.</answer_text>
+            <response>No.  The coefficient of kinetic friction is less than the coefficient of static friction.  At the instant that the block starts sliding the strength of the friction force acting on it decreases.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21724">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is zero.</answer_text>
+            <response>No.  It is in contact with the inclined plane and the inclined plane will exert a kinetic friction force on it.  </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21725">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is the same as the friction force that held it in place just before it started sliding.</answer_text>
+            <response>No.  The coefficient of kinetic friction is less than the coefficient of static friction.  At the instant that the block starts sliding the strength of the friction force acting on it decreases.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21726">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468890336</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>As it slides the friction force that acts on the block is a result of air drag alone.</answer_text>
+            <response>No. It is in contact with the inclined plane and the inclined plane will exert a kinetic friction force on it.  The force of air drag would be very small unless the block is eventually moving at very high speed.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9501">
+        <prevpageid>9502</prevpageid>
+        <nextpageid>9504</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21697">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9505">
+        <prevpageid>9503</prevpageid>
+        <nextpageid>9508</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1603049822</timemodified>
+        <title>Online Lecture 6-4: Newton's 3rd Law</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=hpnMhxx06ks"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the material in section 4.4 in the online text.  You may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21696">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9516">
+        <prevpageid>9504</prevpageid>
+        <nextpageid>9517</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468891331</timecreated>
+        <timemodified>0</timemodified>
+        <title>Strength of static friction force</title>
+        <contents>&lt;p&gt;You push horizontally on a table with a force of 50 N.  It doesn't move.  The table has a mass of 20 kg and the coefficient of static friction between the table and the floor is 0.50.  What is the strength of the force of static friction on the table.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21727">
+            <jumpto>9517</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>50 N</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21728">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>100 N</answer_text>
+            <response>No.  You probably just used \( f_s = \mu_s n \).  But that tells you the maximum value of the static friction.  The actual value in any case is found from Newton's 2nd law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21729">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>98.1 N</answer_text>
+            <response>No.  You probably just used \( f_s = \mu_s n \).  But that tells you the maximum value of the static friction.  The actual value in any case is found from Newton's 2nd law.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21730">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468891331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>0</answer_text>
+            <response>No, the net force is zero.  But this is because the friction force balances the force that you exert on the table.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9508">
+        <prevpageid>9505</prevpageid>
+        <nextpageid>9514</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546509</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21701">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546509</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9507">
+        <prevpageid>9506</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530218772</timecreated>
+        <timemodified>1631053526</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------After Lecture 3-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 6 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-3".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. In general, when we think that a friction force acts on some object, how do we decide whether that friction force is static friction or kinetic friction?&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;
+&lt;p&gt;------------After Lecture 5-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 3.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 3, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 3 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Suppose a car is &lt;strong&gt;going east&lt;/strong&gt;, and it is speeding up.  Its wheels are &lt;strong&gt;not slipping&lt;/strong&gt;.  (If it's wheels slip then you would hear a loud "SCREEEEEECH" from the tires rubbing on the road.  Assume that is not happening.)  Does static or kinetic friction act on the  car?  Explain how you know.  Which way does the static or kinetic friction act?  Explain.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21749">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530218772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9514">
+        <prevpageid>9508</prevpageid>
+        <nextpageid>9515</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468893695</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reaction force to normal force on you</title>
+        <contents>&lt;p&gt;You are sitting on a chair. The chair exerts a normal force upwards on you. This force is part of an interaction pair.  What is the other force in this pair?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21739">
+            <jumpto>9509</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that you exert downward on the chair.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21740">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The gravitational force acting on you.</answer_text>
+            <response>No.  The two forces in an interaction pair always act on different objects.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21741">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The gravitational force acting on the chair.</answer_text>
+            <response>No.  That is a force exerted by the Earth.  The partner to this force would have to be a force exerted by you.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21742">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that you exert upwards on the chair.</answer_text>
+            <response>No.  This would suggest that you are pulling upward on the chair.  Does this make sense?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21743">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A normal force that the floor exerts upwards on the chair.</answer_text>
+            <response>No.  We are talking about the "partner" to a force exerted on you.  So the force we are talking about must be a force exerted by you.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9510">
+        <prevpageid>9509</prevpageid>
+        <nextpageid>9506</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1468863154</timecreated>
+        <timemodified>1603049767</timemodified>
+        <title>Online Lecture 6-5: A Few More Details About Forces and Newton's Laws</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=SaLNaP143tc"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This covers material in Chatper 4 and section 5.2 in the online text (as well as some material which isn't in the text).  You may want to supplement the lecture by reading/skimming these sections.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21704">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468863154</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9506">
+        <prevpageid>9510</prevpageid>
+        <nextpageid>9507</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1468864154</timecreated>
+        <timemodified>1631053531</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 3.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 3, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 3 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Suppose a car is &lt;strong&gt;going east&lt;/strong&gt;, and it is speeding up.  Its wheels are &lt;strong&gt;not slipping&lt;/strong&gt;.  (If it's wheels slip then you would hear a loud "SCREEEEEECH" from the tires rubbing on the road.  Assume that is not happening.)  Does static or kinetic friction act on the  car?  Explain how you know.  Which way does the static or kinetic friction act?  Explain.&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21706">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468864154</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9512">
+        <prevpageid>9511</prevpageid>
+        <nextpageid>9513</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468893339</timecreated>
+        <timemodified>0</timemodified>
+        <title>Effect of pulling up</title>
+        <contents>&lt;p&gt;You have a 5 kg block with a string attached to it.  You can push the block across the floor at constant speed with your foot.  If you instead push the block across the floor at constant speed while pulling straight up on the string what happens?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21735">
+            <jumpto>9513</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You don't have to push as hard because the friction force is reduced.</answer_text>
+            <response>Yes.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21736">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You have to push just as hard.  The mass of the block hasn't changed.</answer_text>
+            <response>No.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21737">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>You have to push harder with your foot because of the extra force on the string that you have to work against.</answer_text>
+            <response>No.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.  So you don't have to push as hard.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21738">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468893339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know the coefficient of kinetic friction to answer this.</answer_text>
+            <response>No.  The principle at work is the same no matter what the coefficient is.  Pulling up on the string will reduce the strength of the normal force, which in turn reduces the strength of the frictional force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9513">
+        <prevpageid>9512</prevpageid>
+        <nextpageid>9502</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1467731445</timemodified>
+        <title>End of cluster 6-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21699">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1467731445</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9502">
+        <prevpageid>9513</prevpageid>
+        <nextpageid>9501</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1603032146</timemodified>
+        <title>Online Lecture 6-3: Friction (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=HeG9VlPVshw"&gt;lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This roughly covers the remaining material in section 5.1 in the online text. You may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21695">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9515">
+        <prevpageid>9514</prevpageid>
+        <nextpageid>9509</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1468894076</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reaction force while throwing ball</title>
+        <contents>&lt;p&gt;You are throwing a ball. Your hand pushes on the ball to accelerate it during the throw. Which of the following statements about the force exerted back on your hand by the ball is correct?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21744">
+            <jumpto>9509</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand has the same magnitude as the force that you exert on the ball.</answer_text>
+            <response>Yes.  That's what Newton's 3rd Law tells us.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21745">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand is smaller than the force that you exert on the ball.</answer_text>
+            <response>No.  Newton's 3rd Law tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21746">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that the ball exerts on your hand is larger than the force that you exert on the ball.</answer_text>
+            <response>No.  Newton's 3rd Law tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21747">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>There is no force on your hand. Your hand is doing the pushing here. The ball exerts no force.</answer_text>
+            <response>No. Your hand is touching the ball, so the ball exerts a force on your hand.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21748">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468894076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need more information (such as how hard you are throwing the ball).</answer_text>
+            <response>No.  Newton's 3rd Law is universal.  It tells us that these two forces have the same magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9509">
+        <prevpageid>9515</prevpageid>
+        <nextpageid>9510</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546526</timecreated>
+        <timemodified>1467731463</timemodified>
+        <title>End of cluster 6-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21702">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546526</timecreated>
+            <timemodified>1467731463</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9517">
+        <prevpageid>9516</prevpageid>
+        <nextpageid>9503</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1468863759</timemodified>
+        <title>End of cluster 6-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21700">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1468863759</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9503">
+        <prevpageid>9517</prevpageid>
+        <nextpageid>9505</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1468863643</timecreated>
+        <timemodified>1631053310</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 6 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-3".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. In general, when we think that a friction force acts on some object, how do we decide whether that friction force is static friction or kinetic friction?&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21705">
+            <jumpto>9492</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1468863643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

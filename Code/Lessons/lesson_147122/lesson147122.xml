@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="640" moduleid="147122" modulename="lesson" contextid="220604">
+  <lesson id="640">
+    <course>3115</course>
+    <name>Lesson 3: Vectors</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>5</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>1640187600</deadline>
+    <timemodified>1632356603</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="9407">
+        <prevpageid>0</prevpageid>
+        <nextpageid>9408</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1530197091</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You do not have to finish the whole lesson in one sitting.  You may retry the lesson if you are not happy with the outcome.  Here is a "map" of the lesson.  I am including this so that you can check whether you have completed all parts.  Note in particular that for some reason the moodle lessons sometimes skip the reflective writing items (I haven't figured out why), so this map helps you figure out where those should be:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_vectors.png" width="600" height="465" alt="lesson map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21469">
+            <jumpto>9408</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 3-1: Vector Definitions</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21470">
+            <jumpto>9413</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 3-2: Visualizing Vector Addition and Subtraction</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21471">
+            <jumpto>9429</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 3-3: Connecting Vectors to Ideas from Motion Diagrams</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21472">
+            <jumpto>9421</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 3-4: Vector Algebra</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21473">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21539">
+            <jumpto>9420</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9408">
+        <prevpageid>9407</prevpageid>
+        <nextpageid>9409</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1498938712</timemodified>
+        <title>Online Lecture 3-1: Vector Definitions</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=gzvy2j6RJKU&amp;amp;index=1&amp;amp;list=PLhdf1WEdn-4MqiyU7u11vItKzvWDWzTay"&gt;video.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This covers some of the material in section 3-1 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21467">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9409">
+        <prevpageid>9408</prevpageid>
+        <nextpageid>9410</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466983345</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21485">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466983345</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9410">
+        <prevpageid>9409</prevpageid>
+        <nextpageid>9411</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466986902</timecreated>
+        <timemodified>1467085071</timemodified>
+        <title>Identify direction of vector 1</title>
+        <contents>&lt;p&gt;Bo and Luke Duke are driving west when they drive their car off the end of an old collapsed bridge (Yeeeeee Haaaawww!) as shown in the diagram.  At the instant they go off the end of the bridge their speed is 35 m/s, and they leave the bridge going 15º above the horizontal.  A road crew conveniently left a set of axes hanging off the end of the bridge as shown.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/general_lee_off_bridge.png" alt="general lee off bridge" height="375" width="655" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose a correct way of writing the velocity of the car from among the options below.  More than one answer may be correct, but you only need to choose one.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21486">
+            <jumpto>9412</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466986902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(35\, \textrm{m/s}, \, \textrm{West and} \, 15^{\circ} \, \textrm{above horizontal})$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21487">
+            <jumpto>9412</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466986902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(35\, \textrm{m/s}, 165^{\circ})$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21488">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466986902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(35\, \textrm{m/s}, 15^{\circ})$$</answer_text>
+            <response>No, the angle between the car's velocity and the x-axis is 165 degrees.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21489">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466986902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(35\, \textrm{m/s}, -15^{\circ})$$</answer_text>
+            <response>No, the angle between the car's velocity and the x-axis is 165 degrees.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21490">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466986902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>(35 m/s, up and West)</answer_text>
+            <response>Not specific enough.  We know enough to give the answer more precisely than this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9411">
+        <prevpageid>9410</prevpageid>
+        <nextpageid>9412</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467084991</timecreated>
+        <timemodified>1467085073</timemodified>
+        <title>Identify direction of vector 2</title>
+        <contents>&lt;p&gt;Bart has decided to "welcome" Lisa home by skateboarding off the roof to land right in front of her.  He is going down the roof at 6 m/s.  The roof has a 20° pitch as shown.  Homer brought home a set of axes from the power plant the other week and didn't know what to do with them, so they are still leaning against the front of the house as shown.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/bart_off_roof.png" alt="bart off roof" height="462" width="564" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose a correct way of writing the Bart's velocity from among the options below.  More than one answer may be correct, but you only need to choose one.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21533">
+            <jumpto>9412</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467084991</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(6\, \textrm{m/s}, \, 25^{\circ} \, \textrm{below horizontal})$$</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21534">
+            <jumpto>9412</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467084991</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(6\, \textrm{m/s}, -25^{\circ})$$</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21535">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467084991</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(6\, \textrm{m/s}, 25^{\circ})$$</answer_text>
+            <response>No, Bart's velocity is 25 degrees clockwise from the x-axis.  By convention clockwise angles are negative.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21536">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467084991</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(6\, \textrm{m/s}, \, 25^{\circ} \, \textrm{above horizontal})$$</answer_text>
+            <response>No, the vector is drawn above the axes, but the direction it points is below the direction that the x-axis points in.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21537">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467084991</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>(6 m/s, diagonally down)</answer_text>
+            <response>Not specific enough.  We know enough to give the answer more precisely than this.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9412">
+        <prevpageid>9411</prevpageid>
+        <nextpageid>9413</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462905142</timecreated>
+        <timemodified>1466981730</timemodified>
+        <title>End of cluster 3-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21468">
+            <jumpto>9407</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462905142</timecreated>
+            <timemodified>1466981730</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9413">
+        <prevpageid>9412</prevpageid>
+        <nextpageid>9414</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1560904705</timemodified>
+        <title>Online Lecture 3-2: Visualizing Vector Addition and Subtraction</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=1LJTSh1vjTo&amp;amp;list=PLhdf1WEdn-4MqiyU7u11vItKzvWDWzTay&amp;amp;index=6&amp;amp;t=0s"&gt;video.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This  the rest of section 3-2 in the text.  If you have the text you may want to supplement the lecture by reading/skimming this section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21474">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9414">
+        <prevpageid>9413</prevpageid>
+        <nextpageid>9424</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21478">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9424">
+        <prevpageid>9414</prevpageid>
+        <nextpageid>9425</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467066152</timecreated>
+        <timemodified>1467081112</timemodified>
+        <title>choose correct vector add 1</title>
+        <contents>&lt;p&gt;For the pair of vectors, &lt;strong&gt;a&lt;/strong&gt; and &lt;strong&gt;b &lt;/strong&gt;shown below, choose the diagram which correctly shows the addition, &lt;strong&gt;a&lt;/strong&gt;+&lt;strong&gt;b&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_vector_addition1.png" alt="choose correct addition" height="878" width="650" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21493">
+            <jumpto>9434</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467066152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21494">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467066152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No, the vectors should be arranged head to tail in order to add them.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21495">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467066152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No, look at "where we started", at the tail of &lt;strong&gt;a&lt;/strong&gt;.  The resultant vector (the red one) should start at that location.  So in C it is flipped around backwards.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21496">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467066152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No, the vectors should be arranged head to tail in order to add them.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21497">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467066152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No, notice that &lt;strong&gt;b&lt;/strong&gt; has been flipped around backwards.  This is &lt;strong&gt;a&lt;/strong&gt; - &lt;strong&gt;b&lt;/strong&gt;.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9417">
+        <prevpageid>9415</prevpageid>
+        <nextpageid>9416</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467078412</timecreated>
+        <timemodified>1467081370</timemodified>
+        <title>choose correct vector subtract 1</title>
+        <contents>&lt;p&gt;For the pair of vectors, &lt;strong&gt;a&lt;/strong&gt; and &lt;strong&gt;b &lt;/strong&gt;shown below, choose the diagram which correctly shows the subtraction, &lt;strong&gt;a&lt;/strong&gt;-&lt;strong&gt;b&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_vector_subtraction1.png" alt="choose subtract" height="897" width="487" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21503">
+            <jumpto>9428</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467078412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21504">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, look at "where we started", at the tail of &lt;strong&gt;a&lt;/strong&gt;.  The resultant vector (the red one) should start at that location.  So in A it is flipped around backwards.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21505">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No, to carry out the subtraction we need to "flip" &lt;strong&gt;b&lt;/strong&gt; end-for-end.  Also, the red resultant vector is pointing the wrong way for the addition drawn.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21506">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No, to carry out the subtraction we need to "flip" &lt;strong&gt;b&lt;/strong&gt; end-for-end. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21507">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078412</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No, to subtract we should "flip" &lt;strong&gt;b&lt;/strong&gt; end-for-end and then add.  You may have been taught in a different course to do vector subtraction by arranging the vectors tail to tail.  This answer illustrates why this is a bad idea.  Having arranged them tail to tail it is difficult to figure out which way to make the result point since both possibilities make it point towards one of the heads of the vectors being subtracted.  In E the result is flipped around backwards.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9428">
+        <prevpageid>9416</prevpageid>
+        <nextpageid>9429</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1467063847</timecreated>
+        <timemodified>1467063965</timemodified>
+        <title>End of cluster 3-2B</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21492">
+            <jumpto>9407</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467063847</timecreated>
+            <timemodified>1467063965</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9416">
+        <prevpageid>9417</prevpageid>
+        <nextpageid>9428</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467078588</timecreated>
+        <timemodified>1467081353</timemodified>
+        <title>choose correct vector subtract 2</title>
+        <contents>&lt;p&gt;For the pair of vectors, &lt;strong&gt;a&lt;/strong&gt; and &lt;strong&gt;b &lt;/strong&gt;shown below, choose the diagram which correctly shows the subtraction, &lt;strong&gt;a&lt;/strong&gt;-&lt;strong&gt;b&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_vector_subtraction2.png" alt="choose subtract" height="867" width="599" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21508">
+            <jumpto>9428</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467078588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21509">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, in A the vectors have been added, not subtracted.   To carry out the subtraction we need to "flip" &lt;strong&gt;b&lt;/strong&gt; end-for-end. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21510">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No this is &lt;strong&gt;b&lt;/strong&gt; - &lt;strong&gt;a&lt;/strong&gt;.  The wrong vector has been flipped end-for-end.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21511">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No, look at "where we started", at the tail of &lt;strong&gt;a&lt;/strong&gt;.  The resultant vector (the red one) should start at that location.  So in D it is flipped around backwards.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21512">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467078588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No, to subtract we should "flip" &lt;strong&gt;b&lt;/strong&gt; end-for-end and then add.  You may have been taught in a different course to do vector subtraction by arranging the vectors tail to tail.  This answer illustrates why this is a bad idea.  Having arranged them tail to tail it is difficult to figure out which way to make the result point since both possibilities make it point towards one of the heads of the vectors being subtracted.  In E the result is flipped around backwards.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9426">
+        <prevpageid>9418</prevpageid>
+        <nextpageid>9430</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467080697</timecreated>
+        <timemodified>1467081797</timemodified>
+        <title>Choose correct acceleration vector 1</title>
+        <contents>&lt;p&gt;For the fragment of a motion diagram shown, choose the correct acceleration vector.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_accel_vector1.png" alt="choose accel." height="523" width="730" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21513">
+            <jumpto>9431</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467080697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21514">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467080697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, you've chosen the vector you would get from adding the two velocities.  But we get the acceleration by subtracting.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21515">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467080697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No, perhaps you are confusing acceleration with velocity so you are choosing the vector which looks "tangent to the path".  The acceleration is obtained from the velocity vectors by vector subtraction.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21516">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467080697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No, when an object moves in a curved path the acceleration vector points to the inside of the curve, not the outside.  Try carrying out the vector subtraction.  If you tried to do the vector subtraction perhaps you took &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;i&lt;/sub&gt; - &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;f&lt;/sub&gt; instead of &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;f&lt;/sub&gt; - &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;i&lt;/sub&gt; ?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21517">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467080697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No, the object is speeding up, so its acceleration vector should point inward and **forward** but you've chosen inward and back.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9423">
+        <prevpageid>9419</prevpageid>
+        <nextpageid>9420</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466981938</timecreated>
+        <timemodified>1631049930</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lecture 2.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 2, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lecture 2 write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. What does the symbol, \( \hat{i} \), (often described as "i-hat") mean?  What does the symbol, \( \hat{j} \), mean?  I have not defined it, but can you guess  what the symbol, \( \hat{k} \), must mean?&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21483">
+            <jumpto>9407</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466981938</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9422">
+        <prevpageid>9421</prevpageid>
+        <nextpageid>9432</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546509</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21481">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546509</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9432">
+        <prevpageid>9422</prevpageid>
+        <nextpageid>9433</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467082702</timecreated>
+        <timemodified>1500359562</timemodified>
+        <title>choose the correct component form expression 1</title>
+        <contents>&lt;p&gt;For the vector in the diagram below, choose the correct way to write the vector in component form.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vec4_8_on_axes.png" alt="a vector" height="376" width="348" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21523">
+            <jumpto>9419</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467082702</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$4 \hat{i} + 8 \hat{j}$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21524">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467082702</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$8 \hat{i} + 4\hat{j}$$</answer_text>
+            <response>No, you've reversed the components.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21525">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467082702</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>8.944</answer_text>
+            <response>No, you have found the magnitude of the vector.  I have asked you to write the vector itself (in coordinate form) not its magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21526">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467082702</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(8.944, \, 63.4^\circ)$$</answer_text>
+            <response>No, that is magnitude, direction form.  I asked for coordinate form, which in this case is **much** easier to write down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21527">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467082702</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$6 \hat{i} + 8 \hat{j}$$</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9420">
+        <prevpageid>9423</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530197014</timecreated>
+        <timemodified>1631049928</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------After Lecture 3-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 3 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lectures 1-3".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Suppose we have some vector, \( \vec{A} \) which points in the positive x-direction (i.e. it points parallel to the x-axis, in the direction defined as positive for x).  We have another vector, \( \vec{B} \) which points in the negative x-direction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In your own words explain  the similarities and differences between the vector, \( \vec{A} \), its magnitude, \( |\vec{A}| \equiv A \) and its  x-component, \( A_x \).&lt;/li&gt;
+&lt;li&gt;In your own words explain  the similarities and differences between the vector, \( \vec{B} \), its magnitude, \( |\vec{B}| \equiv B \) and its  x-component, \( B_x \).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will add more to this sheet after some of the other lectures in this unit.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;------------After Lecture 4-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after watching Lectures 1-3.  If you don't already have that (perhaps because you are watching the videos out of sequence) then go back to Lecture 3, watch it, answer the questions and then start your writing.  Then come back to this page.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for Lectures 1-3 write a heading saying "End of Lesson".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. What does the symbol, \( \hat{i} \), (often described as "i-hat") mean?  What does the symbol, \( \hat{j} \), mean?  I have not defined it, but can you guess  what the symbol, \( \hat{k} \), must mean?&lt;/p&gt;
+&lt;p&gt;You will scan this sheet, along with an addition to your cheat sheet, and submit it on moodle under the Written Response for this lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21538">
+            <jumpto>9407</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530197014</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9425">
+        <prevpageid>9424</prevpageid>
+        <nextpageid>9434</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467077404</timecreated>
+        <timemodified>1467080265</timemodified>
+        <title>choose correct vector add 2</title>
+        <contents>&lt;p&gt;For the pair of vectors, &lt;strong&gt;a&lt;/strong&gt; and &lt;strong&gt;b &lt;/strong&gt;shown below, choose the diagram which correctly shows the addition, &lt;strong&gt;a&lt;/strong&gt;+&lt;strong&gt;b&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_vector_addition2.png" alt="choose correct addition" height="946" width="531" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21498">
+            <jumpto>9434</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467077404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21499">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467077404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, notice that &lt;strong&gt;a&lt;/strong&gt; has been flipped around backwards.  This is &lt;strong&gt;b&lt;/strong&gt; - &lt;strong&gt;a&lt;/strong&gt;.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21500">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467077404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No, the vectors should be arranged head to tail in order to add them.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21501">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467077404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No, look at "where we started" at the tail of &lt;strong&gt;a&lt;/strong&gt;.  The resultant vector (the red one) should start at this location.  So it is flipped around backwards in C.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21502">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467077404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No, the vectors should be arranged head to tail in order to add them.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9434">
+        <prevpageid>9425</prevpageid>
+        <nextpageid>9415</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1467063817</timemodified>
+        <title>End of cluster 3-2A</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21479">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1467063817</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9430">
+        <prevpageid>9426</prevpageid>
+        <nextpageid>9431</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467081711</timecreated>
+        <timemodified>0</timemodified>
+        <title>Choose correct acceleration vector 2</title>
+        <contents>&lt;p&gt;For the fragment of a motion diagram shown, choose the correct acceleration vector.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/choose_correct_accel_vector2.png" alt="choose accel." height="526" width="688" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21518">
+            <jumpto>9431</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467081711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21519">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467081711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, you've chosen the vector you would get from adding the two velocities.  But we get the acceleration by subtracting.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21520">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467081711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No, the object is slowing down, so its acceleration vector should point inward and **back** but you've chosen inward and forward.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21521">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467081711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No, when an object moves in a curved path the acceleration vector points to the inside of the curve, not the outside.  Try carrying out the vector subtraction.  If you tried to do the vector subtraction perhaps you took &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;i&lt;/sub&gt; - &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;f&lt;/sub&gt; instead of &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;f&lt;/sub&gt; - &lt;strong&gt;v&lt;/strong&gt;&lt;sub&gt;i&lt;/sub&gt; ?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21522">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467081711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>E</answer_text>
+            <response>No, perhaps you are confusing acceleration with velocity so you are choosing the vector which looks "tangent to the path".  The acceleration is obtained from the velocity vectors by vector subtraction.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9421">
+        <prevpageid>9427</prevpageid>
+        <nextpageid>9422</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1498938922</timemodified>
+        <title>Online Lecture 3-4: Vector Algebra</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=i_uM_OiL5AY"&gt;video.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This lecture covers the material in section 3-3 in the text.  You may want to supplement the lecture by reading/skimming that section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21476">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9429">
+        <prevpageid>9428</prevpageid>
+        <nextpageid>9418</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1498938871</timemodified>
+        <title>Online Lecture 3-3: Connecting Vectors with Motion Diagrams</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=QOmS3VvOzdU&amp;amp;index=3&amp;amp;list=PLhdf1WEdn-4MqiyU7u11vItKzvWDWzTay"&gt;video.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This covers the material in section 3-2 of the text.  If you have the textbook then you might want to supplement the lecture by reading/skimming that section.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21475">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9418">
+        <prevpageid>9429</prevpageid>
+        <nextpageid>9426</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21477">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9431">
+        <prevpageid>9430</prevpageid>
+        <nextpageid>9427</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1467063939</timemodified>
+        <title>End of cluster 3-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21480">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1467063939</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9427">
+        <prevpageid>9431</prevpageid>
+        <nextpageid>9421</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466982042</timecreated>
+        <timemodified>1631049737</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1101 - Response to Unit 3 Video Lectures" across the top of the paper and put your name in an upper corner of the page.  Write a big heading saying "Lecture 3".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Suppose we have some vector, \( \vec{A} \) which points in the positive x-direction (i.e. it points parallel to the x-axis, in the direction defined as positive for x).  We have another vector, \( \vec{B} \) which points in the negative x-direction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In your own words explain  the similarities and differences between the vector, \( \vec{A} \), its magnitude, \( |\vec{A}| \equiv A \) and its  x-component, \( A_x \).&lt;/li&gt;
+&lt;li&gt;In your own words explain  the similarities and differences between the vector, \( \vec{B} \), its magnitude, \( |\vec{B}| \equiv B \) and its  x-component, \( B_x \).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21484">
+            <jumpto>9407</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466982042</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9433">
+        <prevpageid>9432</prevpageid>
+        <nextpageid>9419</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1467083054</timecreated>
+        <timemodified>1500359593</timemodified>
+        <title>choose the correct component form expression 2</title>
+        <contents>&lt;p&gt;For the vector in the diagram below, choose the correct way to write the vector in component form.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vec3_neg7_on_axes.png" alt="a vector" height="376" width="334" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21528">
+            <jumpto>9419</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1467083054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$3 \hat{i} -7 \hat{j}$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21529">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467083054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$3 \hat{i} +7 \hat{j}$$</answer_text>
+            <response>No, the y-component is negative.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21530">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467083054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$-7 \hat{i} +3 \hat{j}$$</answer_text>
+            <response>No, you've reversed the components.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21531">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467083054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>7.615</answer_text>
+            <response>No, you have found the magnitude of the vector.  I have asked you to write the vector itself (in coordinate form) not its magnitude.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21532">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467083054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$(7.615, \, -66.8^\circ)$$</answer_text>
+            <response>No, that is magnitude, direction form.  I asked for coordinate form, which in this case is **much** easier to write down.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9419">
+        <prevpageid>9433</prevpageid>
+        <nextpageid>9423</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546526</timecreated>
+        <timemodified>1466981952</timemodified>
+        <title>End of cluster 3-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21482">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546526</timecreated>
+            <timemodified>1466981952</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9415">
+        <prevpageid>9434</prevpageid>
+        <nextpageid>9417</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1467063830</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="21491">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1467063830</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
