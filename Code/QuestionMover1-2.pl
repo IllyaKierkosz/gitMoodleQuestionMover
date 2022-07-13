@@ -2,6 +2,12 @@
 use warnings;
 use strict;
 
+Qmove();
+
+
+
+
+sub Qmove{
 my $inDir = "InputFiles";
 #Need an "InputFiles" directory. This is where the moodle lessons to be searched go.
 
@@ -41,3 +47,4 @@ while (my $file = readdir(inDIR)) {
 	}
 }
 closedir(inDIR);
+}
