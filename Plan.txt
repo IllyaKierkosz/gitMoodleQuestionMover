@@ -1,6 +1,6 @@
-Tasks:
+Tasks: (* indicates completed)
 
-1. Moving questions into a readable format in a central location.
+1*. Moving questions into a readable format in a central location.
 
 2. Moving images into a readable location:
     - Searching for images and copying them to central location
