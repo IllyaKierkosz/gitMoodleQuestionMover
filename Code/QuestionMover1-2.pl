@@ -12,6 +12,8 @@ my $Dir = "InputFiles";
 #Need an "InputFiles" directory. This is where the moodle lessons to be searched go.
 
 mkdir("Questions") or die "couldn't make Question directory: $!";
+#Make the directory where the harvested questions go
+
 opendir(DIR, $Dir) or die "Couldn't open input file directory: $!";
 while (my $file = readdir(DIR)) {
 	my $filetarget = "lesson";
