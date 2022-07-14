@@ -13,6 +13,7 @@ mkdir("Questions") or die "Could not make Question directory: $!";
 opendir(ACTIVITIES, "InputFiles/activities") or die "Could not open Input Files directory: $!";
 my @inputContents = readdir(ACTIVITIES);
 my @lessonDirectories = grep(m{lesson}, @inputContents);
+closedir(ACTIVITIES);
 print "Lessons in this backup:\n";
 print "@lessonDirectories\n";
 #Generating a list of lesson sub-directories.
@@ -20,8 +21,8 @@ print "@lessonDirectories\n";
 foreach(@lessonDirectories){
 	my $currentLesson = $_;
 	print "Working on $currentLesson\n";
-	open(my $intext, "<","/$currentLesson/lesson.xml") or die "Couldn't open lesson file for $currentLesson: $!\n";
-	open(my $outext, ">", "Questions/Questions-$currentLesson") or die "Couldn't create output file for $currentLesson: $!";
+	open(my $intext, "<","InputFiles/activities/$currentLesson/lesson.xml") or die "Couldn't open lesson file for $currentLesson: $!\n";
+	open(my $outext, ">", "Questions/Questions-$currentLesson.txt") or die "Couldn't create output file for $currentLesson: $!";
 		my $target = "<qtype>3</qtype>"; my $targetClose = "</page>";
 		#target "phrases" selecting for question blocks.
 		my @workingText;
@@ -51,5 +52,4 @@ foreach(@lessonDirectories){
 	close($outext);
 	close($intext);
 }
-closedir(ACTIVITIES)
 }
