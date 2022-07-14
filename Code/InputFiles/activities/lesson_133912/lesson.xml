@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="526" moduleid="133912" modulename="lesson" contextid="204312">
+  <lesson id="526">
+    <course>3128</course>
+    <name>Lesson 9: Work</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>7</maxanswers>
+    <maxattempts>3</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>7</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>133913</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>1640177100</deadline>
+    <timemodified>1637763952</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="8294">
+        <prevpageid>0</prevpageid>
+        <nextpageid>8295</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1595458378</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reflect before you start</title>
+        <contents>&lt;p&gt;This lesson is called Work.  It will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The definition of work&lt;/li&gt;
+&lt;li&gt;How to choose our system to make it easier to analyze&lt;/li&gt;
+&lt;li&gt;Extending the Law of Conservation of Energy to include work&lt;/li&gt;
+&lt;li&gt;Relating forces to work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before you start to look at any complicated content, whether it is a textbook, a set of video lectures, a web page, whatever, it is a good idea to prepare to learn by doing a bit of reflection.  To develop the habit it is good to write some reflections.  In the space below write three things (sentences, point form, whatever you want) about what you are about to learn.  Here are some things you might write about below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List things that you think you might learn about in the lesson (in more detail than was given in the list above).&lt;/li&gt;
+&lt;li&gt;List things that you already know about the topics of this lesson.&lt;/li&gt;
+&lt;li&gt;List things that you have heard about these topics, but don't understand.&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19169">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1595458378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8295">
+        <prevpageid>8294</prevpageid>
+        <nextpageid>8339</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1572793157</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You do not have to finish the lesson all in one sitting.  You may reattempt it if you are not satisfied with how you did.  Here is a "map" of the lesson.  This is partly because moodle has a tendency (which I haven't figured out) to skip the Reflective Writing parts of these lessons.  This map will help you see if you have missed any and find your way to where they should be.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_work.png" width="800" height="1091" alt="Lesson Map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19058">
+            <jumpto>8339</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 9-1: Defining Work</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19059">
+            <jumpto>8300</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 9-2: Choosing the System</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19060">
+            <jumpto>8304</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 9-3: Work by Constant Forces</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19061">
+            <jumpto>8307</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 9-4: Work by Variable Forces</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19062">
+            <jumpto>8310</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 9-5: Work in Two-dimensions</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19110">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19120">
+            <jumpto>8338</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8339">
+        <prevpageid>8295</prevpageid>
+        <nextpageid>8296</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1572754492</timemodified>
+        <title>Online Lecture 9-1: Defining Work (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=aqr8TGO0wEc&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=13&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19055">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8297">
+        <prevpageid>8296</prevpageid>
+        <nextpageid>8298</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755502</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-1: Defining Work (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=r0rOSKI3G2o&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=14&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19113">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755502</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8298">
+        <prevpageid>8297</prevpageid>
+        <nextpageid>8328</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572756902</timecreated>
+        <timemodified>0</timemodified>
+        <title>Person pulling up on spring.  Sign of work?</title>
+        <contents>&lt;p&gt;A mass is supported on a spring.  A person pulls up on the mass so that the spring becomes less compressed.  Let the system be just the spring.  Consider the force that the mass exerts on the spring.  Does this force do positive work or negative work?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/person_pulling_up_on_spring.png" width="320" height="446" alt="person pulling up on spring" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19126">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572756902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Negative work.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19127">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Positive work.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The force that the mass exerts on the spring is down.  The point where the mass touches the spring moves up.  What does this tell us?&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19128">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Zero work.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  There is a force on the object and the point of application of the force moved.  So work was done.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19129">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;We need numbers to calculate it.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  To know the sign of the work you don't need numbers.  We've just seen a rule which allows us to determine it without calculating.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8328">
+        <prevpageid>8298</prevpageid>
+        <nextpageid>8321</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755776</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-1: Defining Work (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=dKYrtciWyl8&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=14&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19114">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755776</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8300">
+        <prevpageid>8299</prevpageid>
+        <nextpageid>8301</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1572755045</timemodified>
+        <title>Online Lecture 9-2: Choosing the System (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=hCTirSqC6oA&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=3&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19063">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8301">
+        <prevpageid>8300</prevpageid>
+        <nextpageid>8302</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572757306</timecreated>
+        <timemodified>0</timemodified>
+        <title>Person pushing two carts.  Choose energy bar chart.</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/carts_and_spring_pushed_before_after.png" width="966" height="316" alt="two carts being pushed" /&gt;&lt;/p&gt;
+&lt;p&gt;A person pushes a cart on low-friction wheels.  The cart is connected to another cart by a spring which is initially relaxed.  As a result, both carts speed up and the spring compresses.  The system is the two carts and the spring.  Which is the correct energy bar chart?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/energy_bar_charts_carts_with_spring_pushed_4choices.png" width="1054" height="562" alt="4 energy bar charts" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19130">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572757306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;B&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19131">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;A&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Notice that the person is not in the system.  The changes in chemical energy and in thermal energy would be happening in the person.  So those are not part of the system's energy.  Also, there are state changes outside the system (the person is getting tired).  So the system is not closed and so work must be done on the system.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19132">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;C&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Notice that the person is not in the system.  The changes in chemical energy and in thermal energy would be happening in the person.  So those are not part of the system's energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19133">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;D&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The person exerts a force to the right and the part of the cart they are touching also moves to the right.  So the external force and the force displacement vector point in the same direction.  So the work done must be positive.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8302">
+        <prevpageid>8301</prevpageid>
+        <nextpageid>8313</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755142</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-2: Choosing the System (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=wFKbekqt1Tw&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=4&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19111">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755142</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8313">
+        <prevpageid>8302</prevpageid>
+        <nextpageid>8330</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572757534</timecreated>
+        <timemodified>0</timemodified>
+        <title>Person pulling down on spring.  Choose energy bar chart.</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/person_pulling_down_on_spring.png" width="324" height="514" alt="person pulling  down on spring" /&gt;&lt;/p&gt;
+&lt;p&gt;A mass is hanging from a spring.  A person pulls down on it so that the spring stretches more and the mass goes down. The mass is stationary at the beginning and end of this process.  The system is: mass + person + Earth (note: spring not in system).  Which is the most correct energy bar chart?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/energy_bar_chart_person_pulling_down_on_mass_on_spring_4choices.png" width="1062" height="514" alt="four choices" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19134">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572757534</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;C&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19135">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757534</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;A&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The spring is not in the system.  So the system cannot have spring potential energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19136">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757534</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;B&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The spring is not in the system.  So the system cannot have spring potential energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19137">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572757534</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;D&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The spring is exerting a force up on the mass and the mass is moving down.  So the force and the force displacement vectors point in opposite directions.  What does this tell us about the sign of the work?&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8304">
+        <prevpageid>8303</prevpageid>
+        <nextpageid>8305</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1572755442</timemodified>
+        <title>Online Lecture 9-3: Calculating Work by Constant Forces (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=X5X_EWUbc-I&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=6&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19064">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8305">
+        <prevpageid>8304</prevpageid>
+        <nextpageid>8315</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572790454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Work by two forces on an object</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/cart_pushed_two_ext_forces.png" width="960" height="257" alt="cart with two forces" /&gt;&lt;/p&gt;
+&lt;p&gt;A cart is moving to the right as shown.  A 5 N external force acts to the right on it and a 2 N external force acts to the left on it.  The cart moves 2 m.  What is the total work done on the cart?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19138">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572790454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;6 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  The vector sum of forces is a 3 N force to the right.  Multiply the rightward component of that by 2 m and you get 6 J.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19139">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;3 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you just calculate the vector sum of forces (3 N to the right)?  That's a force, not an energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19140">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;5 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you just take the larger force and switch the units from N to J?  That's not how a work is calculated.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19141">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;10 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;That is the work done by the 5 N force.  But we want the total work done by all of the forces. &lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19142">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;14 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Nope.  Did you take 5 N + 2 N = 7 N as the total force and then multiply that by 2 m?  The sum of forces is a *vector* sum and these two forces point in opposite directions, so you can't just add their magnitudes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8315">
+        <prevpageid>8305</prevpageid>
+        <nextpageid>8316</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755874</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-3: Calculating Work by Constant Forces (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=PD8AHxQROSk&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=6&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19115">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755874</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8307">
+        <prevpageid>8306</prevpageid>
+        <nextpageid>8308</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1572756028</timemodified>
+        <title>Online Lecture 9-4: Work by Variable Forces (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=fRwSeCbRReU&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=8&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19065">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8308">
+        <prevpageid>8307</prevpageid>
+        <nextpageid>8309</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572791722</timecreated>
+        <timemodified>0</timemodified>
+        <title>Work by a varying force</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Fvsx_linear.png" width="284" height="268" alt="linear force vs. position graph" /&gt;&lt;/p&gt;
+&lt;p&gt;An object moves from x = 1 m to x = 3 m.  An external force acts on it which depends on position as shown in the force vs. position graph below.  How much work is done on the object?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19148">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572791722</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;20 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  Rectangle + triangle...&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19149">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572791722</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;15 N&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  That is the force at x = 3 m.  The question asks for a work done from x = 1 m to x = 3 m.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19150">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572791722</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;10 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  You need to take the area under the graph.  This area is a rectangle and a triangle.  Did you only do the triangle?&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19151">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572791722</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;15 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The *force* at x = 3 m is 15 N.  Did you think that was the work?&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19152">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572791722</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;45 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you just do (15 N)(3 m)?  That is the final force times the final position, which can be thought of  as a rectangle on the graph.  But the work is the area under the graph from x = 1 m to x = 3 m.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8309">
+        <prevpageid>8308</prevpageid>
+        <nextpageid>8314</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572756100</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-4: Work by Variable Forces (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=-b5Fz3v_PLE&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=9&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19117">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756100</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8314">
+        <prevpageid>8309</prevpageid>
+        <nextpageid>8334</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572792077</timecreated>
+        <timemodified>0</timemodified>
+        <title>Determining force from U(x)</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/piecewise_U.jpg" width="464" height="400" alt="piecewise linear U(x)" /&gt;&lt;/p&gt;
+&lt;p&gt;An object moves subject to an interaction which has the potential energy vs. position function shown in the graph above.  The object does not have any forces acting on it except for the one associated with this interaction.  At x = 3.5 m what is the x-component of the force acting on this object?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19153">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;- 2 N&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  The negative of the slope of the graph at x = 3.5 m.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19154">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;1 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;That's an energy.  The question has asked for a force.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19155">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;1 N&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you just read off that at x = 3.5 m the graph says 1?  Note that it says 1 J, not 1 N.  The graph is not (directly) showing force, it is showing a potential energy.  But we have just seen how to determine a force from a potential energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19156">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;2 N&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Almost.  But the relation between force and potential energy that we just saw in the video lecture says that the x-component of the force is the  *negative* of the slope of the U(x) graph.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19157">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;- 1 N&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you just read off that at x = 3.5 m the graph says 1?  Note that it says 1 J, not 1 N.  The graph is not (directly) showing force, it is showing a potential energy.  But we have just seen how to determine a force from a potential energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19158">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792077</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;2 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;That's an energy.  The question has asked for a force.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8311">
+        <prevpageid>8310</prevpageid>
+        <nextpageid>8312</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572792150</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19159">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792150</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8312">
+        <prevpageid>8311</prevpageid>
+        <nextpageid>8327</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572792341</timecreated>
+        <timemodified>0</timemodified>
+        <title>Compare work by two forces.</title>
+        <contents>&lt;p&gt;Cart A is pulled horizontally with a force of magnitude, F, over a distance of d.  Cart B is pulled with a force of the same magnitude, F, over an identical distance, d, but this force is angled upward at some angle.  Which of these forces does more work?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19161">
+            <jumpto>8336</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572792341</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The force on cart A.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19162">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792341</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The force on cart B.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Note that work done by a force, \( \vec{F} \), exerted as the point of application moves through a force displacement vector, \( \Delta \vec{r} \), is \(W = F\delta r \cos{\phi} \), where \( \phi \) is the angle between the force and the force displacement.  The cosine function is less than or equal to 1, and its maximum occurs at an angle of zero.  So a force that is parallel to the motion does more work than a force of the same magnitude that isn't parallel to the motion.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19163">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792341</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Both do the same amount of work.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Note that work done by a force, \( \vec{F} \), exerted as the point of application moves through a force displacement vector, \( \Delta \vec{r} \), is \(W = F\delta r \cos{\phi} \), where \( \phi \) is the angle between the force and the force displacement.  The cosine function is less than or equal to 1, and its maximum occurs at an angle of zero.  So a force that is parallel to the motion does more work than a force of the same magnitude that isn't parallel to the motion.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19164">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792341</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;We need to know the inertias of the carts so we can find the change in kinetic energy.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Work can be calculated from the force and the displacement.  Note that work done by a force, \( \vec{F} \), exerted as the point of application moves through a force displacement vector, \( \Delta \vec{r} \), is \(W = F\delta r \cos{\phi} \), where \( \phi \) is the angle between the force and the force displacement.  The cosine function is less than or equal to 1, and its maximum occurs at an angle of zero.  So a force that is parallel to the motion does more work than a force of the same magnitude that isn't parallel to the motion.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8327">
+        <prevpageid>8312</prevpageid>
+        <nextpageid>8336</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572792582</timecreated>
+        <timemodified>0</timemodified>
+        <title>Work by a force at an angle</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/cart_pulled_by_angled_rope_component_back.png" width="624" height="237" alt="cart pulled by rope" /&gt;&lt;/p&gt;
+&lt;p&gt;A cart is pulled by a rope at an angle as shown.  The cart is moving right and the rope is angled back and up.  Does this force do positive or negative work on the cart?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19165">
+            <jumpto>8336</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572792582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;W &amp;lt; 0&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  The cosine function is negative for angles over 90 degrees.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19166">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;W &amp;gt; 0 &lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The cosine function is negative for angles over 90 degrees.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19167">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;W = 0 because the force is not in the direction of motion.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The work by a force depends on the angle between the force and the displacement.  It is largest when those two vectors are parallel, but it is only zero if the force and displacement vectors are perpendicular.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19168">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;We need more information (size of force, inertia of cart) so we can calculate the change in kinetic energy.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Work can be calculated from the force and the force displacement vector.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8330">
+        <prevpageid>8313</prevpageid>
+        <nextpageid>8319</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755237</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-2: Choosing the System (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=tDpAKDdKTcw&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=5&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19112">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755237</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8334">
+        <prevpageid>8314</prevpageid>
+        <nextpageid>8325</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572756142</timecreated>
+        <timemodified>1606076089</timemodified>
+        <title>Online Lecture 9-4: Work by Variable Forces (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=eQhYPBwKOQE&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=12"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19118">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756142</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8316">
+        <prevpageid>8315</prevpageid>
+        <nextpageid>8332</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572790866</timecreated>
+        <timemodified>0</timemodified>
+        <title>Work by two forces on two carts</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/carts_and_spring_pushed_two_ext_forces.png" width="964" height="282" alt="two carts  being pushed" /&gt;&lt;/p&gt;
+&lt;p&gt;Two carts connected by a spring are moving to the right as shown.  A 5 N external force acts to the right on cart A and a 2 N external force acts to the left on cart B.  As they move the spring compresses so that while cart A moves 5 m, cart B only moves 4 m.  The system is the two carts and the spring.  What is the total work done on the system?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19143">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572790866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;17 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  We have F_1x Dx_1 + F_2x Dx_2 = (5 N)(5 m) + (-2 N)(4 m) = 17 J.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19144">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;3 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  I think you just took the sum of x-components of the forces, 5 N + (-2 N) = 3 N.  That's not a work.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19145">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;25 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  That is the work done by the 5 N force.  But we want the total work done by both of the external forces.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19146">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;33 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  Did you take (5 N)(5 m) + (2 N)(4 m) = 33 J?  But the forces point in opposite directions and the sum is supposed to involve the x-components of the forces, not their magnitudes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19147">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572790866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;63 J&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  You probably did (5 N + 2 N)(5 m + 4 m) = (7 N)(9 m) = 63 J.  In other words you did the sum of force magnitudes times the sum of the force displacements.  But that isn't the equation we found for work by multiple forces.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8332">
+        <prevpageid>8316</prevpageid>
+        <nextpageid>8323</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572755970</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-3: Calculating Work by Constant Forces (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=eqyWq89YGBg&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=7&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19116">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572755970</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8303">
+        <prevpageid>8317</prevpageid>
+        <nextpageid>8304</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628462</timecreated>
+        <timemodified>1642271284</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 9 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Speculate about why it might be useful to analyze an energy problem using more than one choice of system.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19070">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628462</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8310">
+        <prevpageid>8318</prevpageid>
+        <nextpageid>8311</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572756237</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 9-5: Work in Two-dimensions</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=WwrtGgMTLK8&amp;amp;list=PLqogu67Xpeido1WI9ERF6D_YCLZTBC_9x&amp;amp;index=11&amp;amp;t=0s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19119">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756237</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8331">
+        <prevpageid>8319</prevpageid>
+        <nextpageid>8320</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503322365</timecreated>
+        <timemodified>0</timemodified>
+        <title>What should you include?</title>
+        <contents>&lt;p&gt;Bob pushes a box across the floor.  The floor is horizontal and friction is not negligible.  If we wish to analyse this situation which of the following would be the best choice of system?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19083">
+            <jumpto>8317</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503322365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The box and the floor.</answer_text>
+            <response>Yes.  We could include Bob, or not.  But we need to include both the box and the floor because friction acts between them and we don't want friction acting along our system boundary.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19084">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Bob, the box and the Earth.</answer_text>
+            <response>No.  Notice that there is friction between the box and the floor.  What is the advice that I gave about friction?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19085">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The box and the Earth.</answer_text>
+            <response>No.  Notice that there is friction between the box and the floor.  What is the advice that I gave about friction?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19086">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Bob, the floor and the Earth.</answer_text>
+            <response>No.  Notice that there is friction between the box and the floor.  What is the advice that I gave about friction?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8317">
+        <prevpageid>8320</prevpageid>
+        <nextpageid>8303</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1501729445</timemodified>
+        <title>End of cluster 9-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19068">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1501729445</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8329">
+        <prevpageid>8321</prevpageid>
+        <nextpageid>8322</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503321516</timecreated>
+        <timemodified>0</timemodified>
+        <title>Work by gravity on falling rock</title>
+        <contents>&lt;p&gt;You drop a rock.  As it falls the gravitational force acts down (unsurprisingly...).  Consider the system to be just the rock.  What can we say about the work done by the gravitational force on the rock?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19074">
+            <jumpto>8299</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503321516</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The work done by gravity is positive.</answer_text>
+            <response>Yes.  The gravitational force is in the same direction as the force displacement, so the work is positive.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19075">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321516</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The work done by gravity is negative.</answer_text>
+            <response>No.  Perhaps you are thinking of gravitational potential energy?  But we can't define a gravitational potential energy since the system doesn't include the Earth.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19076">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321516</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The work done by gravity is zero.</answer_text>
+            <response>No.  The rock moves down and the force is acting downwards.  What does this tell you?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19077">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321516</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't define a work done by gravity because the Earth isn't included in our system.</answer_text>
+            <response>No.  We can't define a gravitational potential energy because the Earth isn't included in our system.  But we can certainly find a work done by the gravitational force.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19078">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321516</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We would need to know the force that gravity exerts on the rock to be able to say anything.</answer_text>
+            <response>No.  We know the direction of the gravitational force and we know the direction of the force displacement.  So we can certainly say whether the work is positive or negative.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8299">
+        <prevpageid>8322</prevpageid>
+        <nextpageid>8300</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462905142</timecreated>
+        <timemodified>1501729415</timemodified>
+        <title>End of cluster 9-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19056">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462905142</timecreated>
+            <timemodified>1501729415</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8333">
+        <prevpageid>8323</prevpageid>
+        <nextpageid>8324</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503321945</timecreated>
+        <timemodified>1572793222</timemodified>
+        <title>Work by two friends pushing boxes</title>
+        <contents>&lt;p&gt;Adam and Bob are moving, and trying to outdo each other with how quickly they can move boxes.  Both push boxes 5 m across the room.  Adam pushes a box that has an inertia of 50 kg across the floor, not necessarily at constant speed.  At the same time Bob pushes a box with an inertia of 75 kg, not necessarily at constant speed.  Both exert forces or 500 N.  Unsurprisingly, Adam, who is pushing the lighter box, wins the race across the room.&lt;/p&gt;
+&lt;p&gt;Which of Adam or Bob did more work?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19079">
+            <jumpto>8306</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503321945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They do the same work.</answer_text>
+            <response>Yes.  Same force, same force displacement.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19080">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Adam does more work.</answer_text>
+            <response>No.  Do you think that because he covered the distance faster?  Look at the definition of work.  It does not involve velocity.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19081">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Bob does more work.</answer_text>
+            <response>No.  Do you think that because his box had a higher inertia?  Look at the definition of work.  Inertia does not appear in it.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19082">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503321945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Neither of them did work.  They were just having fun.</answer_text>
+            <response>Maybe, but from the physics definition they did work.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8306">
+        <prevpageid>8324</prevpageid>
+        <nextpageid>8307</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1501729489</timemodified>
+        <title>End of cluster 9-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19069">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1501729489</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8335">
+        <prevpageid>8325</prevpageid>
+        <nextpageid>8326</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503324944</timecreated>
+        <timemodified>1573083499</timemodified>
+        <title>Compare motors</title>
+        <contents>&lt;p&gt;At a construction site two winches, run by motors, are being used to raise loads of bricks to the top of a building.  Each load contains the same number of bricks.  Winch A is able to lift a load of bricks to the top of the building in half the time that it takes winch B.  Which of the following is a correct comparison of the winches?  Both winches lift the bricks at constant speed.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19100">
+            <jumpto>8318</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503324944</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Winch A and B do the same amount of work as they lift a load to the top of the building.  Winch A's power output is higher.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19101">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324944</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Winch A and B do the same amount of work as they lift a load to the top of the building.  Winch B's power output is higher.</answer_text>
+            <response>No.  Winch A does the same work in half the time as B.  So it's power output is higher.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19102">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324944</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Winch A does more work than winch B each time it lifts a load.  They both have the same power output.</answer_text>
+            <response>No.  The amount of work would just be the change in gravitational potential energy of the bricks.  How do those compare for the two winches?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19103">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324944</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Winch A does more work  than winch B each time it lifts a load, and winch A also has the higher power output.</answer_text>
+            <response>No.  The amount of work would just be the change in gravitational potential energy of the bricks.  How do those compare for the two winches?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19104">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324944</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Winch A does less work  than winch B each time it lifts a load but it has a higher power output.</answer_text>
+            <response>No.  The amount of work would just be the change in gravitational potential energy of the bricks.  How do those compare for the two winches?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8318">
+        <prevpageid>8326</prevpageid>
+        <nextpageid>8310</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501729516</timecreated>
+        <timemodified>1572756162</timemodified>
+        <title>End of cluster 9-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19073">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501729516</timecreated>
+            <timemodified>1572756162</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8336">
+        <prevpageid>8327</prevpageid>
+        <nextpageid>8337</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1572792162</timecreated>
+        <timemodified>1572792178</timemodified>
+        <title>End of cluster 9-5</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19160">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572792162</timecreated>
+            <timemodified>1572792178</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8321">
+        <prevpageid>8328</prevpageid>
+        <nextpageid>8329</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462908568</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19057">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462908568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8322">
+        <prevpageid>8329</prevpageid>
+        <nextpageid>8299</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503323470</timecreated>
+        <timemodified>0</timemodified>
+        <title>pushing up ramp, washing machine coming down</title>
+        <contents>&lt;p&gt;A person is moving a washing machine down a ramp.  To keep it from going too fast they are pushing up the ramp as the washing machine slides down the ramp.  The are pushing hard enough that the washing machine comes down the ramp at constant speed.  The system is the ramp, the Earth and the washing machine.&lt;/p&gt;
+&lt;p&gt;What can say about the work that the person is doing on the system?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/person_pushing_box_pushing_up_slope_box_coming_down_slope.png" width="283" height="243" alt="person pushing up slope" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19092">
+            <jumpto>8299</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503323470</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>It is negative.</answer_text>
+            <response>Yes.  The force is in the opposite direction to the force displacement vector.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19093">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503323470</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>It is positive.</answer_text>
+            <response>No.  Did you think this because they are pushing up the slope and you associate up with positive?  Compare the direction of the force with the direction of the force displacement.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19094">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503323470</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>It is zero.</answer_text>
+            <response>No.  Did you say that because the washing machine is moving at constant speed so the system's kinetic energy is not changing?  But the work done is equal to the change in the total energy of the system, not just the kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19095">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503323470</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>It depends on how hard they push.</answer_text>
+            <response>No, it doesn't.  Look at the directions of the force and the force displacement.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8319">
+        <prevpageid>8330</prevpageid>
+        <nextpageid>8331</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19067">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8320">
+        <prevpageid>8331</prevpageid>
+        <nextpageid>8317</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503322682</timecreated>
+        <timemodified>0</timemodified>
+        <title>Is work done?</title>
+        <contents>&lt;p&gt;Adam pushes a box across the floor.  The floor is horizontal and friction is not negligible.  The system is Adam, the box and the floor.  What external force does work on the system?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19087">
+            <jumpto>8317</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503322682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>No work is done.</answer_text>
+            <response>Yes.  All of the interactions (box-floor, box-Adam, Adam-floor) are internal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19088">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The applied force on the box.</answer_text>
+            <response>What is the agent of this force?  You need to draw some free body diagrams and think about agents of forces.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19089">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The force that Adam exerts on the box.</answer_text>
+            <response>No, that force is internal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19090">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic friction due to the floor, acting on the box.</answer_text>
+            <response>No, that force is internal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19091">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503322682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Static friction due to the floor, acting on Adam.</answer_text>
+            <response>No, that force is internal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8323">
+        <prevpageid>8332</prevpageid>
+        <nextpageid>8333</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19066">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8324">
+        <prevpageid>8333</prevpageid>
+        <nextpageid>8306</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503324245</timecreated>
+        <timemodified>0</timemodified>
+        <title>work done on a two cart system</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/carts_and_spring_pushed_before_after.png" width="700" height="229" alt="carts and spring pushed" /&gt;&lt;/p&gt;
+&lt;p&gt;The arrangement of two carts and a spring above is initially at rest and the spring is initially uncompressed.  The person pushes them so that they speed up.  The total system inertia is 50 kg.  After a short time the system's center of mass (roughly at the middle of the spring) is moving at 2 m/s and the spring is somewhat compressed.  How much work was done on the system?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19096">
+            <jumpto>8306</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503324245</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We can't tell from the information given.</answer_text>
+            <response>Correct.  All we can calculate is the K_cm, which is not equal to the work.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19097">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324245</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>100 J</answer_text>
+            <response>No.  You have found the kinetic energy of the center of mass of the system.  That is not equal to the work done on the system in general.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19098">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324245</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>200 J</answer_text>
+            <response>No.  I think you took the system inertia and just multiplied by a speed squared, using the only speed that was provided.  So if you were trying to calculate a kinetic energy you missed a factor of two.  However, finding the kinetic energy of the 50 kg system will not tell you the work done on it.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19099">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503324245</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Less than 100 J</answer_text>
+            <response>No.  The K_cm of the system is 100 J.  The spring is compressed so it must have some U_S and the carts are probably in motion relative to each other so the system would also have some K_conv.  So the system energy must be greater 100 J.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8325">
+        <prevpageid>8334</prevpageid>
+        <nextpageid>8335</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501729512</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="19072">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501729512</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8326">
+        <prevpageid>8335</prevpageid>
+        <nextpageid>8318</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1503325689</timecreated>
+        <timemodified>0</timemodified>
+        <title>Compare springs</title>
+        <contents>&lt;p&gt;Spring A has a higher stiffness than spring B.  Which has more stored energy if you compress both by the same amount?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19105">
+            <jumpto>8318</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1503325689</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring A</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19106">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503325689</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring B</answer_text>
+            <response>No, think about it.  Which will take more effort to compress?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19107">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503325689</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They will have the same stored energy, since \(U_S\) only depends on the amount of compression.</answer_text>
+            <response>No, it also depends on the spring stiffness.  Look the expression for U_S.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19108">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1503325689</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We need to know how much force was used to compress them.</answer_text>
+            <response>The amount of compression is determined by the force and by the spring stiffness.  So since we know how their stiffnesses compare and we know that the amounts of compression are the same we can actually draw conclusions about how much force must be used to compress each.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8337">
+        <prevpageid>8336</prevpageid>
+        <nextpageid>8338</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628861</timecreated>
+        <timemodified>1599783885</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures". &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. One of our most basic forms of the work-energy theorem is \( W = (\sum F_x) \Delta x \).  Explain why this form of the work-energy theorem is only valid for work done by constant forces on a particle.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19071">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628861</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8338">
+        <prevpageid>8337</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530200128</timecreated>
+        <timemodified>1642271296</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------First Half-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 9 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Speculate about why it might be useful to analyze an energy problem using more than one choice of system.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;
+&lt;p&gt;------------End of Lesson-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. One of our most basic forms of the work-energy theorem is \( W = (\sum F_x) \Delta x \).  Explain why this form of the work-energy theorem is only valid for work done by constant forces on a particle.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19109">
+            <jumpto>8295</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530200128</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8296">
+        <prevpageid>8339</prevpageid>
+        <nextpageid>8297</nextpageid>
+        <qtype>5</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1572756623</timecreated>
+        <timemodified>1572756691</timemodified>
+        <title>Match, which are isolated and/or closed?</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/three_situations_carts_and_springs.png" width="845" height="238" alt="three situations" /&gt;&lt;/p&gt;
+&lt;p&gt;Consider 3 cases:&lt;/p&gt;
+&lt;p&gt;1. A cart is launched from a wall by a spring. The system is cart + spring.&lt;br /&gt;2. A cart is launched from a wall by a spring. The system is just the cart.&lt;br /&gt;3. Two carts collide. One has a spring attached to it. The system is both carts + spring.&lt;/p&gt;
+&lt;p&gt;Which systems are isolated? Which systems are closed? Match each system to the correct description.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19121">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1572756623</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Yes.&lt;/p&gt;</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19122">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756623</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Remember that a system is isolated if the sum of external forces acting on the system is zero and it is closed if it does not exchange energy with its environment.&lt;/p&gt;</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19123">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756623</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;</answer_text>
+            <response>Closed but not isolated</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19124">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756623</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/p&gt;</answer_text>
+            <response>Neither isolated nor closed</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19125">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1572756623</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/p&gt;</answer_text>
+            <response>Isolated and closed</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

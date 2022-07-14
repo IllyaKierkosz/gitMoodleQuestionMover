@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="41676">
+    <name>Survey to find  best date for a review session opens</name>
+    <description>&lt;div class="no-overflow"&gt;&lt;p&gt;We will use this survey to find the best date for a review session.  Note that it is unlikely that we can find a time that will work for everyone.  If we end up selecting a time that doesn't work for you then I suggest that you work through things in your studying (sample exam, etc.) then find some time to visit me in my office to go over it.&lt;/p&gt;
+&lt;p&gt;If we pick one of the days on Dec. 10 or later I will have to remove availability of some one-on-one appointment time slots to make room for the review session.  Or the review session might need to be a bit short.  It might make sense to do two short review session on different days rather than one long one.&lt;/p&gt;&lt;/div&gt;</description>
+    <format>1</format>
+    <courseid>3128</courseid>
+    <groupid>0</groupid>
+    <userid>2</userid>
+    <repeatid>0</repeatid>
+    <modulename>feedback</modulename>
+    <instance>1692</instance>
+    <type>0</type>
+    <eventtype>open</eventtype>
+    <timestart>1638455100</timestart>
+    <timeduration>0</timeduration>
+    <timesort>1638455100</timesort>
+    <visible>0</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1638796692</timemodified>
+    <priority>$@NULL@$</priority>
+    <location>$@NULL@$</location>
+  </event>
+</events>

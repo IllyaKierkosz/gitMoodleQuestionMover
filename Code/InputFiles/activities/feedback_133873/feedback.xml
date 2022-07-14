@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1842" moduleid="133873" modulename="feedback" contextid="204273">
+  <feedback id="1842">
+    <name>ball_shot_from_spring-writing_conservation_of_energy</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1635760800</timeclose>
+    <timemodified>1636989620</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4464">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;A ball is shot out of a spring loaded gun at an angle as shown.  “Initial” is before the trigger is pulled.  “Final” is when the ball is at maximum height. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/ball_shot_from_spring.png" alt="ball shot from spring" width="500" height="159" /&gt;&lt;/p&gt;
+&lt;p&gt;As  we have already discussed, the energy bar chart depends on our choice of system.  Here are two options:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/two_energy_bar_charts_spring_loaded_gun_different_system_choices.png" alt="two options for energy bar charts" width="400" height="168" /&gt;&lt;/p&gt;
+&lt;p&gt;Suppose two students are trying to write down correct conservation of energy equations for this situation.  Student A chooses the &lt;strong&gt;system of ball, spring, Earth&lt;/strong&gt; and writes the equation:&lt;/p&gt;
+&lt;p&gt;$$U_{si} = U_{gf} + K_f$$&lt;/p&gt;
+&lt;p&gt;Student B chooses the &lt;strong&gt;system of ball, spring&lt;/strong&gt; (Earth not in system) and writes the equation:&lt;/p&gt;
+&lt;p&gt;$$U_{si} = K_f$$&lt;/p&gt;
+&lt;p&gt; Are these both correct conservation of energy equations for this situation?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4465">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Yes, both are correct.
+|No, both  are incorrect because neither includes an initial gravitational potential energy.
+|A is correct.  B is incorrect because the system is not closed so \( E_i \neq E_f \).
+|B is correct.  A is incorrect because the system is not closed so \( E_i \neq E_f \).</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

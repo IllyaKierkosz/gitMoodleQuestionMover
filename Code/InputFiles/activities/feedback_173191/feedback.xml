@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2245" moduleid="173191" modulename="feedback" contextid="253914">
+  <feedback id="2245">
+    <name>How far did it go? (copy)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1631739600</timeclose>
+    <timemodified>1631706177</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5383">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;The graph shows the \( v_x \) vs. t graph for a person on a bicycle.&lt;/p&gt;
+&lt;p&gt; &lt;img src="@@PLUGINFILE@@/vx_vs_t_const_then_pos_slope_for_integral_find_Dx.png" alt="vx vs. t - const. then increasing" width="361" height="222" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From t = 1 s until t = 4 s&lt;/strong&gt; what is the person's x-component of displacement?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5384">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;5 m
+|9 m
+|12 m
+|4 m
+|15 m&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

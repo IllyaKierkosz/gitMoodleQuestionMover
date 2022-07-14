@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19205" moduleid="133784" modulename="url" contextid="204184">
+  <url id="19205">
+    <name>Collision Simulation</name>
+    <intro>&lt;p&gt;This simulation uses Flash.  So you need a working Flash player on your computer to use it.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://phet.colorado.edu/sims/collision-lab/collision-lab_en.html</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1505265950</timemodified>
+  </url>
+</activity>

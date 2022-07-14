@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2364" moduleid="183087" modulename="feedback" contextid="268467">
+  <feedback id="2364">
+    <name>Speeding? (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1634572800</timeclose>
+    <timemodified>1634556695</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5627">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/police_car_other_car_same_dir.png" alt="police car and other  car, both going left" width="400" height="113" /&gt;&lt;/p&gt;
+&lt;p&gt;A police officer is driving along the road at 65 km/hr, in a 70 km/hr zone.  The car has a radar gun installed, which measures relative velocity. The radar gun is reading 20 km/hr (away) as it is pointed at a car going in the same direction a little in front of the police car. &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5628">
+        <template>0</template>
+        <name> Is the other car speeding? </name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;No, they are only going 20 km/hr
+|Yes, they are going 85 km/hr
+|No, they are only going 45 km/hr
+|No, they are going -45 km/hr</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

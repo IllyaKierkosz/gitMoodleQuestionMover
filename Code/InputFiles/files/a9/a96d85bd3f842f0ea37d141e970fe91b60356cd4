@@ -1,0 +1,272 @@
+# Start of question: E from equipotential lines [2]
+:TYPE:MC:1:0:C
+:TITLE:E from equipotential lines [2]
+:FEEDBACK:H
+
+:QUESTION:H
+You use a potentiometer (voltmeter) to measure the potential at various points in a region and from your measurements construct the diagram below of the equipotential lines.  The electrical field in this region is best described as
+:IMAGE:figures_for_quizzes/connect_EandV/parallel equipotential lines_increasing_field.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Pointing to the right, increasing in strength as you move from left to right
+:ANSWER2:0:H
+Uniform in strength, pointing from right to left
+:ANSWER3:0:H
+Pointing to the right, decreasing in strength as you move from left to right
+:ANSWER4:0:H
+Uniform in strength, pointing from left to right
+:ANSWER5:0:H
+Pointing from the top to the bottom of the figure, uniform in strength.
+:ANSWER6:0:H
+Pointing from the bottom to the top of the figure, uniform in strength.
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: E from equipotential lines [2]
+
+# Start of question: sort in increasing electric field strength (from equipot lines)
+:TYPE:MC:1:0:C
+:TITLE:sort in increasing electric field strength (from equipot lines)
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram below shows the equipotential lines in some region of space.  Sort the points A through D in order of increasing electric field strength.
+:IMAGE:figures_for_quizzes/connect_EandV/several_points_in_equipot_lines.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+D < C < B = A
+:ANSWER2:0:H
+C < D < B = A
+:ANSWER3:0:H
+A = B < C < D
+:ANSWER4:0:H
+C < D < B < A
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: sort in increasing electric field strength (from equipot lines)
+
+# Start of question: predict potential from field
+:TYPE:MC:1:0:C
+:TITLE:predict potential from field
+:FEEDBACK:H
+
+:QUESTION:H
+You place a positive charge at various locations in an area and note that, no matter where you put it, it always feel a force to the left and the magnitude of the force is the same everywhere.   If you use a potentiometer (voltmeter) to measure the potential at various points you should find that
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The potential decreases towards the left
+:ANSWER2:0:H
+The potential increases towards the left
+:ANSWER3:0:H
+The potential is the same everywhere
+:ANSWER4:0:H
+Not enough information
+:CAT:connect E and V
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: predict potential from field
+
+# Start of question: E from equipotential lines
+:TYPE:MC:1:0:C
+:TITLE:E from equipotential lines
+:FEEDBACK:H
+
+:QUESTION:H
+You use a potentiometer (voltmeter) to measure the potential at various points in a region and from your measurements construct the diagram below of the equipotential lines.  The electrical field in this region is best described as
+:IMAGE:figures_for_quizzes/connect_EandV/parallel_equipotential_lines.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Uniform in strength, pointing from left to right
+:ANSWER2:0:H
+Uniform in strength, pointing from right to left
+:ANSWER3:0:H
+Pointing from left to right, decreasing in strength as you move to the right
+:ANSWER4:0:H
+Pointing from right to left, decreasing in strength as you move to the left
+:ANSWER5:0:H
+Pointing from the top to the bottom of the figure, uniform in strength.
+:ANSWER6:0:H
+Pointing from the bottom to the top of the figure, uniform in strength.
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: E from equipotential lines
+
+# Start of question: parallel capacitors
+:TYPE:MC:1:0:C
+:TITLE:parallel capacitors
+:FEEDBACK:H
+
+:QUESTION:H
+Two capacitors, with different capacitances, are connected in parallel and allowed to reach equilibrium (i.e. we wait long enough that the charges on the capacitors are not changing anymore).  Which of the following is true?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:0:H
+The two capacitors hold the same charge.
+:ANSWER2:100:H
+The two capacitors have the same potential drop across them.
+:ANSWER3:0:H
+The two capacitors hold the same charge and the potential drops across them are the same.
+:ANSWER4:0:H
+The two capacitors hold different charges and the potential drops across them are also different
+:CAT:connect E and V
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: parallel capacitors
+
+# Start of question: Ball between plates
+:TYPE:MC:1:0:C
+:TITLE:Ball between plates
+:FEEDBACK:H
+
+:QUESTION:H
+A metal ball is placed in a region between parallel plates.  It does not make contact with either plate.  Before the ball was placed there the region contained a very strong uniform electrical field.  The field and equipotential surfaces just outside the ball after the ball is placed in the region are best described by
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The field lines are perpendicular to the ball's surface.  The surface of the ball is an equipotential surface.
+:ANSWER2:0:H
+The equipotential surfaces are perpendicular to the surface of the ball.  The field lines are parallel (tangent) to the ball's surface.
+:ANSWER3:0:H
+The field is zero just outside the ball.  The potential is zero on the surface of the ball.
+:ANSWER4:0:H
+The field lines will bend to avoid the ball.  The equipotential surfaces also bend to avoid the ball.
+:CAT:connect E and V
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: Ball between plates
+
+# Start of question: field and potential at surface of conductor
+:TYPE:MC:1:0:C
+:TITLE:field and potential at surface of conductor
+:FEEDBACK:H
+
+:QUESTION:H
+At the surface of a conductor how do the equipotential lines and electric field lines behave?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The equipotential lines match the shape of the surface.  The electric field lines are perpendicular to the surface.
+:ANSWER2:0:H
+The equipotential lines are perpendicular to the surface.  The electric field lines match the shape of the surface.
+:ANSWER3:0:H
+Both the equipotential lines and the electric field lines match the shape of the surface.
+:ANSWER4:0:H
+Both the equipotential lines and the electric field lines are perpendicular to the surface.
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: field and potential at surface of conductor
+
+# Start of question: two wires on a battery
+:TYPE:MC:1:0:C
+:TITLE:two wires on a battery
+:FEEDBACK:H
+
+:QUESTION:H
+Two long wires, A and B, are connected in parallel to a single battery so that each wire has the same potential drop over its length.  Wire A is longer than wire B.  The electrical field in wire A is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+weaker than the electric field in B
+:ANSWER2:0:H
+stronger than the electric field in B
+:ANSWER3:0:H
+the same as the electric field in B
+:ANSWER4:0:H
+both wires have zero electric fields inside them since they are conductors.
+:CAT:connect E and V
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: two wires on a battery
+
+# Start of question: series capacitors
+:TYPE:MC:1:0:C
+:TITLE:series capacitors
+:FEEDBACK:H
+
+:QUESTION:H
+Two capacitors, with different capacitances, are connected in series and allowed to reach equilibrium (i.e. we wait long enough that the charges on the capacitors are not changing anymore).  Which of the following is true?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The two capacitors hold the same charge.
+:ANSWER2:0:H
+The two capacitors have the same potential drop across them.
+:ANSWER3:0:H
+The two capacitors hold the same charge and the potential drops across them are the same.
+:ANSWER4:0:H
+The two capacitors hold different charges and the potential drops across them are also different
+:CAT:connect E and V
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: series capacitors
+
+# Start of question: match V vs. x to electric field lines
+:TYPE:MC:1:0:C
+:TITLE:match V vs. x to electric field lines
+:FEEDBACK:H
+
+:QUESTION:H
+The first diagram shows the electric field in some region of space.  Which graph describes the potential vs. position that best matches this electric field?
+:IMAGE:figures_for_quizzes/connect_EandV/match_Vvsx_to_field_lines.gif
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:0:H
+A
+:ANSWER2:0:H
+B
+:ANSWER3:0:H
+C
+:ANSWER4:100:H
+D
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: match V vs. x to electric field lines
+
+# Start of question: field at a point (from equipotential lines)
+:TYPE:MC:1:0:C
+:TITLE:field at a point (from equipotential lines)
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows the equipotential lines in some region of space.  The electric field vector at point A points
+:IMAGE:figures_for_quizzes/connect_EandV/point_in_equipotential_lines.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+down and to the left
+:ANSWER2:0:H
+up and to the right
+:ANSWER3:0:H
+up and to the left
+:ANSWER4:0:H
+down and to the right
+:CAT:connect E and V
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: field at a point (from equipotential lines)
+

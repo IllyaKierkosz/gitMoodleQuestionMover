@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3662" moduleid="187865" modulename="lti" contextid="274493">
+  <lti id="3662">
+    <name>Course Evaluations</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timecreated>1603304519</timecreated>
+    <timemodified>1606996550</timemodified>
+    <typeid>1</typeid>
+    <toolurl></toolurl>
+    <securetoolurl>$@NULL@$</securetoolurl>
+    <launchcontainer>1</launchcontainer>
+    <instructorchoicesendname>1</instructorchoicesendname>
+    <instructorchoicesendemailaddr>1</instructorchoicesendemailaddr>
+    <instructorchoiceacceptgrades>0</instructorchoiceacceptgrades>
+    <instructorchoiceallowroster>$@NULL@$</instructorchoiceallowroster>
+    <instructorchoiceallowsetting>$@NULL@$</instructorchoiceallowsetting>
+    <grade>0</grade>
+    <instructorcustomparameters></instructorcustomparameters>
+    <debuglaunch>0</debuglaunch>
+    <showtitlelaunch>1</showtitlelaunch>
+    <showdescriptionlaunch>0</showdescriptionlaunch>
+    <icon>$@NULL@$</icon>
+    <secureicon>$@NULL@$</secureicon>
+    <resourcekey encrypted="true">DaP9KgzaXGUE/vgqo2AI0jOEa4RyQSyskMBr4k2HG7OQ8vnGv3kgcMuhC8zkw7fbflrEfjU6eGiz0crIovXx4Q==</resourcekey>
+    <password encrypted="true">Sx0WXLtmlOfkHtx4JDguzxs9L8gdkm/9Wy4V94uwmIfyeaYZV3xLAFEhcqcKvRqeHRiRiptopvbPyUDTsxNIpQ==</password>
+    <ltitype id="1">
+      <name>Course Evaluations</name>
+      <baseurl>$@NULL@$</baseurl>
+      <tooldomain>$@NULL@$</tooldomain>
+      <state>$@NULL@$</state>
+      <course>1</course>
+      <coursevisible>$@NULL@$</coursevisible>
+      <ltiversion>$@NULL@$</ltiversion>
+      <clientid>$@NULL@$</clientid>
+      <toolproxyid>$@NULL@$</toolproxyid>
+      <enabledcapability>$@NULL@$</enabledcapability>
+      <parameter>$@NULL@$</parameter>
+      <icon>$@NULL@$</icon>
+      <secureicon>$@NULL@$</secureicon>
+      <createdby>$@NULL@$</createdby>
+      <timecreated>$@NULL@$</timecreated>
+      <timemodified>$@NULL@$</timemodified>
+      <description>$@NULL@$</description>
+      <ltitypesconfigs>
+      </ltitypesconfigs>
+    </ltitype>
+    <ltisubmissions>
+    </ltisubmissions>
+    <subplugin_ltiservice_gradebookservices_lti>
+      <lineitems>
+      </lineitems>
+    </subplugin_ltiservice_gradebookservices_lti>
+  </lti>
+</activity>

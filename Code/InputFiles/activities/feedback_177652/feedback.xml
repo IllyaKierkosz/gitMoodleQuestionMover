@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2316" moduleid="177652" modulename="feedback" contextid="260997">
+  <feedback id="2316">
+    <name>Concrete  block thrown into bin (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632949200</timeclose>
+    <timemodified>1632914550</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5523">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/brick_into_bin.png?time=1601392242607" alt="brick going down and right lands in bin.  Bin and brick are moving right after brick lands." width="350" height="115" /&gt;&lt;/p&gt;
+&lt;p&gt;A concrete block is thrown so that it lands in a bin on wheels.  Just before landing in the bin it is going down at an angle as shown.  After the collision the bin and concrete block are moving together as shown.  Define the system as the block and the bin.  Which vector diagram below shows the correct relationship between the initial momentum of the system, \(\vec{p}_i\), final momentum of the system, \(\vec{p}_f\) and impulse due to external interactions, \( \vec{J}_{ext}\)?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vector_diagrams_J_pf_pi.png?time=1601392277353" alt="relationship between initial and final momentums" width="400" height="295" /&gt;&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5524">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;A
+|B
+|C
+|D&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

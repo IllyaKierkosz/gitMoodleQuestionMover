@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19206" moduleid="133845" modulename="url" contextid="204245">
+  <url id="19206">
+    <name>Energy Skate Park Simulation</name>
+    <intro>&lt;p&gt;This simulation is a Java applet.  You will need a working Java Runtime Environment (JRE) working on your computer to run it.  Most computers these days have one.  If your computer doesn't have one then just google "java runtime environment download" and you'll be able to get the JRE for free.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://phet.colorado.edu/en/simulation/legacy/energy-skate-park</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1505265504</timemodified>
+  </url>
+</activity>

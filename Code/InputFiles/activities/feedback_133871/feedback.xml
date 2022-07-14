@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1840" moduleid="133871" modulename="feedback" contextid="204271">
+  <feedback id="1840">
+    <name>Where_is_U_G_0</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1635760800</timeclose>
+    <timemodified>1636989581</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4460">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;Consider any situation where a person throws a ball upward, as shown.  Suppose the &lt;strong&gt;system is the ball and the Earth&lt;/strong&gt;.  Since  the ball's height changes, and the Earth is included, the system's gravitational potential energy, \( U_G \) is changing.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/person_throw_ball_up.png" alt="Person throwing a ball upward" width="350" height="149" /&gt;&lt;/p&gt;
+&lt;p&gt;Where is \( U_G = 0 \)?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4461">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( U_G = 0 \) when the ball is at ground level.
+|\( U_G = 0 \) when the ball is in the person's hand.
+|\( U_G = 0 \) when the ball is stationary.
+|\( U_G = 0 \) where ever we want it to be.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2343" moduleid="180385" modulename="feedback" contextid="265021">
+  <feedback id="2343">
+    <name>Change_in_volume_of_beer_(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1633514400</timeclose>
+    <timemodified>1636655602</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5582">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;Consider some beer in a glass (I like this question already!).  There is still a bottle with some beer in it sitting near the glass.  Let our system be the region of space  containing the glass and the beer in it (&lt;strong&gt;note: this is not  normally how we will define systems in this course&lt;/strong&gt;).  Which processes do you expect can change the volume of beer in our system over a time period of a few minutes?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5583">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;input, output, creation and destruction
+|only creation and destruction
+|only input and output
+|input, output and conversion of glass into beer
+|drunken wishful thinking</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

@@ -1,0 +1,98 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage[hang]{subfigure}
+
+\addtolength{\textwidth}{2.5in}
+\addtolength{\textheight}{1.5in}
+\addtolength{\voffset}{-0.75in}
+\addtolength{\hoffset}{-1.25in}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{PHYS 1204 Assignment \#6 - Magnetic Fields}
+\rhead{Due: Friday, April 4}
+
+
+
+\begin{document}
+
+\begin{center}
+\Large \textbf{PHYS 1204 Assignment \#6 - Magnetic Fields} \normalsize
+\end{center}
+
+\vspace{12pt}
+
+%\nodate
+%\date{ }
+
+%\maketitle
+
+\large \textbf{Due date: Friday, April 4}\normalsize
+
+\vspace{12pt}
+
+\small 
+
+\begin{itemize}
+
+\item If you have questions about this assignment you should stop by my office, email me, or join in a discussion on the Moodle message boards.
+
+\item Remember, there are far more marks for procedure than for final answers.  Write your solutions neatly and in a well organized fashion.  Show all work.
+
+\item All work submitted must be your own work.  You are encouraged to work with other students but do not show each other the final work that you intend to submit.  If you collaborate with other students it is a good idea to cite them as sources for your work.
+
+\end{itemize}
+
+\normalsize
+
+\section*{Questions}
+
+\begin{enumerate}
+
+\item Chapter 32, Question 4
+
+\item Chapter 32, Question 6
+
+\item Chapter 32, Question 10
+
+\item Chapter 32, Question 14
+
+\item Chapter 32, Question 34
+
+\item Chapter 32, Question 60
+
+\item A proton is moving through the origin with a velocity of $(5.00, 5.00, 0) \times 10^7$ m/s. 
+
+\begin{enumerate}
+
+\item Find the magnetic field vector due to this proton at $(0,0,1.00)\times 10^{-5}$ m.
+
+\item An electron is moving through $(0,0,1.00)\times 10^{-5}$ m with a velocity of $(-5.00, -7.00, -8.00) \times 10^7$ m/s.  Find the magnitude of the magnetic force acting on this electron.  Hint: finding the angle between the electron's velocity vector and the B-field is messy.  It will be much easier to use the general form of the cross product or use the dot product to find just the angle between the vectors. 
+
+\item What are the accelerations of both the electron and the proton at this instant?
+
+\end{enumerate}
+
+
+\end{enumerate}
+
+
+%\begin{figure}[!h] 
+% \begin{minipage}{0.5\linewidth} 
+ % \centering 
+ % \includegraphics[width=0.75\textwidth]{snap_shot1} 
+  % \caption{\label{fig:snap_shot1}}
+ %\end{minipage}% 
+ %\begin{minipage}{0.5\linewidth} 
+  %\centering 
+  %\includegraphics[width=0.75\textwidth]{history_1} 
+  %\caption{\label{fig:history_1}}
+ %\end{minipage} 
+%\end{figure}
+
+
+
+\end{document}
+
+

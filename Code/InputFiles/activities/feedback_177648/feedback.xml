@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2312" moduleid="177648" modulename="feedback" contextid="260993">
+  <feedback id="2312">
+    <name>Momentum of air in a room? (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632949200</timeclose>
+    <timemodified>1632914483</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5515">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;A typical molecule in air (at room temperature) is moving about 500 m/s and has an inertia of 5 X 10&lt;sup&gt;-26&lt;/sup&gt; kg.  The total inertia of the air in my office is about 150 kg.  What is the approximate total momentum of the all of the air in my office?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5516">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;0
+|\( 7.5\times10^4 \hat{i}\) kg m/s
+|\( 7.5\times10^4 \) kg m/s
+|\( 2.5\times10^{-23} \hat{i}\) kg m/s
+|We don't have enough information</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

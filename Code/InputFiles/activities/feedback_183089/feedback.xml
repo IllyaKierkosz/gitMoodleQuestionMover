@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2366" moduleid="183089" modulename="feedback" contextid="268469">
+  <feedback id="2366">
+    <name>Velocity change (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1634551200</timeclose>
+    <timemodified>1634561824</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5631">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/one_cart_sam_trogdor_initial_final_cart_change_velocity.png" alt="Sam, Trogdor, and a cart, initial and final, cart changes velocity" width="408" height="600" /&gt;&lt;/p&gt;
+&lt;p&gt;A moment after the picture from the previous question, Wonder Woman runs through the picture and hits the cart on her way past.  As a result, the cart is now going right at 3 m/s.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5632">
+        <template>0</template>
+        <name>What was the cart's change in velocity as seen by each of Sam and Trogdor?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \Delta \vec{v}_C = 7 \hat{i} \, \textrm{m/s} \) according to both of them
+|\( \Delta \vec{v}_C = -7 \hat{i} \, \textrm{m/s} \) according to both of them
+|\( \Delta \vec{v}_{SC} = 3 \hat{i} \, \textrm{m/s} \), \( \Delta \vec{v}_{TC} = 5 \hat{i} \, \textrm{m/s} \)
+|\( \Delta \vec{v}_{SC} = 11 \hat{i} \, \textrm{m/s} \), \( \Delta \vec{v}_{TC} = 9 \hat{i} \, \textrm{m/s} \)</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

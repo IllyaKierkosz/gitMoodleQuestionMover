@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1775" moduleid="133774" modulename="feedback" contextid="204174">
+  <feedback id="1775">
+    <name>Bullet into block</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632949200</timeclose>
+    <timemodified>1632914525</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4327">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/bullet_into_block_block_splits.png" alt="bullet hits a block.  Block splits into two pieces.  Bullet is lodged in one piece." width="375" height="364" /&gt;&lt;/p&gt;
+&lt;p&gt;A bullet, A, is shot into a block, B, as shown.  The block splits into pieces, C and D, with the bullet embedded in piece D.  Before the collision, the block was sitting on a smooth tabletop.  If we were to "solve the collision", we would be interested in the velocity of piece C of the block just after the impact of the bullet.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4328">
+        <template>0</template>
+        <name>Is the system (at least approximately) isolated?  Why or why not?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;No, because of friction between the tabletop and the block.
+|No, because the block splits into pieces, and so there are more objects after the collision than there were before the collision.
+|Yes, the friction between the block and the tabletop must be weak compared to the interaction between the block and the bullet.
+|Yes, because no matter enters the system.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

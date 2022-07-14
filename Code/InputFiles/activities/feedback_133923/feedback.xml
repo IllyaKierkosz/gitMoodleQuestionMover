@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1872" moduleid="133923" modulename="feedback" contextid="204323">
+  <feedback id="1872">
+    <name>Another_look_at_a_familiar_situation-horizontal_launch_with_spring</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1637751600</timeclose>
+    <timemodified>1638971014</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4524">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/block_launched_by_spring_system_indicated.png" alt="block launched by spring" width="400" height="123" /&gt;&lt;/p&gt;
+&lt;p&gt;A block on a rough surface is launched with a spring.  The block slides some distance and then comes to rest.  The system is the &lt;span style="color: #008000;"&gt;&lt;strong&gt;block, the Earth, the surface, and the spring&lt;/strong&gt;&lt;/span&gt;. From the time it is released until the time it comes to rest what forces do &lt;span style="color: #800080;"&gt;&lt;strong&gt;work&lt;/strong&gt;&lt;/span&gt; on the system?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4525">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The gravitational force on the block
+|The force by the spring on the block
+|The frictional force by the surface on the block 
+|The force by the wall on the spring
+|No forces do work on the system</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2490" moduleid="193145" modulename="feedback" contextid="281143">
+  <feedback id="2490">
+    <name>Three accelerations - part 3 (copy)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638810000</timeclose>
+    <timemodified>1638794736</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5877">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/non-uniform_circ_mot_speeding_up_no_accel.png" alt="motion diagram of a non-uniform circular motion" width="300" height="310" /&gt;&lt;img src="@@PLUGINFILE@@/omega_theta_vs_t_omega_increasing_linear.png" alt="angular velocity vs. time - increasing" width="300" height="208" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Above is a motion diagram for an object going around a circle.  The graph shows its angular velocity as a function of time.  Which of the following is true?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5878">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \alpha \) is constant, \( a_t \) is constant, \( a_r\) is increasing
+|\( \alpha \) is increasing, \( a_t \) is constant, \( a_r\) is increasing
+|\( \alpha \) is increasing, \( a_t \) is increasing, \( a_r\) is increasing
+|\( \alpha \) is constant, \( a_t \) is constant, \( a_r\) is constant
+|\( \alpha \) is constant, \( a_t \) is increasing, \( a_r\) is constant</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

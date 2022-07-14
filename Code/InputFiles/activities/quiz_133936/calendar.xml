@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="41900">
+    <name>In-class "problem" - Roller coaster going up opens</name>
+    <description></description>
+    <format>1</format>
+    <courseid>3128</courseid>
+    <groupid>0</groupid>
+    <userid>9267</userid>
+    <repeatid>0</repeatid>
+    <modulename>quiz</modulename>
+    <instance>9545</instance>
+    <type>0</type>
+    <eventtype>open</eventtype>
+    <timestart>1638378000</timestart>
+    <timeduration>0</timeduration>
+    <timesort>1638378000</timesort>
+    <visible>0</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1638796712</timemodified>
+    <priority>$@NULL@$</priority>
+    <location>$@NULL@$</location>
+  </event>
+</events>

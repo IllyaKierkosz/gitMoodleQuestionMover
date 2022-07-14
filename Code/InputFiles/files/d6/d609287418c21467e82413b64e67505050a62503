@@ -1,0 +1,122 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage[hang]{subfigure}
+
+
+\addtolength{\textwidth}{2.5in}
+\addtolength{\textheight}{1.5in}
+\addtolength{\voffset}{-0.75in}
+\addtolength{\hoffset}{-1.25in}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{PHYS 1204 Assignment \#3 - Charges, Forces, E-Fields}
+\rhead{Due: Wednesday, Feb. 26}
+
+
+
+\begin{document}
+
+\begin{center}
+\Large \textbf{PHYS 1204 Assignment \#3 - Charges, Forces, E-Fields} \normalsize
+\end{center}
+
+\vspace{12pt}
+
+%\nodate
+%\date{ }
+
+%\maketitle
+
+\large \textbf{Due date: Wednesday, Feb. 26}\normalsize
+
+\vspace{12pt}
+
+\small 
+
+\begin{itemize}
+
+\item If you have questions about this assignment you should stop by my office, email me, or join in a discussion on the Moodle message boards.
+
+\item Remember, there are far more marks for procedure than for final answers.  Write your solutions neatly and in a well organized fashion.  Show all work.
+
+\item All work submitted must be your own work.  You are encouraged to work with other students but do not show each other the final work that you intend to submit.  If you collaborate with other students it is a good idea to cite them as sources for your work.
+
+\end{itemize}
+
+\normalsize
+
+\section*{Questions}
+
+\begin{enumerate}
+
+\item Object A has a charge of 4.0 nC and is placed at coordinates (x,y) = (1, 3). Object B is charged to -9.5 nC and is placed at coordinates (x,y) = (-5, -0.3). Determine the electric force on each object and write it in vector component ($\hat{i},\hat{j}$) form. Assume distances are in pico-meters. 
+
+\item A 10 nC charge is located at the origin. 
+
+\begin{enumerate}
+ \item What are the electric fields, in component form, at the positions (x,y) = (5.0 cm, 0 cm), (-5.0 cm, 6.0 cm), and (-6.0 cm, -8.0 cm)?
+ \item Draw and label the E-field vectors at the points in part a). 
+\end{enumerate}
+
+\item What is the force on the 2.0 nC charge in Figure \ref{fig:spheres1} in component form? Note that each of the charges (3 nC,-8 nC, 3 nC) are spread in a circular arc of radius 5.0 $\times~ 10^{9}$ nm around the 2.0 nC charge. 
+
+\item Chapter 25, problem 76.
+
+\item Chapter 26, problem 40. 
+
+\item Consider an infinite line of charge with a uniform charge density $\lambda$. Derive an expression for the force that the line of charge exerts on an electric dipole located a distance $r$ from the distribution. Assume that the charge separation in the dipole is small compared to the distance from the line of charge. The geometry is shown in Figure \ref{fig:dipole}
+
+\item Two plates that are carrying equal and opposite charges are placed 1.5 cm away from each other. An electron is released from the surface of the negative plate at the same time a proton is released from the positive plate. How far from the positive plate is the point where the electron and proton pass each other?
+
+\item Two quarter-rings of charge are brought together like in Figure \ref{fig:ring1}. The top quarter of the ring is uniformly charged negative (-q) and the bottom quarter is uniformly charged positive (+q). What is the magnitude and direction of the electric field at point P located at the centre of the semi circle? 
+
+\item An electron is constrained to the central axis of a ring of charge of radius R. The electric force on the electron will cause it to oscillate through the centre of the ring with some angular frequency $\omega$. Derive an expression for $\omega$ assuming small amplitude oscillations; i.e., the displacement from the centre of the ring is small compared to the radius of the ring. 
+
+\end{enumerate}
+
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.5\textwidth]{spheres1}
+\caption{\label{fig:spheres1}Distributed charges.}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.5\textwidth]{dipole}
+\caption{\label{fig:dipole}Dipole and infinite line of charge.}
+\end{figure}
+
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.5\textwidth]{ring1}
+\caption{\label{fig:ring1}Semi ring of distributed charges.}
+\end{figure}
+
+%\begin{figure}[!h]
+%\includegraphics[width=0.3\textwidth]{tsunami_islands_coast}
+%\caption{\label{fig:tsunami}A tsunami approaching a coastline.}
+%\end{figure}
+
+
+%\begin{figure}[!h] 
+% \begin{minipage}{0.5\linewidth} 
+ % \centering 
+ % \includegraphics[width=0.75\textwidth]{snap_shot1} 
+  % \caption{\label{fig:snap_shot1}}
+ %\end{minipage}% 
+ %\begin{minipage}{0.5\linewidth} 
+  %\centering 
+  %\includegraphics[width=0.75\textwidth]{history_1} 
+  %\caption{\label{fig:history_1}}
+ %\end{minipage} 
+%\end{figure}
+
+
+
+\end{document}
+
+

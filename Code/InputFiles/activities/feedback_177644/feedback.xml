@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2308" moduleid="177644" modulename="feedback" contextid="260989">
+  <feedback id="2308">
+    <name>Which_v_x_vs_t_curve_is_which_(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632736800</timeclose>
+    <timemodified>1636654119</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5507">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/cartA_cartB_moving_toward_each_other_A_extra_mass.png" alt="two carts about to collide.  Cart A has an extra mass on the top." width="300" height="116" /&gt;&lt;/p&gt;
+&lt;p&gt;In the lab, two carts move  towards each other initially.  &lt;strong&gt;Cart A has more inertia.&lt;/strong&gt;  They collide.  The v&lt;sub&gt;x&lt;/sub&gt; vs. t graph collected in the lab is shown.  In gathering the data you forgot to note which curve on the graph corresponds to which cart.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vx_vs_t_totally_inelastic_cart_collision_with_v_numbers_no_cart_ID.png?time=1601299551073" alt="vx vs. t two carts" width="405" height="418" /&gt;&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5508">
+        <template>0</template>
+        <name>Which curve on the graph corresponds to which cart?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The orange curve is for cart A
+|The purple curve is for cart A
+|It doesn't matter.  Either curve could be for either cart.
+|There is no way to know from the information given</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

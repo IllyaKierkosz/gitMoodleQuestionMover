@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1690" moduleid="133625" modulename="feedback" contextid="204025">
+  <feedback id="1690">
+    <name>Which Office Hours Work for You</name>
+    <intro>&lt;p&gt;This is just so that I can find a set of office hours which will be useful to you.  We will also use it to help Chester find useful times for his office hours.  Please fill it out.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>1</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit>&lt;p&gt;Thanks!  I'll use this to set better office hour times.&lt;/p&gt;</page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>0</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1631651400</timeclose>
+    <timemodified>1631276544</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4122">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Mon. 2:00-3:00 office hour?</name>
+        <label>Mon aft</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>1</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4123">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Mon. 5:30-6:30 office hour?</name>
+        <label>Mon eve</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4124">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Tues. 10:00-11:00 office hour?</name>
+        <label>Tues morning</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>3</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4125">
+        <template>0</template>
+        <name>Recognizing that we have assignments due on Thursdays in this course and that Mastery Tasks are often due on Tuesdays, which of these broad times would be the most useful for you.  Choose all that you would like.</name>
+        <label>Chooseabesttime</label>
+        <presentation>c&gt;&gt;&gt;&gt;&gt;Monday, morning
+|Monday, mid afternoon
+|Monday, after 5:30
+|Tuesday, morning
+|Tuesday, early afternoon
+|Wednesday, morning
+|Wednesday, mid afternoon
+|Wednesday, after 5:30
+|Thursday, morning
+|Thursday, mid afternoon
+|Thursday, after 5:30
+|Friday, middle of the day</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>11</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="4127">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Wed. 5:30-6:30 office hour?</name>
+        <label>Wed eve</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>6</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4128">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Thursday. 10:00-11:00 office hour?</name>
+        <label>Thurs. morning</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>7</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4129">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Thursday. 12:00-1:00 office hour?</name>
+        <label>Thurs. noon</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>8</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4130">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Friday. 11:30-12:30 office hour?</name>
+        <label>Fri</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|yes, but it's not very convenient
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>10</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4131">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Tues. 12:00-1:00 office hour?</name>
+        <label>Tues noon</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>4</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4132">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Wed. 2:00-3:00 office hour?</name>
+        <label>Wed aft</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>5</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5352">
+        <template>0</template>
+        <name>Would you normally be able to make it to a Thursday. 5:30-6:30 office hour?</name>
+        <label>Thurs. eve</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>9</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

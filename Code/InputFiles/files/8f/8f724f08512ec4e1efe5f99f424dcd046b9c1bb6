@@ -1,0 +1,368 @@
+# Start of question: Potential energy gain by charge pushed "down" a potential
+:TYPE:MC:1:0:C
+:TITLE:Potential energy gain by charge pushed "down" a potential
+:FEEDBACK:H
+
+:QUESTION:H
+A 3 C charge is moved from a point where the electrical potential is 0 V to a point where the electrical potential is -9 V.  How does the electrical potential energy of this charge change?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+Its electrical potential energy decreases by 27 J
+:ANSWER2:0:H
+Its electrical potential energy increases by 27 J
+:ANSWER3:0:H
+Its electrical potential energy increases by 9 J
+:ANSWER4:0:H
+Its electrical potential energy decreases by 9 J
+:ANSWER5:0:H
+Its electrical potential energy increases by 3 J
+:ANSWER6:0:H
+Its electrical potential energy decreases by 3 J
+:ANSWER7:0:H
+We need to know about the other charges in the region to know how the electrical potential energy changes
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: Potential energy gain by charge pushed "down" a potential
+
+# Start of question: Potential energy gain by charge pushed "up" a potential
+:TYPE:MC:1:0:C
+:TITLE:Potential energy gain by charge pushed "up" a potential
+:FEEDBACK:H
+
+:QUESTION:H
+A 2 C charge is moved from a point where the electrical potential is 0 V to a point where the electrical potential is +6 V.  How does the electrical potential energy of this charge change?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+Its electrical potential energy increases by 12 J
+:ANSWER2:0:H
+Its electrical potential energy decreases by 12 J
+:ANSWER3:0:H
+Its electrical potential energy increases by 6 J
+:ANSWER4:0:H
+Its electrical potential energy decreases by 6 J
+:ANSWER5:0:H
+Its electrical potential energy increases by 3 J
+:ANSWER6:0:H
+Its electrical potential energy decreases by 3 J
+:ANSWER7:0:H
+We need to know about the other charges in the region to know how the electrical potential energy changes
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: Potential energy gain by charge pushed "up" a potential
+
+# Start of question: sort in increasing Ue
+:TYPE:MC:1:0:C
+:TITLE:sort in increasing Ue
+:FEEDBACK:H
+
+:QUESTION:H
+The four diagrams, A through D, show several pairs of charges.  Sort the pairs in order of increasing electrical potential energy.
+:IMAGE:figures_for_quizzes/electric_potential/sort_pairs_of_charges_order_of_Ue.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+B < C < A < D
+:ANSWER2:0:H
+A < B < C < D
+:ANSWER3:0:H
+C < B < A < D
+:ANSWER4:0:H
+D < A < C < B
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: sort in increasing Ue
+
+# Start of question: voltage difference from potential energy difference and charge [1]
+:TYPE:MC:1:0:C
+:TITLE:voltage difference from potential energy difference and charge [1]
+:FEEDBACK:H
+
+:QUESTION:H
+A ball has a charge of 2.0 C.  It is placed in a field and released.  As the ball moves from point A to point B its electrical potential energy decreases by 6.0 J.  The potential difference between A and B is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+-3.0 V
+:ANSWER2:0:H
+3.0 V
+:ANSWER3:0:H
+-12 V
+:ANSWER4:0:H
+12 V
+:ANSWER5:0:H
+6.0 V
+:ANSWER6:0:H
+-6.0 V
+:CAT:electric potential
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: voltage difference from potential energy difference and charge [1]
+
+# Start of question: potential surfaces and electric field between parallel plates
+:TYPE:MC:1:0:C
+:TITLE:potential surfaces and electric field between parallel plates
+:FEEDBACK:H
+
+:QUESTION:H
+Two parallel plates are connected to a battery so that one is at a potential 1.5 V higher than the other.  The equipotential surfaces and electric field lines are best described by\:
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+the equipotential surfaces are parallel to the plates and the electric field lines are perpendicular the equipotential surfaces pointing from the higher potential plate to the lower potential plate.
+:ANSWER2:0:H
+the equipotential surfaces are parallel to the plates and the electric field lines are perpendicular the equipotential surfaces pointing from the lower potential plate to the higher potential plate.
+:ANSWER3:0:H
+the equipotential surfaces are perpendicular to the plates and the electrical field lines are parallel to the equipotential surfaces pointing from the higher potential plate to the lower potential plate.
+:ANSWER4:0:H
+the equipotential surfaces are perpendicular to the plates and the electrical field lines are parallel to the equipotential surfaces pointing from the lower potential plate to the higher potential plate.
+:ANSWER5:0:H
+the equipotential surfaces are perpendicular to the plates and the electrical field lines are parallel to the plates.
+:CAT:electric potential
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: potential surfaces and electric field between parallel plates
+
+# Start of question: work to push object "up" an electrical potential
+:TYPE:MC:1:0:C
+:TITLE:work to push object "up" an electrical potential
+:FEEDBACK:H
+
+:QUESTION:H
+A positive charge is held between a positively charged plate and a negatively charged plate.  If you move it towards the positive plate then the electrical potential energy of the system (positive charge and pair of plates) is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+increased
+:ANSWER2:0:H
+decreased
+:ANSWER3:0:H
+unchanged
+:ANSWER4:0:H
+we need more information
+:CAT:electric potential
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: work to push object "up" an electrical potential
+
+# Start of question: equipotential surfaces and electrical field lines around a positive charge
+:TYPE:MC:1:0:C
+:TITLE:equipotential surfaces and electrical field lines around a positive charge
+:FEEDBACK:H
+
+:QUESTION:H
+A small conducting sphere has a positive net charge.  No other charged objects are nearby.  The equipotential surfaces and electrical field lines around the sphere are best described by
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+the equipotential surfaces are spheres centered on the charged sphere and the electrical field lines point directly away from the charged sphere.
+:ANSWER2:0:H
+the equipotential surfaces are spheres centered on the charged sphere and the electrical field lines point directly towards the charged sphere.
+:ANSWER3:0:H
+the equipotential surfaces are spheres centered on the charged sphere and the electrical field lines loop from one side of the sphere around to the other.
+:ANSWER4:0:H
+the equipotential surfaces are parallel planes and the electrical field lines point directly away from the charged sphere.
+:ANSWER5:0:H
+the equipotential surfaces are parallel planes and the electrical field lines point directly towards the charged sphere.
+:CAT:electric potential
+:Used By1:3088324804,3183399696
+:Used By3:3183399696,3088324804
+# End of question: equipotential surfaces and electrical field lines around a positive charge
+
+# Start of question: negative charge in an electric potential
+:TYPE:MC:1:0:C
+:TITLE:negative charge in an electric potential
+:FEEDBACK:H
+
+:QUESTION:H
+A pair of metal plates are attached to a battery and grounded so that one plate is at an electric potential of 0 V (by convention, ground is at 0 V) and the other plate is at a potential of + 1.5 V.  An electron (negatively charged) placed between the plates and released will
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+accelerate towards the +1.5 V plate.
+:ANSWER2:0:H
+accelerate towards the 0 V plate.
+:ANSWER3:0:H
+remain stationary
+:ANSWER4:0:H
+we need to know the electrical field strength
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: negative charge in an electric potential
+
+# Start of question: object released between parallel charged plates
+:TYPE:MC:1:0:C
+:TITLE:object released between parallel charged plates
+:FEEDBACK:H
+
+:QUESTION:H
+A charged sphere is placed between a positively charged plate and a negatively charged plate.  When it is released it is observed to accelerate towards the negatively charged plate.  As it accelerates towards the negative plate the electrical potential energy of the system is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+decreased
+:ANSWER2:0:H
+increased
+:ANSWER3:0:H
+unchanged
+:ANSWER4:0:H
+we need more information
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: object released between parallel charged plates
+
+# Start of question: voltage difference from potential energy difference and charge [2]
+:TYPE:MC:1:0:C
+:TITLE:voltage difference from potential energy difference and charge [2]
+:FEEDBACK:H
+
+:QUESTION:H
+A ball has a charge of 3.0 C.  It is placed in a field and released.  As the ball moves from point A to point B its electrical potential energy decreases by 9.0 J.  The potential difference between A and B is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+-3.0 V
+:ANSWER2:0:H
+3.0 V
+:ANSWER3:0:H
+-27 V
+:ANSWER4:0:H
+27 V
+:ANSWER5:0:H
+9.0 V
+:ANSWER6:0:H
+-9.0 V
+:CAT:electric potential
+:Used By1:3183399696
+:Used By3:3183399696
+# End of question: voltage difference from potential energy difference and charge [2]
+
+# Start of question: electrical potential energy gain by two objects with different charges [1]
+:TYPE:MC:1:0:C
+:TITLE:electrical potential energy gain by two objects with different charges [1]
+:FEEDBACK:H
+
+:QUESTION:H
+A charged ball has a net charge of 2.0 nC.  The ball is released in an electrical field and it moves from A to B.  The work done by the electrical field on the ball as it moves from A to B is found to be 2.0 X 10<sup>-3</sup> J.  Now a ball with a net charge of 4.0 nC is placed in the electrical field and released.  As it moves from A to B the work done on this ball by the electrical field will be
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+4.0 X 10<sup>-3</sup> J
+:ANSWER2:0:H
+2.0 X 10<sup>-3</sup> J
+:ANSWER3:0:H
+-2.0 X 10<sup>-3</sup> J
+:ANSWER4:0:H
+1.0 X 10<sup>-3</sup> J
+:ANSWER5:0:H
+we need more information
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: electrical potential energy gain by two objects with different charges [1]
+
+# Start of question: potential around a positive charge
+:TYPE:MC:1:0:C
+:TITLE:potential around a positive charge
+:FEEDBACK:H
+
+:QUESTION:H
+A small sphere has a positive net charge.  There are no other charged objects near it.  As you move away from the sphere the electric potential
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+decreases
+:ANSWER2:0:H
+increases
+:ANSWER3:0:H
+stays the same
+:ANSWER4:0:H
+oscillates
+:ANSWER5:0:H
+it depends on the sign of the test charge you are using to probe the potential
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: potential around a positive charge
+
+# Start of question: potential around a negative charge
+:TYPE:MC:1:0:C
+:TITLE:potential around a negative charge
+:FEEDBACK:H
+
+:QUESTION:H
+A small sphere has a positive net charge.  There are no other charged objects near it.  As you move away from the sphere the electric potential
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+increases
+:ANSWER2:0:H
+decreases
+:ANSWER3:0:H
+stays the same
+:ANSWER4:0:H
+oscillates
+:ANSWER5:0:H
+it depends on the sign of the test charge you are using to probe the potential
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: potential around a negative charge
+
+# Start of question: electrical potential energy gain by two objects with different charges [2]
+:TYPE:MC:1:0:C
+:TITLE:electrical potential energy gain by two objects with different charges [2]
+:FEEDBACK:H
+
+:QUESTION:H
+A charged ball has a net charge of 2.0 nC.  The ball is released in an electrical field and it moves from A to B.  The work done by the electrical field on the ball as it moves from A to B is found to be 4.0 X 10<sup>-3</sup> J.  Now a ball with a net charge of 1.0 nC is placed in the electrical field and released.  As it moves from A to B the work done on this ball by the electrical field will be
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+2.0 X 10<sup>-3</sup> J
+:ANSWER2:0:H
+4.0 X 10<sup>-3</sup> J
+:ANSWER3:0:H
+-2.0 X 10<sup>-3</sup> J
+:ANSWER4:0:H
+1.0 X 10<sup>-3</sup> J
+:ANSWER5:0:H
+we need more information
+:CAT:electric potential
+:Used By1:2870844936,3183399696
+:Used By3:3183399696,2870844936
+# End of question: electrical potential energy gain by two objects with different charges [2]
+

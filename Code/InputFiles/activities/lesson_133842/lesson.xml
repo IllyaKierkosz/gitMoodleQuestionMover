@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="524" moduleid="133842" modulename="lesson" contextid="204242">
+  <lesson id="524">
+    <course>3128</course>
+    <name>Lesson 7: Interactions</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>7</maxanswers>
+    <maxattempts>3</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>3</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>133843</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>1640177100</deadline>
+    <timemodified>1635351289</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="8211">
+        <prevpageid>0</prevpageid>
+        <nextpageid>8212</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1595457981</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reflect before you start</title>
+        <contents>&lt;p&gt;This lesson is called Interactions, because up until now we have not looked in detail at how objects interact - we have just observed that interactions cause objects to accelerate.  Now we will start to look more at the nature of interactions between objects.  The lesson will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Types of internal energy (potential energy, thermal energy, source energy)&lt;/li&gt;
+&lt;li&gt;Dissipative and non-dissipative interactions&lt;/li&gt;
+&lt;li&gt;Extending the Law of Conservation of Energy to include more detail about types of energy that a system might have&lt;/li&gt;
+&lt;li&gt;Using knowledge of potential energy to make predictions about the accelerations of objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before you start to look at any complicated content, whether it is a textbook, a set of video lectures, a web page, whatever, it is a good idea to prepare to learn by doing a bit of reflection.  To develop the habit it is good to write some reflections.  In the space below write three things (sentences, point form, whatever you want) about what you are about to learn.  Here are some things you might write about below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List things that you think you might learn about in the lesson (in more detail than was given in the list above).&lt;/li&gt;
+&lt;li&gt;List things that you already know about the topics of this lesson.&lt;/li&gt;
+&lt;li&gt;List things that you have heard about these topics, but don't understand.&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18903">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1595457981</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8212">
+        <prevpageid>8211</prevpageid>
+        <nextpageid>8236</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1530199643</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You do not have to finish the lesson all in one sitting.  You may reattempt it if you are not satisfied with how you did.  Here is a "map" of the lesson.  This is partly because moodle has a tendency (which I haven't figured out) to skip the Reflective Writing parts of these lessons.  This map will help you see if you have missed any and find your way to where they should be.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_interactions.png" width="952" height="598" alt="lesson map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18844">
+            <jumpto>8236</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-1: More Carefully Defining Interactions</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18845">
+            <jumpto>8217</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-2: Potential Energy and Energy Dissipation</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18846">
+            <jumpto>8220</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-3: </answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18847">
+            <jumpto>8225</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-4: </answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18848">
+            <jumpto>8223</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 7-5: </answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18861">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18902">
+            <jumpto>8229</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8236">
+        <prevpageid>8212</prevpageid>
+        <nextpageid>8213</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1501559362</timemodified>
+        <title>Online Lecture 7-1: More Carefully Defining Interactions</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=TxqCFHNjH_o&amp;amp;list=PLqogu67XpeifNue_2jZpYs7beRAkfw4Ld&amp;amp;index=1"&gt;online lecture&lt;/a&gt;.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18841">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8214">
+        <prevpageid>8213</prevpageid>
+        <nextpageid>8215</nextpageid>
+        <qtype>3</qtype>
+        <qoption>1</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501596732</timecreated>
+        <timemodified>0</timemodified>
+        <title>Which stay the same?</title>
+        <contents>&lt;p&gt;Two objects, isolated from the environment, collide elastically.  &lt;strong&gt;During the time when the two objects are interacting&lt;/strong&gt; which of the following quantities remain unchanged?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18862">
+            <jumpto>8216</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system momentum</answer_text>
+            <response>Yes, the system is isolated so momentum can't change</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18863">
+            <jumpto>8216</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system energy</answer_text>
+            <response>Yes.  The system loses kinetic energy (temporarily) but this is just converted into internal energy in the system.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18864">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>kinetic energy</answer_text>
+            <response>No.  The kinetic energy *after* the collision is the same as the kinetic energy *before* the collision.  But *during* the collision the kinetic energy changes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18865">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>relative velocity of the two objects</answer_text>
+            <response>No.  The relative velocity *after* the collision is the same as the relative velocity *before* the collision.  But *during* the collision the relative velocity must change.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18866">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>momentum of each object</answer_text>
+            <response>No.  The objects are interacting with each other, and so each of their momentums changes.  It is only the total momentum of the system that remains unchanged.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8215">
+        <prevpageid>8214</prevpageid>
+        <nextpageid>8216</nextpageid>
+        <qtype>5</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501598312</timecreated>
+        <timemodified>0</timemodified>
+        <title>Match quantity to correct behaviour during collision</title>
+        <contents>&lt;p&gt;Two objects, isolated from the environment, collide elastically moving along a straight line (e.g. carts on a track).  Match each quantity below to the most correct description of how it behaves in the collision.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18867">
+            <jumpto>8216</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text></answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18868">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text></answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18869">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system momentum</answer_text>
+            <response>remains unchanged at all times in the collision</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18870">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system kinetic energy</answer_text>
+            <response>decreases during the collision, but is the same after the collision as it was before the collision</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18871">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>momentum of each object</answer_text>
+            <response>changes during the collision and is not the same after the collision as it was before</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18872">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501598312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>velocities of the objects</answer_text>
+            <response>Change during the collision.  At some moment they are equal.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8216">
+        <prevpageid>8215</prevpageid>
+        <nextpageid>8217</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462905142</timecreated>
+        <timemodified>1501158077</timemodified>
+        <title>End of cluster 7-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18842">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462905142</timecreated>
+            <timemodified>1501158077</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8217">
+        <prevpageid>8216</prevpageid>
+        <nextpageid>8218</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1501559456</timemodified>
+        <title>Online Lecture 7-2: Potential Energy and Energy Dissipation</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=rlobgzAEQfI&amp;amp;list=PLqogu67XpeifNue_2jZpYs7beRAkfw4Ld&amp;amp;index=2"&gt;online lecture&lt;/a&gt;.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18849">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8218">
+        <prevpageid>8217</prevpageid>
+        <nextpageid>8219</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18853">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8219">
+        <prevpageid>8218</prevpageid>
+        <nextpageid>8230</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501599140</timecreated>
+        <timemodified>0</timemodified>
+        <title>Energy conversion during collision between car and wall</title>
+        <contents>&lt;p&gt;A car collides with a wall and is brought suddenly to rest.  Nobody is hurt but the car is very badly damaged.  Which of the following is the most correct description of the energy conversion that took place during the process of the collision?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18873">
+            <jumpto>8231</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to thermal energy and energy associated with irreversible deformation.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18874">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted into elastic potential energy.</answer_text>
+            <response>No.  This would imply that the car is able to spring back to its original shape (i.e. that the process of deformation of the car during the collision is a reversible process).  That would be very convenient for the owner of the car, but is not the case.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18875">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to potential energy during the collision, then back to kinetic energy at the end of the collision.</answer_text>
+            <response>No.  The car is at rest at the end of the collision; it has lost all of its kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18876">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to thermal energy during the collision and then is converted back to kinetic energy at the end of the collision.</answer_text>
+            <response>No.  The car is at rest at the end of the collision; it has lost all of its kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18877">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Thermal energy, and energy associated with irreversible deformation, is converted into kinetic energy.</answer_text>
+            <response>No.  You have the order of things in time mixed up.  What you are describing is what would happen if the collision was reversed so that the car miraculously reassembled itself and ended up moving away from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8230">
+        <prevpageid>8219</prevpageid>
+        <nextpageid>8231</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501600362</timecreated>
+        <timemodified>0</timemodified>
+        <title>Energy conversion during collision between train car and spring</title>
+        <contents>&lt;p&gt;Where railway tracks end (such as in switching yards) there are often very large spring-loaded bumpers at the end of the track to prevent railway cars from rolling off the end of the tracks.  A railway car rolls slowly into one of these bumpers causing the spring to be compressed.  The spring then uncompresses and pushes the car away at nearly the speed that it was going before it hit the bumper.&lt;/p&gt;
+&lt;p&gt;Which of the following is the most correct description of the energy conversions which take place during the process of the train car bouncing off of the bumper?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18878">
+            <jumpto>8231</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy and is then converted back to kinetic energy.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18879">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to thermal energy and is then converted back to kinetic energy.</answer_text>
+            <response>No.  Conversion of kinetic energy to thermal energy is irreversible.  Once kinetic energy gets converted to thermal energy it does not get converted back spontaneously.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18880">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy.</answer_text>
+            <response>Kinetic energy *is* converted to spring potential energy, but it doesn't remain as spring potential energy because at the end of the interaction the spring is uncompressed again.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18881">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring potential energy is converted to kinetic energy.</answer_text>
+            <response>That is true, but the energy in the system didn't start out as spring potential energy; the spring was initially uncompressed.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18882">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy and is then converted to thermal energy.</answer_text>
+            <response>Kinetic energy is converted to spring potential energy.  But then (most of it) is not converted to thermal energy.  Notice that the train car is moving at the nearly the same speed after colliding with the bumper as it was before.  So very little energy was lost to dissipation.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8221">
+        <prevpageid>8220</prevpageid>
+        <nextpageid>8226</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18852">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8226">
+        <prevpageid>8221</prevpageid>
+        <nextpageid>8232</nextpageid>
+        <qtype>5</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501610430</timecreated>
+        <timemodified>1501612370</timemodified>
+        <title>Match situation to energy conversion</title>
+        <contents>&lt;p&gt;Match each situation to a brief description of the energy conversion going on in that situation.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18883">
+            <jumpto>8233</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text></answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18884">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text></answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18885">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A spring-loaded gun is used to launch a ball along a horizontal surface.</answer_text>
+            <response>Spring potential energy to kinetic energy</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18886">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A car driving along a flat piece of highway is speeding up.</answer_text>
+            <response>Chemical energy to kinetic energy and thermal energy</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18887">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A log is burning in a fireplace</answer_text>
+            <response>Chemical energy to thermal energy</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18888">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501610430</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A diesel motor is used to compress a spring.</answer_text>
+            <response>Chemical energy to spring potential energy and thermal energy</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8225">
+        <prevpageid>8222</prevpageid>
+        <nextpageid>8224</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1501649537</timemodified>
+        <title>Online Lecture 7-4: More About Potential Energy</title>
+        <contents>&lt;p&gt;Watch this o&lt;a href="https://www.youtube.com/watch?v=DEpMBoeE-Ns&amp;amp;list=PLqogu67XpeifNue_2jZpYs7beRAkfw4Ld&amp;amp;index=4"&gt;nline lecture&lt;/a&gt;.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18851">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8228">
+        <prevpageid>8223</prevpageid>
+        <nextpageid>8229</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628861</timecreated>
+        <timemodified>1599783782</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt; Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Some closed system consists of two objects which interact with each other nondissipatively.  Explain how we know that in a system like this the system's potential energy is a function of the relative position of the two objects only.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18857">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628861</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8234">
+        <prevpageid>8224</prevpageid>
+        <nextpageid>8235</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501648545</timecreated>
+        <timemodified>0</timemodified>
+        <title>Where does energy to raise book come from?</title>
+        <contents>&lt;p&gt;A book is resting on a table.  You pick it up and lift it to a high shelf.  When you pick up the book you increase its gravitational potential energy.  The law of conservation of energy requires that the energy to do this comes from somewhere.  Where did it come from?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18893">
+            <jumpto>8227</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Chemical energy stored in your body</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18894">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy of the book</answer_text>
+            <response>No.  The book was stationary before you picked it up so it had no kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18895">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring potential energy in the table </answer_text>
+            <response>No.  The table may have been *slightly* bent (reversibly deformed) by supporting the book.  But this wasn't enough stored energy to lift the book to the shelf.  Otherwise the table would have launched the book up onto the shelf and you wouldn't have had to lift it at all.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18896">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Gravitational potential energy in you</answer_text>
+            <response>No.  You are not changing height significantly.  Your gravitational potential energy is not changing.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8224">
+        <prevpageid>8225</prevpageid>
+        <nextpageid>8234</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501158146</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18858">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501158146</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8232">
+        <prevpageid>8226</prevpageid>
+        <nextpageid>8233</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501613332</timecreated>
+        <timemodified>0</timemodified>
+        <title>burning methane to compress spring</title>
+        <contents>&lt;p&gt;A cylinder has a piston and large spring in it.  As shown, a mixture of fuel and oxygen in the cylinder burns rapidly.  The expanding gases push down on the piston and compress the spring.  The system is the fuel/oxygen mixture, the spring and the piston.&lt;/p&gt;
+&lt;p&gt;Which of the following is the best description of the energy conversion which takes place in this process?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18889">
+            <jumpto>8233</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( U_S \) and \( E_{th} \)</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18890">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) and \( E_{th} \) are converted to \( U_S \)</answer_text>
+            <response>Where did the thermal energy come from?  Initially we had an uncombusted (and presumably cool) mixture of oxygen and fuel.  The thermal energy was produced during the process.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18891">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( E_{th} \)</answer_text>
+            <response>The spring is compressed.  That is a state change inside the system and involves some change in a type of internal energy which you haven't identified.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18892">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( U_S \)</answer_text>
+            <response>We can never convert chemical energy directly to U or K without also producing thermal energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8223">
+        <prevpageid>8227</prevpageid>
+        <nextpageid>8228</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501559596</timecreated>
+        <timemodified>1501649578</timemodified>
+        <title>Online Lecture 7-5: Dissipative Interactions</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=ljBVus5Xrb0&amp;amp;list=PLqogu67XpeifNue_2jZpYs7beRAkfw4Ld&amp;amp;index=5"&gt;online lecture&lt;/a&gt;.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18860">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501559596</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8229">
+        <prevpageid>8228</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530199615</timecreated>
+        <timemodified>1642271783</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------First Half-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 7 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Give several (say, 2 to 4) examples of interactions which occur in everyday life.  For each interaction, describe what category of energy is converted to what other category of energy.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;
+&lt;p&gt;------------End of Lesson-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. Some closed system consists of two objects which interact with each other nondissipatively.  Explain how we know that in a system like this the system's potential energy is a function of the relative position of the two objects only.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18901">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530199615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8231">
+        <prevpageid>8230</prevpageid>
+        <nextpageid>8220</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543470</timecreated>
+        <timemodified>1501560998</timemodified>
+        <title>End of cluster 7-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18854">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543470</timecreated>
+            <timemodified>1501560998</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8220">
+        <prevpageid>8231</prevpageid>
+        <nextpageid>8221</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1501649480</timemodified>
+        <title>Online lecture 7-3: Source Energy and Microscopic Scale Interactions</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=eKnr89zVS4M&amp;amp;list=PLqogu67XpeifNue_2jZpYs7beRAkfw4Ld&amp;amp;index=3"&gt;online lecture&lt;/a&gt;.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18850">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8233">
+        <prevpageid>8232</prevpageid>
+        <nextpageid>8222</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1501561015</timemodified>
+        <title>End of cluster 7-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18855">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1501561015</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8222">
+        <prevpageid>8233</prevpageid>
+        <nextpageid>8225</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628462</timecreated>
+        <timemodified>1642271670</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 7 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. Give several (say, 2 to 4) examples of interactions which occur in everyday life.  For each interaction, describe what category of energy is converted to what other category of energy.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18856">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628462</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8235">
+        <prevpageid>8234</prevpageid>
+        <nextpageid>8227</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501649087</timecreated>
+        <timemodified>1501649702</timemodified>
+        <title>Effect of moving mass and spring</title>
+        <contents>&lt;p&gt;A mass is hanging by a spring which is suspended from a support.  You carefully lift the support of the spring higher so that the mass and spring are now higher up.  You did this slowly and carefully so that the spring did not lengthen or compress during the process.&lt;/p&gt;
+&lt;p&gt;How has the spring potential energy of the system changed during this process?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18897">
+            <jumpto>8227</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) hasn't changed because the spring hasn't changed state</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18898">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) has increased because things got moved upwards</answer_text>
+            <response>No.  I think you are mixing up spring potential energy with gravitational potential energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18899">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) has decreased because it has to compensate for the increase in gravitational potential energy</answer_text>
+            <response>No.  The system isn't closed.  You are putting energy into it by interacting with it. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18900">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U_S decreased while you were moving the mass and spring to compensate for the kinetic energy that you gave the system.  But then it returned to its initial value when you stopped moving them.</answer_text>
+            <response>No.  The system isn't closed.  You are putting energy into it by interacting with it.   </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8227">
+        <prevpageid>8235</prevpageid>
+        <nextpageid>8223</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501158166</timecreated>
+        <timemodified>1501559550</timemodified>
+        <title>End of cluster 7-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18859">
+            <jumpto>8212</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501158166</timecreated>
+            <timemodified>1501559550</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8213">
+        <prevpageid>8236</prevpageid>
+        <nextpageid>8214</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462908568</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18843">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462908568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,404 @@
+# Start of question: cutting a magnet in half
+:TYPE:MC:1:0:C
+:TITLE:cutting a magnet in half
+:FEEDBACK:H
+
+:QUESTION:H
+You have a bar magnet.  It has a north end and a south end.  The north end is attracted to the south pole of another magnet.  The south end is repelled by the south pole of another magnet.  What happens if you cut your bar magnet in half?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Each end is a complete new magnet with a north pole and a south pole.  The north end of each will be attracted to the south pole of another magnet.  The south end of each will be repelled by the south pole of another magnet.
+:ANSWER2:0:H
+Each end is a new magnet.  The entire end that was the north end will be attracted to the south pole of another magnet.  The entire end that was the south end will be repelled by the south pole of another magnet.
+:ANSWER3:0:H
+The magnetic properties of the bar magnet are destroyed by cutting it in half.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: cutting a magnet in half
+
+# Start of question: monopoles?
+:TYPE:MC:1:0:C
+:TITLE:monopoles?
+:FEEDBACK:H
+
+:QUESTION:H
+Magnetic monopoles
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+are not known to exist, but might exist.
+:ANSWER2:0:H
+do not exist.
+:ANSWER3:0:H
+are common.
+:ANSWER4:0:H
+are rare.
+:CAT:magnetic fields
+:Used By1:3183400216
+:Used By3:3183400216
+# End of question: monopoles?
+
+# Start of question: force on static charge in B field
+:TYPE:MC:1:0:C
+:TITLE:force on static charge in B field
+:FEEDBACK:H
+
+:QUESTION:H
+The figure shows a positive charge that is stationary (speed of zero) in a region of space where the magnetic field is directed up.  The direction of the magnetic force on the charge is
+:IMAGE:figures_for_quizzes/magnetic fields/static_charge_in_B_field.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+there is no magnetic force on the charge.
+:ANSWER2:0:H
+out of the screen (i.e. towards you).
+:ANSWER3:0:H
+into the screen (i.e. away from you).
+:ANSWER4:0:H
+up (i.e. in the direction of the magnetic field).
+:ANSWER5:0:H
+right.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: force on static charge in B field
+
+# Start of question: effect of a current on a compass
+:TYPE:MC:1:0:C
+:TITLE:effect of a current on a compass
+:FEEDBACK:H
+
+:QUESTION:H
+A wire runs vertically up through a room.  No current is running through it.  A compass is placed beside it and points north.  When a current is run upward through the wire the compass needle
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+is deflected so that it points tangent to a circle around the wire.
+:ANSWER2:0:H
+is deflected so it points directly at the wire.
+:ANSWER3:0:H
+is unaffected since magnetism and electricity are different phenomena.
+:ANSWER4:0:H
+is deflected so that it points along the wire.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: effect of a current on a compass
+
+# Start of question: B field due to moving charge
+:TYPE:MC:1:0:C
+:TITLE:B field due to moving charge
+:FEEDBACK:H
+
+:QUESTION:H
+The figure below shows a positive charge moving to the right.  The magnetic field due to this charge at the point A is
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge.gif
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+stronger than the magnetic field at B.
+:ANSWER2:0:H
+weaker than the magnetic field at B.
+:ANSWER3:0:H
+the same as the magnetic field at B.
+:ANSWER4:0:H
+zero (the charge is not a magnet and produces no magnetic fields).
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: B field due to moving charge
+
+# Start of question: path integral for straight path through uniform field
+:TYPE:MC:1:0:C
+:TITLE:path integral for straight path through uniform field
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a region of space with a uniform magnetic field of 3 T.  A straight path, 2 m long, parallel to the field is indicated from point i to point f.  Evaluate the path integral
+
+<p>
+{Equation\:eqn=<math%3E<mrow%20background%3D%27#FFFFFF%27%3E<mrow%3E<msubsup%3E<mo%3E%26int;</mo%3E<mrow%3E<mi%3Ei</mi%3E</mrow%3E<mrow%3E<mi%3Ef</mi%3E</mrow%3E</msubsup%3E<mover%3E<mrow%3E<mi%3EB</mi%3E</mrow%3E<mrow%3E<mo%3E%26rightarrow;</mo%3E</mrow%3E</mover%3E<mo%3E%26cdot;</mo%3E<mi%3Ed</mi%3E<mover%3E<mrow%3E<mi%3Es</mi%3E</mrow%3E<mrow%3E<mo%3E%26rightarrow;</mo%3E</mrow%3E</mover%3E</mrow%3E</mrow%3E</math%3E, height=60, width=96, size=18, bgcolor=#FFFFFF, title=eqn_1, controls=false}
+<p>
+:IMAGE:figures_for_quizzes/magnetic fields/uniform_field_straight_path.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+6 Tm
+:ANSWER2:0:H
+3 Tm
+:ANSWER3:0:H
+0
+:ANSWER4:0:H
+1.5 T/m
+:CAT:magnetic fields
+:Used By1:3183400216
+:Used By3:3183400216
+# End of question: path integral for straight path through uniform field
+
+# Start of question: type of motion in uniform B field
+:TYPE:MC:1:0:C
+:TITLE:type of motion in uniform B field
+:FEEDBACK:H
+
+:QUESTION:H
+The figure shows a positive charge at some instant as it moves through a uniform magnetic field.  If we watch the motion of this particle we will see that it
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge_in_B_field.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+moves at constant speed in a circle perpendicular to the page.
+:ANSWER2:0:H
+moves at constant speed in a circle in the plane of the page.
+:ANSWER3:0:H
+curves upward until it is moving parallel to the magnetic field, then moves in a straight line speeding up.
+:ANSWER4:0:H
+curves downward until it is moving parallel to the magnetic field, then moves in a straight line speeding up.
+:ANSWER5:0:H
+moves in a straight line at constant speed.
+:CAT:magnetic fields
+:Used By1:3183400216
+:Used By3:3183400216
+# End of question: type of motion in uniform B field
+
+# Start of question: force on a wire due to another wire
+:TYPE:MC:1:0:C
+:TITLE:force on a wire due to another wire
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram below shows two wires, 1 and 2.  The force on wire 1 (the top one) due to wire 2 (the bottom one) is
+:IMAGE:figures_for_quizzes/magnetic fields/parallel_wires.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+downward
+:ANSWER2:0:H
+upward
+:ANSWER3:0:H
+out of the page
+:ANSWER4:0:H
+into the page
+:ANSWER5:0:H
+zero
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: force on a wire due to another wire
+
+# Start of question: force on antiparallel wire due to other wire
+:TYPE:MC:1:0:C
+:TITLE:force on antiparallel wire due to other wire
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram below shows two wires.  The force on wire 1 (the upper one) due to wire 2 (the lower one) is
+:IMAGE:figures_for_quizzes/magnetic fields/antiparallel_wires.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+upward
+:ANSWER2:0:H
+downward
+:ANSWER3:0:H
+out of the page
+:ANSWER4:0:H
+into the page
+:ANSWER5:0:H
+zero
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: force on antiparallel wire due to other wire
+
+# Start of question: force on charge moving parallel to B field
+:TYPE:MC:1:0:C
+:TITLE:force on charge moving parallel to B field
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a positive charge moving upward through a region of space in which the magnetic field is directed up.  The magnetic force on the charge is directed
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge_in_B_field_vparB.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:0:H
+out of the screen (i.e. towards you).
+:ANSWER2:0:H
+into the screen (i.e. away from you).
+:ANSWER3:0:H
+up (i.e. in the direction of the magnetic field).
+:ANSWER4:100:H
+the magnetic force on the charge is zero
+:ANSWER5:0:H
+down (i.e. opposite the direction of the magnetic field).
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: force on charge moving parallel to B field
+
+# Start of question: magnetism in oxygen?
+:TYPE:MC:1:0:C
+:TITLE:magnetism in oxygen?
+:FEEDBACK:H
+
+:QUESTION:H
+Liquid oxygen is not normally magnetic, but when placed in a magnetic field it becomes temporarily magnetized (its magnetization disappears as soon as it is removed from the magnetic field).  Given the explanation of magnetism in materials from this chapter of the text, which of the following explanations seems most likely for this phenomenon.
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The atoms of oxygen are magnetic, but they are not normally aligned, so their magnetic fields cancel.  When placed in a magnetic field they line up and the oxygen becomes magnetized.
+:ANSWER2:0:H
+The atoms of oxygen are not normally magnetic, but they become magnetized when placed in a magnetic field.
+:ANSWER3:0:H
+The electrons in oxygen are not normally magnetic, but they become magnetized when placed in a magnetic field.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: magnetism in oxygen?
+
+# Start of question: direction of force on moving charge in B field [2]
+:TYPE:MC:1:0:C
+:TITLE:direction of force on moving charge in B field [2]
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a positive charge moving to the right through a region of space in which the magnetic field is directed up.  The magnetic force on the charge is directed
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge_in_B_field2.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:0:H
+out of the screen (i.e. towards you).
+:ANSWER2:100:H
+into the screen (i.e. away from you).
+:ANSWER3:0:H
+right (i.e. in the direction of the magnetic field).
+:ANSWER4:0:H
+left (i.e. opposite to the direction of the magnetic field).
+:ANSWER5:0:H
+down (i.e. opposite to the motion of the charge).
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: direction of force on moving charge in B field [2]
+
+# Start of question: magnetic field around a wire (no current)
+:TYPE:MC:1:0:C
+:TITLE:magnetic field around a wire (no current)
+:FEEDBACK:H
+
+:QUESTION:H
+A wire has a uniform surface charge density and no current passing through it.  The magnetic field lines due to the wire are
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+this wire does not produce a magnetic field.
+:ANSWER2:0:H
+circles around the wire.
+:ANSWER3:0:H
+radiating out from the wire.
+:ANSWER4:0:H
+pointing inward towards the wire.
+:ANSWER5:0:H
+pointing parallel to the wire.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: magnetic field around a wire (no current)
+
+# Start of question: direction of B field due to moving charge
+:TYPE:MC:1:0:C
+:TITLE:direction of B field due to moving charge
+:FEEDBACK:H
+
+:QUESTION:H
+The figure below shows a positive charge moving to the right.  The direction of the magnetic field at the point A due to this charge is
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge_one_point.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+out of the screen (i.e. towards you).
+:ANSWER2:0:H
+into the screen (i.e. away from you).
+:ANSWER3:0:H
+up (i.e. towards the top of the screen).
+:ANSWER4:0:H
+down (i.e. towards the bottom of the screen).
+:ANSWER5:0:H
+to the right (i.e. in the direction of motion of the charge).
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: direction of B field due to moving charge
+
+# Start of question: magnetic field around a wire (with current)
+:TYPE:MC:1:0:C
+:TITLE:magnetic field around a wire (with current)
+:FEEDBACK:H
+
+:QUESTION:H
+A wire has a constant current passing through it.  The magnetic field lines due to the wire are
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+circles around the wire.
+:ANSWER2:0:H
+this wire has no magnetic field because the charges on it are static.
+:ANSWER3:0:H
+radiating out from the wire.
+:ANSWER4:0:H
+pointing inward towards the wire.
+:ANSWER5:0:H
+pointing parallel to the wire.
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: magnetic field around a wire (with current)
+
+# Start of question: direction of force on moving charge in B field
+:TYPE:MC:1:0:C
+:TITLE:direction of force on moving charge in B field
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a positive charge moving to the right through a region of space in which the magnetic field is directed up.  The magnetic force on the charge is directed
+:IMAGE:figures_for_quizzes/magnetic fields/moving_charge_in_B_field.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+out of the screen (i.e. towards you).
+:ANSWER2:0:H
+into the screen (i.e. away from you).
+:ANSWER3:0:H
+up (i.e. in the direction of the magnetic field).
+:ANSWER4:0:H
+down (i.e. opposite to the direction of the magnetic field).
+:ANSWER5:0:H
+left (i.e. opposite to the motion of the charge).
+:CAT:magnetic fields
+:Used By1:2870848448,3183400216
+:Used By3:3183400216,2870848448
+# End of question: direction of force on moving charge in B field
+

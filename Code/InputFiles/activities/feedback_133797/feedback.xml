@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1787" moduleid="133797" modulename="feedback" contextid="204197">
+  <feedback id="1787">
+    <name>What_is_unchanged</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1633514400</timeclose>
+    <timemodified>1636655652</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4351">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;In collision A, two air pucks bounce off of each other.  The system is both pucks.&lt;/p&gt;
+&lt;p&gt;In collision B, two air pucks stick together.  The  system is both pucks.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4352">
+        <template>0</template>
+        <name>What can we say about whether system momentum  stays the same in these collisions?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The momentum stays the same in A and B
+|The momentum stays the same in A, but not in B
+|The momentum stays the same in B, but not in A
+|The momentum changes in both</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="4353">
+        <template>0</template>
+        <name>What can we say about whether system kinetic energy  stays the same in these collisions?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The kinetic energy stay the same in A and B
+|The kinetic energy stay the same in A, but not in B
+|The kinetic energy stay the same in B, but not in A
+|The  kinetic energy changes in both
+|The kinetic energy might stay the same  in A (we don't know) but doesn't stay the same in B.
+|The kinetic energy might stay the same  in B (we don't know) but doesn't stay the same in A.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>3</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

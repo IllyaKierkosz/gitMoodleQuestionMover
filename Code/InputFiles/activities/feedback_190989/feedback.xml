@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2469" moduleid="190989" modulename="feedback" contextid="278511">
+  <feedback id="2469">
+    <name>Work done to get block moving (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1637773200</timeclose>
+    <timemodified>1637756899</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5834">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/block_launched_by_spring.png" alt="block launched by spring" width="400" height="112" /&gt;&lt;/p&gt;
+&lt;p&gt;A block on a smooth (treat as frictionless) surface is launched with a spring.  The block has an inertia of 1 kg and is moving at 2 m/s after leaving contact with the spring.  How much work did the spring do on the block? (i.e. think of the block as the whole system...)&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5835">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;0 J
+|1 J
+|2 J 
+|4 J
+|We can't tell from the information given</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

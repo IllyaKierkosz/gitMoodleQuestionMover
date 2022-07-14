@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="133913" version="2019052000">
+  <modulename>assign</modulename>
+  <sectionid>52273</sectionid>
+  <sectionnumber>11</sectionnumber>
+  <idnumber></idnumber>
+  <added>1595021065</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>1</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","c":[{"type":"completion","cm":133912,"e":1}],"showc":[true]}</availability>
+  <showdescription>1</showdescription>
+  <tags>
+  </tags>
+</module>

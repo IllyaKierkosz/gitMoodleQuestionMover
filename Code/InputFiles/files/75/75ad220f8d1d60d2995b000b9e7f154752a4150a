@@ -1,0 +1,104 @@
+# Start of question: charge conserved on polarized object
+:TYPE:MC:1:0:C
+:TITLE:charge conserved on polarized object
+:FEEDBACK:H
+
+:QUESTION:H
+A negatively charged acrylic rod is brought close to a small metal ball which is initially neutral.  The ball is polarized as a result and is repelled from the rod.  The ball is well insulated from its surroundings.  The net charge on the ball while the rod is near it is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+zero
+:ANSWER2:0:H
+positive
+:ANSWER3:0:H
+negative
+:ANSWER4:0:H
+not enough information
+:CAT:electric charges
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: charge conserved on polarized object
+
+# Start of question: metal spheres with equal and opposite charges touching
+:TYPE:MC:1:0:C
+:TITLE:metal spheres with equal and opposite charges touching
+:FEEDBACK:H
+
+:QUESTION:H
+A metal sphere is charged with a charge of 0.2 C. A second metal
+sphere is charged with -0.2 C. If the spheres are touched together what
+will be the charge on the first sphere?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+zero
+:ANSWER2:0:H
+0.4 C
+:ANSWER3:0:H
+-0.4 C
+:ANSWER4:0:H
+0.2 C
+:ANSWER5:0:H
+It will simultaneously have charges of 0.2 C and -0.2 C.
+:CAT:electric charges
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: metal spheres with equal and opposite charges touching
+
+# Start of question: source of charges on silk shirt in the wash
+:TYPE:MC:1:0:C
+:TITLE:source of charges on silk shirt in the wash
+:FEEDBACK:H
+
+:QUESTION:H
+Your silk shirt develops a negative charge while being run through the dryer.  This is a result of
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+electrons being transferred from your other clothes onto the silk shirt.
+:ANSWER2:0:H
+electrons from your silk shirt being transferred to your other clothes.
+:ANSWER3:0:H
+protons being transferred from your silk shirt to your other clothes.
+:ANSWER4:0:H
+new electrons being formed on the silk shirt during the drying process.
+:ANSWER5:0:H
+protons in the silk shirt being transformed to electrons.
+:CAT:electric charges
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: source of charges on silk shirt in the wash
+
+# Start of question: acrylic rubbed with wool producing static charges
+:TYPE:MC:1:0:C
+:TITLE:acrylic rubbed with wool producing static charges
+:FEEDBACK:H
+
+:QUESTION:H
+When a piece of acrylic (a kind of clear, hard plastic) is rubbed with a piece of wool the acrylic gains a negative charge and the wool gains a positive charge.  This is a result of
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+electrons being transferred from the wool to the acrylic.
+:ANSWER2:0:H
+electrons being transferred from the acrylic to the wool.
+:ANSWER3:0:H
+electrons being produced on the acrylic and protons being produced on the wool.
+:ANSWER4:0:H
+protons being transferred from the acrylic to the wool.
+:ANSWER5:0:H
+protons being destroyed in the acrylic and electrons being destroyed in the wool.
+:CAT:electric charges
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: acrylic rubbed with wool producing static charges
+

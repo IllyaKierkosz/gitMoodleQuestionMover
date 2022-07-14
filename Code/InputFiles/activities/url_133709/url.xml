@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19202" moduleid="133709" modulename="url" contextid="204109">
+  <url id="19202">
+    <name>Moving Person Simulation</name>
+    <intro>&lt;p&gt;A PhET simulation where you move a person around and generate motion graphs.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://phet.colorado.edu/en/simulation/moving-man</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1410834702</timemodified>
+  </url>
+</activity>

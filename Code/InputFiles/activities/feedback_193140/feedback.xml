@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2487" moduleid="193140" modulename="feedback" contextid="281138">
+  <feedback id="2487">
+    <name>Signs_of_angular_velocity_and_angular_acceleration(copy)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638356400</timeclose>
+    <timemodified>1638971790</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5871">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/gum_on_disk.png" alt="gum on rotating disk" width="200" height="212" /&gt;&lt;/p&gt;
+&lt;p&gt;A piece of gum is stuck on a disk which is rotating clockwise.  The disk is speeding up.  Using standard sign conventions, what are the signs of the angular velocity, \( \omega_{\theta} \),  and the angular acceleration, \( \alpha_{\theta} \) ?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5872">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \omega_{\theta} &gt; 0 \) and \( \alpha_{\theta} &gt; 0 \)
+|\( \omega_{\theta} &gt; 0 \) and \( \alpha_{\theta} &lt; 0 \)
+|\( \omega_{\theta} &lt; 0 \) and \( \alpha_{\theta} &gt; 0 \)
+|\( \omega_{\theta} &lt; 0 \) and \( \alpha_{\theta} &lt; 0 \)</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

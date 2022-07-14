@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2292" moduleid="176485" modulename="feedback" contextid="259135">
+  <feedback id="2292">
+    <name>Initial velocity components of projectile (copy)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632776400</timeclose>
+    <timemodified>1632744225</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5474">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/volley_ball_hitting_near_vertical.png" alt="volley ball player hitting ball" width="178" height="143" /&gt;&lt;img src="@@PLUGINFILE@@/orange_xy_axes.png" alt="axes" width="106" height="118" /&gt;&lt;/p&gt;
+&lt;p&gt;A volley ball player hits the ball as shown.  It  leaves her hands going at a speed of 12 m/s, at an angle \( \theta = 20^\circ \) &lt;strong&gt;from vertical&lt;/strong&gt;.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5475">
+        <template>0</template>
+        <name>The horizontal component of the ball's velocity as it leaves the player's hands is</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;$$v_{ix} = 12 \, \textrm{m/s}$$
+|$$v_{ix} = (12 \, \textrm{m/s}) \cos(20^\circ)$$
+|$$v_{ix} = (12 \, \textrm{m/s}) \sin(20^\circ)$$
+|$$v_{ix} = (12 \, \textrm{m/s}) \tan(20^\circ)$$</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="5476">
+        <template>0</template>
+        <name>The vertical component of the ball's velocity as it leaves the player's hands is</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;$$v_{iy} = 12 \, \textrm{m/s}$$
+|$$v_{iy} = (12 \, \textrm{m/s}) \cos(20^\circ)$$
+|$$v_{iy} = (12 \, \textrm{m/s}) \sin(20^\circ)$$
+|$$v_{iy} = (12 \, \textrm{m/s}) \tan(20^\circ)$$
+|$$v_{iy} = - 9.8 \, \textrm{m/s}^2$$</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>3</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

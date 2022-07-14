@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2473" moduleid="190993" modulename="feedback" contextid="278515">
+  <feedback id="2473">
+    <name>Magnitudes_of_spring_forces(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638183600</timeclose>
+    <timemodified>1638971116</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5842">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/mass_spring_hanging_compressed_more_compressed.png" alt="spring, relaxed and at two amounts of compression" width="500" height="371" /&gt;&lt;/p&gt;
+&lt;p&gt;A spring is 14 cm long when relaxed.  A mass is attached to the end of the spring.  At time "2" the spring is compressed to 12 cm.  At time "3" the spring is compressed to 8 cm.  Compare the magnitudes of the forces, F&lt;sub&gt;2&lt;/sub&gt; and F&lt;sub&gt;3&lt;/sub&gt;, exerted by the spring at times 2 and 3.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5843">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( F_3 = 8 F_2 \)
+|\( F_3 = \frac{1}{3} F_2 \)
+|\( F_3 = \frac{3}{2} F_2 \)
+|\( F_3 = \frac{2}{3} F_2 \)
+|\( F_3 = 3 F_2 \)
+|\( F_3 = \frac{4}{7} F_2 \)
+|\( F_3 = \frac{7}{4} F_2 \)</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

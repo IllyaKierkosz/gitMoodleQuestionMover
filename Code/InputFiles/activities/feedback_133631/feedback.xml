@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1691" moduleid="133631" modulename="feedback" contextid="204031">
+  <feedback id="1691">
+    <name>Finding  the best date for the moodle portion of Midterm #2</name>
+    <intro>&lt;p&gt;Please fill this out.  The more of you fill it out the better I will be able to find a time that works for everyone.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit>&lt;p&gt;Thanks!  I'll use this to find a good time.&lt;/p&gt;</page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>0</publish_stats>
+    <timeopen>1635433200</timeopen>
+    <timeclose>1635911940</timeclose>
+    <timemodified>1604690008</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4133">
+        <template>0</template>
+        <name>Would Monday, Nov. 16 at 6:00-6:30 work for you?</name>
+        <label>Mon 6</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>1</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4134">
+        <template>0</template>
+        <name>Would Monday, Nov. 16 at 7:00-7:30 work for you?</name>
+        <label>Mon 7</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4135">
+        <template>0</template>
+        <name>Would Monday, Nov. 16 at 8:00-8:30 work for you?</name>
+        <label>Mon 8</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>3</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4136">
+        <template>0</template>
+        <name>Would Tuesday, Nov. 17 at 6:00-6:30 work for you?</name>
+        <label>Tues 6</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>4</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4137">
+        <template>0</template>
+        <name>Would Tuesday, Nov. 17 at 7:00-7:30 work for you?</name>
+        <label>Tues 7</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>5</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4138">
+        <template>0</template>
+        <name>Would Tuesday, Nov. 17 at 8:00-8:30 work for you?</name>
+        <label>Tues 8</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>6</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4139">
+        <template>0</template>
+        <name>Would Wednesday, Nov. 18 at 6:00-6:30 work for you?</name>
+        <label>Wed 6</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>7</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4140">
+        <template>0</template>
+        <name>Would Wednesday, Nov. 18 at 7:00-7:30 work for you?</name>
+        <label>Wed 7</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>8</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4141">
+        <template>0</template>
+        <name>Would Wednesday, Nov. 18 at 8:00-8:30 work for you?</name>
+        <label>Wed 8</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>9</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4142">
+        <template>0</template>
+        <name>Would Thursday, Nov. 19 at 6:00-6:30 work for you?</name>
+        <label>Thurs 6</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>10</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4143">
+        <template>0</template>
+        <name>Would Thursday, Nov. 19 at 7:00-7:30 work for you?</name>
+        <label>Thurs 7</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>11</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4144">
+        <template>0</template>
+        <name>Would Thursday, Nov. 19 at 8:00-8:30 work for you?</name>
+        <label>Thurs 8</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>12</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4145">
+        <template>0</template>
+        <name>Would Friday, Nov. 20 at 5:00-5:30 work for you?</name>
+        <label>Fri 5</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>13</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4146">
+        <template>0</template>
+        <name>Would Friday, Nov. 20 at 6:00-6:30 work for you?</name>
+        <label>Fri 6</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>14</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4147">
+        <template>0</template>
+        <name>Would Friday, Nov. 20 at 7:00-7:30 work for you?</name>
+        <label>Fri 7</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;yes
+|no&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>15</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

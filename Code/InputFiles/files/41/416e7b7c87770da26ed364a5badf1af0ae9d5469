@@ -1,0 +1,149 @@
+# Start of question: continuity in a tube
+:TYPE:MC:1:0:C
+:TITLE:continuity in a tube
+:FEEDBACK:H
+
+:QUESTION:H
+An incompressible fluid is flowing through a cylindrical tube of radius R.  The tube constricts to a radius R/2.  In the constriction, the speed of the fluid is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+greater than in the wider section of tube.
+:ANSWER2:0:H
+less than in the wider section of tube.
+:ANSWER3:0:H
+the same as in the wider section of tube.
+:ANSWER4:0:H
+unrelated to the speed in the wider section of tube.
+:CAT:fluid dynamics
+:Used By1:3042360072,3090831664,3183399324
+:Used By3:3183399324,3042360072
+# End of question: continuity in a tube
+
+# Start of question: laminar flow in a stream
+:TYPE:MC:1:0:C
+:TITLE:laminar flow in a stream
+:FEEDBACK:H
+
+:QUESTION:H
+You are standing by a stream watching it flow. It is fall and the trees
+around the stream have been dropping their leaves into the stream. As
+the leaves float past you note that the paths of any two leaves never cross.
+This is an indication of
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+laminar flow.
+:ANSWER2:0:H
+turbulent flow.
+:ANSWER3:0:H
+viscous flow.
+:ANSWER4:0:H
+compressible flow.
+:CAT:fluid dynamics
+:Used By1:3183399324
+:Used By3:3183399324
+# End of question: laminar flow in a stream
+
+# Start of question: volume flow rate in a constriction
+:TYPE:MC:1:0:C
+:TITLE:volume flow rate in a constriction
+:FEEDBACK:H
+
+:QUESTION:H
+An incompressible fluid is flowing through a cylindrical tube of radius R.  The tube has a constriction in which its radius is reduced to R/2.  The volume flow rate in the constricted part of the tube is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+the same as in the wider part.
+:ANSWER2:0:H
+less than in the wider part.
+:ANSWER3:0:H
+greater than in the wider part.
+:ANSWER4:0:H
+unrelated to the volume flow rate in the wider part.
+:CAT:fluid dynamics
+:Used By1:3042360072,3090831664,3183399324
+:Used By3:3183399324,3042360072
+# End of question: volume flow rate in a constriction
+
+# Start of question: continuity in a tube [2]
+:TYPE:MC:1:0:C
+:TITLE:continuity in a tube [2]
+:FEEDBACK:H
+
+:QUESTION:H
+An incompressible fluid is flowing through a cylindrical tube of radius R.  The tube widens to a radius 2R.  In the wider part, the speed of the fluid is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:0:H
+greater than in the narrower section of tube.
+:ANSWER2:100:H
+less than in the narrower section of tube.
+:ANSWER3:0:H
+the same as in the narrower section of tube.
+:ANSWER4:0:H
+unrelated to the speed in the narrower section of tube.
+:CAT:fluid dynamics
+:Used By1:3042360072,3090831664,3183399324
+:Used By3:3183399324,3042360072
+# End of question: continuity in a tube [2]
+
+# Start of question: Constants in incompressible fluid flow
+:TYPE:MC:1:0:C
+:TITLE:Constants in incompressible fluid flow
+:FEEDBACK:H
+
+:QUESTION:H
+In the flow of a nonviscous, incompressible fluid there are two important quantities which are conserved.  They are
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+the volume of the fluid and the energy.
+:ANSWER2:0:H
+the volume of the fluid and the momentum.
+:ANSWER3:0:H
+the momentum and the energy.
+:ANSWER4:0:H
+the speed of the fluid and the energy.
+:ANSWER5:0:H
+the speed of the fluid and the momentum.
+:CAT:fluid dynamics
+:Used By1:3042360072,3090831664,3183399324
+:Used By3:3183399324,3042360072
+# End of question: Constants in incompressible fluid flow
+
+# Start of question: volume flow rate in a constriction [2]
+:TYPE:MC:1:0:C
+:TITLE:volume flow rate in a constriction [2]
+:FEEDBACK:H
+
+:QUESTION:H
+An incompressible fluid is flowing through a cylindrical tube of radius R.  The tube widens to a radius of 2R.  The volume flow rate in the wider part of the tube is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+the same as in the narrower part.
+:ANSWER2:0:H
+less than in the narrower part.
+:ANSWER3:0:H
+greater than in the narrower part.
+:ANSWER4:0:H
+unrelated to the volume flow rate in the narrower part.
+:CAT:fluid dynamics
+:Used By1:3042360072,3090831664,3183399324
+:Used By3:3183399324,3042360072
+# End of question: volume flow rate in a constriction [2]
+

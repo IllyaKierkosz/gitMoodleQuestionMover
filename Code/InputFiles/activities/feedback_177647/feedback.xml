@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2311" moduleid="177647" modulename="feedback" contextid="260992">
+  <feedback id="2311">
+    <name>Momentum_of_system_(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1632909600</timeclose>
+    <timemodified>1636654134</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5513">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_truck_moving_opposite_dir.png" alt="car going  right  at 30 m/s, truck going left at 20 m/s" width="523" height="259" /&gt;&lt;/p&gt;
+&lt;p&gt;A car and truck are moving as shown.  What is the momentum of the system consisting of the car+truck.&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5514">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \vec{p} = 7\times10^4\) kg m/s
+|\( \vec{p} = 7\times10^4 \hat{i}\) kg m/s
+|\( \vec{p} = 1\times10^4 \hat{i}\) kg m/s
+|\( \vec{p} = -1\times10^4 \hat{i}\) kg m/s
+|\( \vec{p} = 1.5\times10^5 \hat{i}\) kg m/s</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

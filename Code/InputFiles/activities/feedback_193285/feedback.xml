@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2501" moduleid="193285" modulename="feedback" contextid="281304">
+  <feedback id="2501">
+    <name>Assig10_1f(direc_of_accel_between_t9_and_t10)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638788400</timeclose>
+    <timemodified>1638971904</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5899">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/airplane_top_view_turning_EtoNtoW_time_betweent9t10.png" alt="airplane turning speeding up between t9 and t10" width="411" height="450" /&gt;&lt;/p&gt;
+&lt;p&gt;At t&lt;sub&gt;9&lt;/sub&gt; the plane is going 250 m/s, north.  From t&lt;sub&gt;9&lt;/sub&gt; to t&lt;sub&gt;10&lt;/sub&gt; it continues to turn, but it is &lt;strong&gt;speeding up&lt;/strong&gt;.  Time t&lt;sub&gt;e&lt;/sub&gt; is some time between t&lt;sub&gt;9&lt;/sub&gt; and t&lt;sub&gt;10&lt;/sub&gt;.  The velocity of the plane at t&lt;sub&gt;e&lt;/sub&gt; is shown.  Which of the following is the most correct direction for the acceleration of the plane at t&lt;sub&gt;e&lt;/sub&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/airplane_speeding_up_turning_direc_accel_options.png" alt="Proposed directions for acceleration at t_e" width="550" height="362" /&gt;&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5900">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;A
+|B
+|C
+|D
+|E
+|F&lt;&lt;&lt;&lt;&lt;1</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

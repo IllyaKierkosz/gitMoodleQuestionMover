@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="51053" moduleid="133635" modulename="resource" contextid="204035">
+  <resource id="51053">
+    <name>Sample first midterm</name>
+    <intro>&lt;p&gt;This is fairly representative of what your first midterm might be like except that it does not contain any 2D kinematics and contains Unit #4 material.  You can find 2D kinematics questions on the sample final.  Also, this midterm was designed for a 90 minute evening session.  Your exam will be written in 60 minutes (plus breakout) so it will have to be shorter than this.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1633178974</timemodified>
+  </resource>
+</activity>

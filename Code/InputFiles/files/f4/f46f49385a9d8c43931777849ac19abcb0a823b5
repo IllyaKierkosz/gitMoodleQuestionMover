@@ -1,0 +1,338 @@
+# Start of question: history from snapshot graph [2]
+:TYPE:MC:1:0:C
+:TITLE:history from snapshot graph [2]
+:FEEDBACK:H
+
+:QUESTION:H
+In the box below is a snapshot graph of a wave moving to the right.  Which of a), b) or c) is a correct history graph for the point labeled A?
+:IMAGE:figures_for_quizzes/waves/history_from_snapshot2.gif
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:0:H
+a)
+:ANSWER2:0:H
+b)
+:ANSWER3:100:H
+c)
+:ANSWER4:0:H
+none of a), b) or c)
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: history from snapshot graph [2]
+
+# Start of question: colour is frequency
+:TYPE:MC:1:0:C
+:TITLE:colour is frequency
+:FEEDBACK:H
+
+:QUESTION:H
+Lights of different colours have different
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+frequencies
+:ANSWER2:0:H
+amplitudes
+:ANSWER3:0:H
+pressures
+:ANSWER4:0:H
+speeds
+:CAT:1-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: colour is frequency
+
+# Start of question: what changes with frequency?
+:TYPE:MC:1:0:C
+:TITLE:what changes with frequency?
+:FEEDBACK:H
+
+:QUESTION:H
+You have two identical strings under the same tension.  Each is connected to an oscillator which sends waves down the string.  The oscillator on string  A is set to a high frequency (say, 20 Hz).  The oscillator on string B is set to a low frequency (say, 2 Hz).  Which statement is most correct?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The speeds of the waves on both strings are the same.  The waves on string B have a longer wavelength.
+:ANSWER2:0:H
+The speeds of the waves on both strings are the same.  The waves on string B have a shorter wavelength.
+:ANSWER3:0:H
+The waves on both strings have the same wavelength.  The waves on string B move at a higher speed.
+:ANSWER4:0:H
+The waves on both strings have the same wavelength.  The waves on string B move at a lower speed.
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: what changes with frequency?
+
+# Start of question: pitch from frequency
+:TYPE:MC:1:0:C
+:TITLE:pitch from frequency
+:FEEDBACK:H
+
+:QUESTION:H
+A speaker produces a sound of some frequency and pressure amplitude.  It then produces a second sound of the same pressure amplitude but higher frequency.  How will the two sounds differ according to your hearing (assuming that you can hear).
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The second sound will be higher pitched.
+:ANSWER2:0:H
+The second sound will be lower pitched.
+:ANSWER3:0:H
+The second sound will be louder (higher volume).
+:ANSWER4:0:H
+The second sound will be quieter (lower volume).
+:ANSWER5:0:H
+You will not hear any difference.  The difference between the sounds could only be detected with a sonometer.
+:CAT:1-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: pitch from frequency
+
+# Start of question: What travels in a sound wave?
+:TYPE:MC:1:0:C
+:TITLE:What travels in a sound wave?
+:FEEDBACK:H
+
+:QUESTION:H
+A speaker is playing a steady note.  Sound waves are travelling from the speaker to your ears.  What do we mean by "the sound wave is travelling"?  i.e. what is actually moving from the speaker to your ear?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+condensations (regions of higher pressure and density) and rarefactions (regions of lower pressure and density
+:ANSWER2:0:H
+crests and troughs just like in a water wave
+:ANSWER3:0:H
+wiggles of the air move and push molecules along with them
+:ANSWER4:0:H
+molecules of the air move from the speaker to your ear in bunches that we identify as the wave crests.
+:CAT:1-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: What travels in a sound wave?
+
+# Start of question: direction of travel of ribbon on transverse wave
+:TYPE:MC:1:0:C
+:TITLE:direction of travel of ribbon on transverse wave
+:FEEDBACK:H
+
+:QUESTION:H
+The figure shows a snapshot of a wave travelling along a slinky.  Suppose a ribbon were tied to one coil of the spring.  As a wave passed by it the ribbon would move
+:IMAGE:figures_for_quizzes/waves/transv_wave_slinky.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+up and down
+:ANSWER2:0:H
+right and left
+:ANSWER3:0:H
+the ribbon would travel along with the crest of the wave
+:ANSWER4:0:H
+the ribbon would not move at all
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: direction of travel of ribbon on transverse wave
+
+# Start of question: direction of travel of ribbon on longitudinal wave
+:TYPE:MC:1:0:C
+:TITLE:direction of travel of ribbon on longitudinal wave
+:FEEDBACK:H
+
+:QUESTION:H
+The figure shows a wave travelling along a slinky.  Suppose a ribbon were tied to one coil of the slinky.  As a wave passed by it the ribbon would move
+:IMAGE:figures_for_quizzes/waves/longit_wave_slinky.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+right and left
+:ANSWER2:0:H
+up and down
+:ANSWER3:0:H
+the ribbon would be carried along with the "compression" part of the wave
+:ANSWER4:0:H
+the ribbon would not move at all
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: direction of travel of ribbon on longitudinal wave
+
+# Start of question: history from snapshot graph
+:TYPE:MC:1:0:C
+:TITLE:history from snapshot graph
+:FEEDBACK:H
+
+:QUESTION:H
+In the box below is a snapshot graph of a wave moving to the right.  Which of a), b) or c) is a correct history graph for the point labeled A?
+:IMAGE:figures_for_quizzes/waves/history_from_snapshot.GIF
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:0:H
+a)
+:ANSWER2:100:H
+b)
+:ANSWER3:0:H
+c)
+:ANSWER4:0:H
+none of a), b) or c)
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: history from snapshot graph
+
+# Start of question: correct expression for wave of specified omega and k [2]
+:TYPE:MC:1:0:C
+:TITLE:correct expression for wave of specified omega and k [2]
+:FEEDBACK:H
+
+:QUESTION:H
+Which of the following expressions represents a wave moving in the positive x direction with a wavenumber of 2.0 m<sup>-1</sup> and an angular frequency of 0.5 s<sup>-1</sup>?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+y(x,t) = (3 cm)sin[(2.0 m<sup>-1</sup>)x - (0.5 s<sup>-1</sup>)t]
+:ANSWER2:0:H
+y(x,t) = (3 cm)sin[2<FONT FACE="symbol">p</FONT>(2.0 m<sup>-1</sup>)x - 2<FONT FACE="symbol">p</FONT>(0.5 s<sup>-1</sup>)t]
+:ANSWER3:0:H
+y(x,t) = (3 cm)sin[2<FONT FACE="symbol">p</FONT>/(2.0 m<sup>-1</sup>)x - 2<FONT FACE="symbol">p</FONT>/(0.5 s<sup>-1</sup>)t]
+:ANSWER4:0:H
+y(x,t) = (3 cm)sin[(0.5 m<sup>-1</sup>)x + (2.0 s<sup>-1</sup>)t]
+:CAT:1-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: correct expression for wave of specified omega and k [2]
+
+# Start of question: correct expression for wave of specified omega and lambda
+:TYPE:MC:1:0:C
+:TITLE:correct expression for wave of specified omega and lambda
+:FEEDBACK:H
+
+:QUESTION:H
+Which of the following expressions represents a wave moving in the positive x direction with a wavelength of 1.0 m and an angular frequency of 6.0 s<sup>-1</sup>?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+y(x,t) = (3 cm)sin[[2<FONT FACE="symbol">p</FONT>/(1.0 m<sup>-1</sup>)]x - (6.0 s<sup>-1</sup>)t]
+:ANSWER2:0:H
+y(x,t) = (3 cm)sin[(6.0 s<sup>-1</sup>)x + [2<FONT FACE="symbol">p</FONT>/(1.0 m<sup>-1</sup>)]t]
+:ANSWER3:0:H
+y(x,t) = (3 cm)sin[2<FONT FACE="symbol">p</FONT>(1.0 m<sup>-1</sup>)x - 2<FONT FACE="symbol">p</FONT>(6.0 s<sup>-1</sup>)t]
+:ANSWER4:0:H
+y(x,t) = (3 cm)sin[(1.0 m<sup>-1</sup>)x - (6.0 s<sup>-1</sup>)t]
+:CAT:1-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: correct expression for wave of specified omega and lambda
+
+# Start of question: speeds of waves of different wavelength on string
+:TYPE:MC:1:0:C
+:TITLE:speeds of waves of different wavelength on string
+:FEEDBACK:H
+
+:QUESTION:H
+You are holding one end of a rope.  You give the rope a short, sharp twitch so that a wave propagates down it.  You then give it a slower twitch so that a longer wave propagates down the string.  Which of the two waves travels faster?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Both travel at the same speed
+:ANSWER2:0:H
+The wave produced by the short sharp twitch (the shorter wave) travels faster
+:ANSWER3:0:H
+The wave produced by the slower twitch (the longer wave) travels faster
+:ANSWER4:0:H
+It depends on the rope
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: speeds of waves of different wavelength on string
+
+# Start of question: wavelength from frequency
+:TYPE:MC:1:0:C
+:TITLE:wavelength from frequency
+:FEEDBACK:H
+
+:QUESTION:H
+You are holding the end of a rope.  You move your hand back and forth repeatedly with a period of 1.0 s to produce a train of waves which propagate down the rope.  You now move your hand back and forth repeatedly with a period of 0.5 s to produce a new train of waves.  Which of these waves has the longer wavelength?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The waves produced by the motion with a period of 1.0 s are longer than those produced with a period of 0.5 s.
+:ANSWER2:0:H
+The waves produced by the motion with a period of 0.5 s are longer than those produced with a period of 1.0 s.
+:ANSWER3:0:H
+Both sets of waves have the same wavelength.
+:ANSWER4:0:H
+It depends on the rope.
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: wavelength from frequency
+
+# Start of question: correct expression for wave of specified omega and k [1]
+:TYPE:MC:1:0:C
+:TITLE:correct expression for wave of specified omega and k [1]
+:FEEDBACK:H
+
+:QUESTION:H
+Which of the following expressions represents a wave moving in the positive x direction with a wavenumber of 5.0 m<sup>-1</sup> and an angular frequency of 6.0 s<sup>-1</sup>?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+y(x,t) = (3 cm)sin[(5.0 m<sup>-1</sup>)x - (6.0 s<sup>-1</sup>)t]
+:ANSWER2:0:H
+y(x,t) = (3 cm)sin[2<FONT FACE="symbol">p</FONT>(5.0 m<sup>-1</sup>)x - 2<FONT FACE="symbol">p</FONT>(6.0 s<sup>-1</sup>)t]
+:ANSWER3:0:H
+y(x,t) = (3 cm)sin[2<FONT FACE="symbol">p</FONT>/(5.0 m<sup>-1</sup>)x - 2<FONT FACE="symbol">p</FONT>/(6.0 s<sup>-1</sup>)t]
+:ANSWER4:0:H
+y(x,t) = (3 cm)sin[(6.0 m<sup>-1</sup>)x + (5.0 s<sup>-1</sup>)t]
+:CAT:1-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: correct expression for wave of specified omega and k [1]
+
+# Start of question: longitudinal and transverse waves on slinky
+:TYPE:MC:1:0:C
+:TITLE:longitudinal and transverse waves on slinky
+:FEEDBACK:H
+
+:QUESTION:H
+Consider the two snapshots, A and B, of a slinky.  Which of the following is true?
+:IMAGE:figures_for_quizzes/waves/longit_trans_spring_waves.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+A is a transverse wave, B is a longitudinal wave.
+:ANSWER2:0:H
+A is a longitudinal wave, B is a transverse wave.
+:ANSWER3:0:H
+A is a wave, B is not.
+:ANSWER4:0:H
+Neither A nor B are waves.
+:CAT:1-D Waves
+:Used By1:2869847504,3059011264,3183398896
+:Used By3:3183398896,2869847504
+# End of question: longitudinal and transverse waves on slinky
+

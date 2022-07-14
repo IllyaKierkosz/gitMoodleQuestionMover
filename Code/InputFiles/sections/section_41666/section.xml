@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="41666">
+  <number>3</number>
+  <name>1 - Preliminaries</name>
+  <summary>&lt;h4&gt;Objectives&lt;/h4&gt;
+&lt;p&gt;By the end of this topic unit you should be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain the meaning of "best estimate" and "uncertainty" of a measured quantity.&lt;/li&gt;
+&lt;li&gt;Calculate the best estimate and uncertainty of a measured quantity.&lt;/li&gt;
+&lt;li&gt;Determine whether two quantities agree within uncertainty.&lt;/li&gt;
+&lt;li&gt;Explain differences between scalars and vectors.&lt;/li&gt;
+&lt;li&gt;From written or pictorial information, express a vector in magnitude/direction form or in component form.&lt;/li&gt;
+&lt;li&gt;Convert vectors back and forth between magnitude/direction and component forms.&lt;/li&gt;
+&lt;li&gt;Add and subtract vectors, both graphically and algebraically.&lt;/li&gt;
+&lt;/ul&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>133648,133649,133650,133651,172075,133652,133653,175880,177416,133654,133655,170203,133657,170205,133659,133661,133663,133665,133667,133669,133671,178907</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1631105600</timemodified>
+</section>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="50" moduleid="133676" modulename="workshop" contextid="204076">
+  <workshop id="50">
+    <name>Motion diagram and graph activity - try this</name>
+    <intro>&lt;p&gt;This is to get you used to doing workshops during class.  Normally in a workshop you will be given a problem to work on in a group.  This one isn't exactly a problem.  It is more of a quick conceptual activity because I am not sure that we (your or I) are comfortable enough with this to try doing  it with a more involved problem.  In your groups you will discuss the activity and complete it.  Every one of you will make your own submissions.  Then you will be given some submissions by other people to mark.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <instructauthors>&lt;p&gt;Consider the following situation:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/car_axes.png" width="300" height="160" alt="car, axes" /&gt;&lt;/p&gt;
+&lt;p&gt;A car starts from rest and moves to the right, speeding up.  Then it slows down to a stop.  It then immediately reverses and moves to the left while speeding up.&lt;/p&gt;
+&lt;p&gt;It's motion diagram would look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MD_start_speed_slow_stop_reverse_speed_no_a.png" width="600" height="71" alt="motion diagram" /&gt;&lt;/p&gt;
+&lt;p&gt;The origin of the coordinate axes is at the starting location of the car, as shown.  On a piece of paper, sketch an x vs. t graph for the car during the described motion.&lt;/p&gt;
+&lt;p&gt;When you have finished making both of these sketches, take a picture of your paper with the scanner app on your phone.  Upload the pdf as your submission.&lt;/p&gt;</instructauthors>
+    <instructauthorsformat>1</instructauthorsformat>
+    <instructreviewers>&lt;p&gt;You will assess several (probably two) submissions by other people.  Follow the marking  guide.  The marking guide should be detailed enough that you won't have to use much judgement.  Before you are given the submissions by other students to assess you will given a sample submission that I made which you will be asked to assess as practice in the assessment process.&lt;/p&gt;</instructreviewers>
+    <instructreviewersformat>1</instructreviewersformat>
+    <timemodified>1620058002</timemodified>
+    <phase>50</phase>
+    <useexamples>1</useexamples>
+    <usepeerassessment>1</usepeerassessment>
+    <useselfassessment>0</useselfassessment>
+    <grade>80.00000</grade>
+    <gradinggrade>20.00000</gradinggrade>
+    <strategy>accumulative</strategy>
+    <evaluation>best</evaluation>
+    <gradedecimals>0</gradedecimals>
+    <submissiontypetext>0</submissiontypetext>
+    <submissiontypefile>2</submissiontypefile>
+    <nattachments>1</nattachments>
+    <submissionfiletypes>.pdf</submissionfiletypes>
+    <latesubmissions>0</latesubmissions>
+    <maxbytes>0</maxbytes>
+    <examplesmode>2</examplesmode>
+    <submissionstart>1631721600</submissionstart>
+    <submissionend>1631726100</submissionend>
+    <assessmentstart>0</assessmentstart>
+    <assessmentend>0</assessmentend>
+    <conclusion>&lt;p&gt;Thanks for participating in this activity.  Note that you will have received two marks.  One mark will be for your group's submission.  The other mark is for the quality of feedback you gave to the submissions you were asked to assess.  The grade for the quality of assessment is found by comparing your assessment with the assessments of others who marked the same submission.  If you all agree on the grade then you get a perfect mark for your assessment.&lt;/p&gt;
+&lt;p&gt;However, because this activity was still mostly to help you get used to this sort of in-class activity, the mark you get in it won't matter.  You will simply get a 1/1 participation mark for doing the activity.  I will manually upload those marks to the moodle gradebook once I've looked over the activity.&lt;/p&gt;</conclusion>
+    <conclusionformat>1</conclusionformat>
+    <overallfeedbackmode>1</overallfeedbackmode>
+    <overallfeedbackfiles>0</overallfeedbackfiles>
+    <overallfeedbackfiletypes></overallfeedbackfiletypes>
+    <overallfeedbackmaxbytes>0</overallfeedbackmaxbytes>
+    <subplugin_workshopform_accumulative_workshop>
+      <workshopform_accumulative_dimension id="149">
+        <sort>1</sort>
+        <description>&lt;p&gt;They should have also included an x vs. t graph.  It should look roughly like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_speedup_then_slowdown_reverse_speedup.png?time=1600223915860" alt="x vs. t graph" width="450" height="301" /&gt;&lt;/p&gt;
+&lt;p&gt;Since the car started at x = 0 (the origin was at the initial location of the car) the value of x at t = 0 should be zero.  In other words, the curve should start from the intersection of the axes.&lt;/p&gt;
+&lt;p&gt;Does their curve start from the intersection of the axes?&lt;/p&gt;</description>
+        <descriptionformat>1</descriptionformat>
+        <grade>1</grade>
+        <weight>1</weight>
+      </workshopform_accumulative_dimension>
+      <workshopform_accumulative_dimension id="150">
+        <sort>2</sort>
+        <description>&lt;p&gt;The graph should contain three segments.  The first segment slopes upward, and has an increasing slope, like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_speedup_from_v_zero_no_axes.png" alt="upward curve" width="145" height="143" /&gt;&lt;/p&gt;
+&lt;p&gt;Another description of this is that it is "concave up".  The slope at the start should be zero, but don't be picky about this.  As long as they have a curve that bends upward like this at the start of their graph give it full marks.&lt;/p&gt;</description>
+        <descriptionformat>1</descriptionformat>
+        <grade>1</grade>
+        <weight>1</weight>
+      </workshopform_accumulative_dimension>
+      <workshopform_accumulative_dimension id="151">
+        <sort>3</sort>
+        <description>&lt;p&gt;The next segment should continue to increase, but should have a decreasing slope.  So it should look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_slowdown_no_axes.png" alt="curve with decreasing slope" width="159" height="125" /&gt;&lt;/p&gt;
+&lt;p&gt;Another description of this is that it is "concave down".  Strictly speaking the transition between these two segments should be smooth, like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_Scurve_no_axes.png" alt="s curve" width="299" height="259" /&gt;not "kinked" like this   &lt;img src="@@PLUGINFILE@@/x_vs_t_kinked.png" alt="kinked curve" width="268" height="167" /&gt;&lt;/p&gt;
+&lt;p&gt;But don't be picky about this.  As long as the second segment is still increasing, but with a  decreasing slope it should get full marks.&lt;/p&gt;</description>
+        <descriptionformat>1</descriptionformat>
+        <grade>1</grade>
+        <weight>1</weight>
+      </workshopform_accumulative_dimension>
+      <workshopform_accumulative_dimension id="152">
+        <sort>4</sort>
+        <description>&lt;p&gt;The final segment should decrease, and get steeper as it does so, like this&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/x_vs_t_speedup_neg_slope.png" alt="downward curve" width="127" height="104" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+        <descriptionformat>1</descriptionformat>
+        <grade>1</grade>
+        <weight>1</weight>
+      </workshopform_accumulative_dimension>
+    </subplugin_workshopform_accumulative_workshop>
+    <subplugin_workshopform_comments_workshop>
+    </subplugin_workshopform_comments_workshop>
+    <subplugin_workshopform_numerrors_workshop>
+    </subplugin_workshopform_numerrors_workshop>
+    <subplugin_workshopform_rubric_workshop>
+    </subplugin_workshopform_rubric_workshop>
+    <subplugin_workshopeval_best_workshop>
+      <workshopeval_best_settings>
+        <comparison>5</comparison>
+      </workshopeval_best_settings>
+    </subplugin_workshopeval_best_workshop>
+    <examplesubmissions>
+      <examplesubmission id="523">
+        <timecreated>1600223266</timecreated>
+        <timemodified>1600223266</timemodified>
+        <title>Sample, motion diagram and x vs. t graph</title>
+        <content></content>
+        <contentformat>1</contentformat>
+        <contenttrust>0</contenttrust>
+        <attachment>0</attachment>
+        <referenceassessment id="1741">
+          <timecreated>1600223364</timecreated>
+          <timemodified>1600224247</timemodified>
+          <grade>100.00000</grade>
+          <feedbackauthor></feedbackauthor>
+          <feedbackauthorformat>1</feedbackauthorformat>
+          <feedbackauthorattachment>0</feedbackauthorattachment>
+          <subplugin_workshopform_accumulative_referenceassessment>
+            <workshopform_accumulative_referencegrade id="5117">
+              <dimensionid>149</dimensionid>
+              <grade>1.00000</grade>
+              <peercomment></peercomment>
+              <peercommentformat>0</peercommentformat>
+            </workshopform_accumulative_referencegrade>
+            <workshopform_accumulative_referencegrade id="5118">
+              <dimensionid>150</dimensionid>
+              <grade>1.00000</grade>
+              <peercomment></peercomment>
+              <peercommentformat>0</peercommentformat>
+            </workshopform_accumulative_referencegrade>
+            <workshopform_accumulative_referencegrade id="5119">
+              <dimensionid>151</dimensionid>
+              <grade>1.00000</grade>
+              <peercomment></peercomment>
+              <peercommentformat>0</peercommentformat>
+            </workshopform_accumulative_referencegrade>
+            <workshopform_accumulative_referencegrade id="5120">
+              <dimensionid>152</dimensionid>
+              <grade>1.00000</grade>
+              <peercomment></peercomment>
+              <peercommentformat>0</peercommentformat>
+            </workshopform_accumulative_referencegrade>
+          </subplugin_workshopform_accumulative_referenceassessment>
+          <subplugin_workshopform_comments_referenceassessment>
+          </subplugin_workshopform_comments_referenceassessment>
+          <subplugin_workshopform_numerrors_referenceassessment>
+          </subplugin_workshopform_numerrors_referenceassessment>
+          <subplugin_workshopform_rubric_referenceassessment>
+          </subplugin_workshopform_rubric_referenceassessment>
+        </referenceassessment>
+        <exampleassessments>
+        </exampleassessments>
+      </examplesubmission>
+    </examplesubmissions>
+    <submissions>
+    </submissions>
+    <aggregations>
+    </aggregations>
+  </workshop>
+</activity>

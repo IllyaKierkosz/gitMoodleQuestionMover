@@ -1,0 +1,184 @@
+# Start of question: three balls all repelling
+:TYPE:MC:1:0:C
+:TITLE:three balls all repelling
+:FEEDBACK:H
+
+:QUESTION:H
+Metal balls A, B and C are charged in various ways.  Once charged it is found that A and B repel each other and that B and C also repel each other.  From this we can conclude that
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+All three metal balls carry charges of the same sign.
+:ANSWER2:0:H
+A and C have charges of the same sign, but B has the opposite sign.
+:ANSWER3:0:H
+A and B have charges of opposite sign, and B and C have charges of the opposite sign.
+:ANSWER4:0:H
+One of the balls has zero charge.
+:ANSWER5:0:H
+We would have to do more tests to determine anything about the charges.
+:CAT:electric forces
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: three balls all repelling
+
+# Start of question: like charged spheres
+:TYPE:MC:1:0:C
+:TITLE:like charged spheres
+:FEEDBACK:H
+
+:QUESTION:H
+You rub an ebonite rod with fur so that it is charged.  You touch it to a ping-pong ball wrapped in aluminum foil that is hanging from the ceiling by an electrically insulating thread.  You now rub the ebonite rod again and touch it to another aluminum-wrapped ping-pong ball.  When the two ping-pong balls are brought close together
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+they repel each other (they are pushed apart).
+:ANSWER2:0:H
+they attract each other (they are pulled together).
+:ANSWER3:0:H
+there is no force between them.
+:ANSWER4:0:H
+there may be a force between them, but we cannot know without knowing more about the charges on each.
+:CAT:electric forces
+:Used By1:3183399512
+:Used By3:3183399512
+# End of question: like charged spheres
+
+# Start of question: three balls, 2 pairs attracting
+:TYPE:MC:1:0:C
+:TITLE:three balls, 2 pairs attracting
+:FEEDBACK:H
+
+:QUESTION:H
+Metal balls A, B and C are charged in various ways.  Once charged it is found that A and B attract each other and that B and C attract each other.  A and C should therefore
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+repel each other.
+:ANSWER2:0:H
+attract each other.
+:ANSWER3:0:H
+exert no force on each other.
+:ANSWER4:0:H
+we need to do more tests to determine how A and C would interact.
+:CAT:electric forces
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: three balls, 2 pairs attracting
+
+# Start of question: differently charged spheres
+:TYPE:MC:1:0:C
+:TITLE:differently charged spheres
+:FEEDBACK:H
+
+:QUESTION:H
+You rub an ebonite rod with fur so that it is charged.  You touch it to a ping-pong ball wrapped in aluminum foil that is hanging from the ceiling by an electrically insulating thread.  You touch a second aluminum-wrapped ping-pong ball with the fur.  When the two ping-pong balls are brought close together
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+they attract each other (they are pulled together).
+:ANSWER2:0:H
+they repel each other (they are pushed apart).
+:ANSWER3:0:H
+there is no force between them.
+:ANSWER4:0:H
+there may be a force between them, but we cannot know without knowing more about the charges on each.
+:CAT:electric forces
+:Used By1:3183399512
+:Used By3:3183399512
+# End of question: differently charged spheres
+
+# Start of question: force between charges at different distances [1]
+:TYPE:MC:1:0:C
+:TITLE:force between charges at different distances [1]
+:FEEDBACK:H
+
+:QUESTION:H
+Two small metal spheres (approximately point charges) have been charged with unknown charges.  They are placed 0.10 m apart and it is found that they exert an attractive force of 1.0 N on each other.  If the metal spheres are moved so that the separation between them is 0.20 m then the force between them should be
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+0.25 N
+:ANSWER2:0:H
+0.50 N
+:ANSWER3:0:H
+2.0 N
+:ANSWER4:0:H
+4.0 N
+:ANSWER5:0:H
+0
+:ANSWER6:0:H
+We need more information.
+:ANSWER7:0:H
+1.0 N
+:CAT:electric forces
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: force between charges at different distances [1]
+
+# Start of question: force between charges at different distances [2]
+:TYPE:MC:1:0:C
+:TITLE:force between charges at different distances [2]
+:FEEDBACK:H
+
+:QUESTION:H
+Two small metal spheres (approximately point charges) have been charged with unknown charges.  They are placed 0.20 m apart and it is found that they exert an attractive force of 1.0 N on each other.  If the metal spheres are moved so that the separation between them is 0.10 m then the force between them should be
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+4.0 N
+:ANSWER2:0:H
+0.50 N
+:ANSWER3:0:H
+2.0 N
+:ANSWER4:0:H
+0.25 N
+:ANSWER5:0:H
+0
+:ANSWER6:0:H
+We need more information.
+:ANSWER7:0:H
+1.0 N
+:CAT:electric forces
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: force between charges at different distances [2]
+
+# Start of question: inducing polarization on a ball
+:TYPE:MC:1:0:C
+:TITLE:inducing polarization on a ball
+:FEEDBACK:H
+
+:QUESTION:H
+A ping-pong ball wrapped in aluminum foil is very lightweight, but has a surface that is a good electrical conductor.  You give an ebonite rod a negative charge by rubbing it with fur.  You then bring it close to a ping-pong ball wrapped in foil which is hanging from an electically insulating string.  Which statement describes the behaviour of the charges on the aluminum foil wrapped ping-pong ball?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Some of the electrons on the ping-pong ball will be pushed from the side near to the ebonite rod to the side far from the ebonite rod.
+:ANSWER2:0:H
+Some of the electrons on the ping-pong ball will be pulled from the side far from the ebonite rod to the side near to the ebonite rod.
+:ANSWER3:0:H
+Some of the protons on the ping-pong ball will be pulled from the side far from the ebonite rod to the side near to the ebonite rod.
+:ANSWER4:0:H
+Some of the electrons on the ping-pong ball will be pushed from out of the ball and into the ground.
+:ANSWER5:0:H
+Nothing will happen to the charges on the ping-pong ball unless it is actually touched with the rod.
+:CAT:electric forces
+:Used By1:2870838408,3183399512
+:Used By3:3183399512,2870838408
+# End of question: inducing polarization on a ball
+

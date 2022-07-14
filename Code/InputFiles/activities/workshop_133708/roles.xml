@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="6370">
+      <roleid>12</roleid>
+      <capability>mod/workshop:viewauthornames</capability>
+      <permission>-1000</permission>
+      <timemodified>1622850877</timemodified>
+      <modifierid>167</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>

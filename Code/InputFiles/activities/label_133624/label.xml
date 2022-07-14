@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19766" moduleid="133624" modulename="label" contextid="204024">
+  <label id="19766">
+    <name>Joining the team for this course in MS Teams (igno...</name>
+    <intro>&lt;h3&gt;Joining the team for this course in MS Teams (ignore if you already did this in Assignment #0)&lt;/h3&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;You will need to join the team for this course in MS Teams.  For more details on how to do this do Assignment #0.  I am just posting information on it here to give another, quicker, way to get there.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;To join the PHYS 1104 team, first open MS Teams (if you don't know how then do Assignment #0...).  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;From the main page in Teams, which lists all of the Teams you are in, there is a button in the upper right corner that looks like this:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/join_team.png" width="208" height="50" alt="join team" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Click that.  It will present you with a few options.  One of them is to "Join a team with a code", which will look like this:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/enter_code.png" width="281" height="270" alt="enter code" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;To join the PHYS 1104 team, enter this code in that box: c5fo4e1&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1630504938</timemodified>
+  </label>
+</activity>

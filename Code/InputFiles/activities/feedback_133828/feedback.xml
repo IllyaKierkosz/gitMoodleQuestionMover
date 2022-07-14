@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1808" moduleid="133828" modulename="feedback" contextid="204228">
+  <feedback id="1808">
+    <name>Transform position</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1634551200</timeclose>
+    <timemodified>1634560560</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="4396">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/one_cart_sam_trogdor_no_accel_distances.png" alt="Sam, Trogdor, and a cart" width="500" height="352" /&gt;&lt;/p&gt;
+&lt;p&gt;Trogdor (T), Sam (S), and a Cart (C) are moving with velocities relative to the Earth frame as shown.  The position of the cart according to each of Trogdor and Sam at t = 0 is also shown.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4397">
+        <template>0</template>
+        <name>What will be the position of the cart according to each of them at t = 1 s?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \vec{r}_{SC} = 0, \quad \vec{r}_{TC} = -2 \hat{i} \, \textrm{m} \)
+|\( \vec{r}_{SC} = 0, \quad \vec{r}_{TC} = 0 \)
+|\( \vec{r}_{SC} = 6 \hat{i} \, \textrm{m}, \quad \vec{r}_{TC} = 2 \hat{i} \, \textrm{m} \)
+|\( \vec{r}_{SC} = -2 \hat{i} \, \textrm{m}, \quad \vec{r}_{TC} = -4 \hat{i} \, \textrm{m} \)</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

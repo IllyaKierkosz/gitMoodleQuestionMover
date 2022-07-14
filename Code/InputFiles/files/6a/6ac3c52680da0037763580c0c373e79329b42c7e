@@ -1,0 +1,162 @@
+# Start of question: flux through two loops (different sizes)
+:TYPE:MC:1:0:C
+:TITLE:flux through two loops (different sizes)
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram below shows a uniform B field pointing out of the screen.  Two square current loops, each carrying an identical current, I, are oriented in the plane of the screen.  One square loop measures L on each side and the other measures 2L.  The magnetic flux through the larger loop is
+:IMAGE:figs_for_quizzes/EM induction/2_loops_var_size.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+4 times the flux through the smaller loop.
+:ANSWER2:0:H
+2 times the flux through the smaller loop.
+:ANSWER3:0:H
+the same as the flux through the smaller loop.
+:ANSWER4:0:H
+1/2 (half) the flux through the smaller loop.
+:ANSWER5:0:H
+1/4 (a quarter) of the flux through the smaller loop.
+:CAT:EM induction
+# End of question: flux through two loops (different sizes)
+
+# Start of question: flux through two loops (different angles)
+:TYPE:MC:1:0:C
+:TITLE:flux through two loops (different angles)
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram below shows a uniform B field pointing out of the screen.  Two square current loops, each carrying an identical current, I, are shown.  Loop A is oriented in the plane of the screen.  Loop B is "side on" so that it is perpendicular to the screen and we see it from the side (so it looks like a line).   Both loops measures L on each side.  Which statement best describes the magnetic fluxes through the two loops?
+:IMAGE:figs_for_quizzes/EM induction/2_loops_var_angle.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+Loop A has a nonzero magnetic flux through it.  The magnetic flux through loop B is zero.
+:ANSWER2:0:H
+The magnetic flux through A is zero.  Loop B has a nonzero magnetic flux through it.
+:ANSWER3:0:H
+The magnetic flux is zero through both loops.
+:ANSWER4:0:H
+The magnetic flux is the same through both loops.
+:ANSWER5:0:H
+The magnetic flux through loop B is greater than the magnetic flux through A.
+:CAT:EM induction
+# End of question: flux through two loops (different angles)
+
+# Start of question: change flux (increase B)
+:TYPE:MC:1:0:C
+:TITLE:change flux (increase B)
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a loop of wire.  The loop is not attached to a battery or other current source.  The loop is in the plane of the screen.  A uniform B field points out of the screen.  At some instant the magnitude of the B field suddenly increases.  It then remains constant at a new, higher, value.  Which statement best describes the current in the wire.
+:IMAGE:figs_for_quizzes/EM induction/1_loop_in_B_field.GIF
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+No current initially flows in the wire.  When the B field increases a current will flow clockwise in the wire while it is increasing.  No current flows once the B field reaches its new higher magnitude.
+:ANSWER2:0:H
+No current initially flows in the wire.  When the B field increases a current will flow counterclockwise in the wire while it is increasing.  No current flows once the B field reaches its new higher magnitude.
+:ANSWER3:0:H
+No current will flow in the wire at any time throughout this process.
+:ANSWER4:0:H
+A current flows clockwise in the loop while the B field is at its initial value.  The current increases when the B field increases in magnitude.
+:ANSWER5:0:H
+A current flows counterclockwise in the loop while the B field is at its initial value.  The current increases when the B field increases in magnitude.
+:CAT:EM induction
+# End of question: change flux (increase B)
+
+# Start of question: inductor with const. I
+:TYPE:MC:1:0:C
+:TITLE:inductor with const. I
+:FEEDBACK:H
+
+:QUESTION:H
+A circuit containing an inductor has a constant current, I.  The potential drop across the inductor is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+zero
+:ANSWER2:0:H
+constant and nonzero
+:ANSWER3:0:H
+increasing
+:ANSWER4:0:H
+decreasing
+:CAT:EM induction
+# End of question: inductor with const. I
+
+# Start of question: when does current flow?
+:TYPE:MC:1:0:C
+:TITLE:when does current flow?
+:FEEDBACK:H
+
+:QUESTION:H
+A solenoidal coil has no current flowing it but is connected to an ammeter.  A permanent magnet is slowly inserted into the coil, left stationary in the solenoid for a while and then quickly pulled out.  A current in the solenoid is detected by the ammeter at various times during this process.  Which of the following best describes this current?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+A small current flows while the magnet is being slowly inserted.  There is no current while the magnet is stationary in the solenoid.  A larger current flows when the magnet is quickly withdrawn.
+:ANSWER2:0:H
+A large current flows while the magnet is being slowly inserted.  There is no current while the magnet is stationary in the solenoid.  A smaller current flows when the magnet is quickly withdrawn.
+:ANSWER3:0:H
+The current builds slowly as the magnet is inserted.  The current remains high while the magnet is left in the solenoid.  The current then quickly drops to zero as the magnet is withdrawn.
+:ANSWER4:0:H
+There is no current in the solenoid.
+:CAT:EM induction
+# End of question: when does current flow?
+
+# Start of question: when does current flow (moving loop)?
+:TYPE:MC:1:0:C
+:TITLE:when does current flow (moving loop)?
+:FEEDBACK:H
+
+:QUESTION:H
+A loop of wire is held over the north pole of a permanent magnet.  The loop is not connected to a battery or other current source but it is connected to an ammeter.  The loop is moved slowly towards the magnet, held near it for a short time and then moved quickly away from it.  Which of the following best describes the current in the loop?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+A small current flows in the loop when it is moved slowly towards the magnet.  The current stops while the loop is held close to the magnet.  A larger current flows when the loop is moved quickly away from the magnet.
+:ANSWER2:0:H
+A large current flows in the loop when it is moved slowly towards the magnet.  The current stops while the loop is held close to the magnet.  A smaller current flows when the loop is moved quickly away from the magnet.
+:ANSWER3:0:H
+The current increases as the loop is brought closer to the magnet.  It remains at a high value while the loop is held close to the magnet.  It then rapidly decreases when the loop is pulled quickly away from the magnet.
+:ANSWER4:0:H
+There is no current in the loop.
+:CAT:EM induction
+# End of question: when does current flow (moving loop)?
+
+# Start of question: Where do electrons go in moving conductor?
+:TYPE:MC:1:0:C
+:TITLE:Where do electrons go in moving conductor?
+:FEEDBACK:H
+
+:QUESTION:H
+The diagram shows a square piece of copper (a very good conductor) moving to the right through a region where the magnetic field is directed out of the screen.  The electrons in the piece of copper will
+:IMAGE:figs_for_quizzes/EM induction/cond_move_through_B.gif
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+collect at the top of the piece of copper.
+:ANSWER2:0:H
+collect at the bottom of the piece of copper.
+:ANSWER3:0:H
+collect at the back (left side) of the piece of copper.
+:ANSWER4:0:H
+collect at the front (right side) of the piece of copper.
+:ANSWER5:0:H
+be unaffected.
+:CAT:EM induction
+# End of question: Where do electrons go in moving conductor?
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2484" moduleid="193133" modulename="feedback" contextid="281131">
+  <feedback id="2484">
+    <name>Which_has_greater_frequency_and_speed?(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638356400</timeclose>
+    <timemodified>1638971666</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5865">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;The figure below shows Krusty the Clown and Sidshow Bob, as part of a circus act, on a rotating wheel.  They are both stuck to the wheel with velcro.  As the diagram shows, Bob is farther from the centre of the wheel than Krusty is.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/krusty_bob_on_wheel_no_numbers.png" alt="Krusty and Bob on rotating wheel" width="450" height="455" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Which has the larger frequency?  Which has the greater speed?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5866">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\(f_B &gt; f_K, \, v_B &gt; v_K \)
+|\(f_B &gt; f_K, \, v_B = v_K \)
+|\(f_B &gt; f_K, \, v_B &lt; v_K \)
+|\(f_B = f_K, \, v_B &gt; v_K \)
+|\(f_B = f_K, \, v_B = v_K \)
+|\(f_B = f_K, \, v_B &lt; v_K \)
+|\(f_B &lt; f_K, \, v_B &gt; v_K \)
+|\(f_B &lt; f_K, \, v_B = v_K \)
+|\(f_B &lt; f_K, \, v_B &lt; v_K \)</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

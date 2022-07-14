@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_definition>
+  <role id="4">
+    <name></name>
+    <shortname>teacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>5</sortorder>
+    <archetype>teacher</archetype>
+  </role>
+  <role id="5">
+    <name></name>
+    <shortname>student</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>6</sortorder>
+    <archetype>student</archetype>
+  </role>
+  <role id="12">
+    <name>Course Participant</name>
+    <shortname>courseparticipant</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Has the same permissions as a student, can view course content and participate in discussions. This role can be used for ICA's, TA's or teachers who do not need editing permissions or grading permissions. Can view hidden shells.&lt;/p&gt;</description>
+    <sortorder>12</sortorder>
+    <archetype>student</archetype>
+  </role>
+</roles_definition>

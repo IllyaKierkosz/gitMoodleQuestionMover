@@ -1,0 +1,139 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage[hang]{subfigure}
+
+
+\addtolength{\textwidth}{2.5in}
+\addtolength{\textheight}{1.5in}
+\addtolength{\voffset}{-0.75in}
+\addtolength{\hoffset}{-1.25in}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{PHYS 1204 Assignment \#1 - Travelling Waves}
+\rhead{Due: Friday, Jan 24.}
+
+
+
+\begin{document}
+
+\begin{center}
+\Large \textbf{PHYS 1204 Assignment \#8 - Travelling Waves} \normalsize
+\end{center}
+
+\vspace{12pt}
+
+%\nodate
+%\date{ }
+
+%\maketitle
+
+\large \textbf{Due date: Friday, Jan 24.}\normalsize
+
+\vspace{12pt}
+
+\small 
+
+\begin{itemize}
+
+\item If you have questions about this assignment you should stop by my office, email me, or join in a discussion on the Moodle message boards.
+
+\item Remember, there are far more marks for procedure than for final answers.  Write your solutions neatly and in a well organized fashion.  Show all work.
+
+\item All work submitted must be your own work.  You are encouraged to work with other students but do not show each other the final work that you intend to submit.  If you collaborate with other students it is a good idea to cite them as sources for your work.
+
+\end{itemize}
+
+\normalsize
+
+\section*{Questions}
+
+\begin{enumerate}
+
+\item Going back and forth between history and snapshot graphs.
+
+\begin{enumerate}
+\item Figure \ref{fig:snap_shot1} shows a snapshot of a wave pulse at time $ t = 0 s$. Sketch the history graph at point $x = -3.5$ m? (You can assume that the leading edge of the wave is at 0.5 m.) Show how you calculate the moments in time when the leading and trailing edges of the wave pulse pass $x = -3.5$ m.
+\item Figure \ref{fig:history_1} shows a history graph at $x = 4$ m for a wave travelling to the right with a speed of $v = 3$ m/s. Draw the snapshot graph at $t = 0$ s for the wave.  Show how you arrived at the positions of the leading and trailing edges of the wave.
+\end{enumerate}
+
+\item At $t=0$ the displacement of a non-sinusoidal traveling wave is given by
+
+\begin{equation}
+\nonumber
+D(x,t=0) = \frac{A}{x^4+c}\times e^{-bx^{2}}
+\end{equation}
+
+\noindent where $A = 10.00$ kg$\cdot$m, $b = 4.00$ m$^{-2}$ and $c = 10.00$ m$^4$.
+
+\begin{enumerate}
+
+\item Plot the displacement vs. x at $t=0$.  \textbf{Do not plot this by hand}.  You can use whatever graphing package you want, but excel is an easy option. 
+\item What are the units of $D(x,t=0)$?  Given the units of $D$, what ``kind'' of a wave is this expression representing? (i.e. what quantity is ``wiggling'' as the wave passes by?)
+\item Label the leading and trailing edges of the wave pulse on your graph. 
+\item Assuming that the wave travels to the left at 5.00 m/s \textbf{without} changing shape, write the full displacement function, $D(x,t)$, which describes the wave at all positions and times.
+\item Verify that the function that you wrote in d) is correct by plotting it at $t = 0.5$ s and $t = 1.5$ s.  Comment on how your plots display the expected behaviour of the wave.  Note that this part of the question is giving you marks for doing a check.  If you have done anything incorrectly you should be able to tell once you have looked at these plots.
+\item What would you do to your expression from part d) to make your wave travel to the right? 
+
+\end{enumerate}
+
+
+
+\item Consider a strip of rubber of mass $m$ and length $\ell$.
+
+\begin{enumerate}
+\item Assuming that the strip obeys Hooke's law, what is the speed of transverse waves across the strip when it is stretched a length $\delta \ell$?
+\item How much time would it take for sound to cross the stretched length of the strip? 
+\item What happens to your expression from part b) if $\frac{\delta\ell}{\ell} \ll 1$? What about if $\frac{\delta\ell}{\ell} \gg 1$?
+
+\end{enumerate}
+
+\item To test the damage caused by an explosive device targets are set up at different distances from the detonation point. When the explosive detonates there is a spherical pressure wave that radiates outward in all directions, knocking down two targets; one at $x = 8$ m and one at $x = -10$ m, simultaneously. 
+
+\begin{enumerate}
+\item Where along the x-axis is the explosive located? 
+\item What is the phase difference of the wave at those two points? Show your reasoning. 
+\item A third target was placed along the y-axis. What is its y-coordinate if it is knocked down by the same wavefront at the same time as the other two targets?   
+\end{enumerate}
+
+\item The speed of sound is greater in solids than in gases. To test this you can set up a microphone at one end of a metal rod and strike the other end of the rod. Sound will be recorded twice by the microphone: once from the surrounding air and once from sound travelling through the metal. Assuming that the rod is 5 m long and that the sound pulses that the microphone records are separated by about 10 ms ($milli$seconds), what is the speed of sound in the metal? You can assume that the temperature is 20 $^{\circ}$C.
+
+
+\item A 3.50 m long string with a mass of 500.0 g is stretched along the positive x-axis with a tension of 450 N.  One end of the string, at $x=0$ m, is tied to a small motor.  The motor causes that end of the string to oscillate up and down (i.e. along the y-axis) at a frequency of 150 Hz with a maximum displacement of 2.00 mm.  The $t = 0$ s the end of the string is at $y = - 0.500$ mm and is on its way up.
+
+\begin{enumerate}
+
+\item What is the wave speed on this string?
+
+\item What is the wavelength of the waves that are being created by the motor?
+
+\item Write the equation for the displacement, $D(x,t)$, of the traveling wave.  Be sure to show your work, especially how you determined the phase constant.
+
+\item What are the displacement and velocity of the string at $x = 0.150$ m and $t = 6.00$ ms $= 6.00 \times 10^{-3}$ s?
+
+\end{enumerate}
+
+
+
+\end{enumerate}
+
+
+\begin{figure}[!h] 
+ \begin{minipage}{0.5\linewidth} 
+  \centering 
+  \includegraphics[width=0.75\textwidth]{snap_shot1} 
+   \caption{\label{fig:snap_shot1}}
+ \end{minipage}% 
+ \begin{minipage}{0.5\linewidth} 
+  \centering 
+  \includegraphics[width=0.75\textwidth]{history_1} 
+  \caption{\label{fig:history_1}}
+ \end{minipage} 
+\end{figure}
+
+
+
+\end{document}
+
+

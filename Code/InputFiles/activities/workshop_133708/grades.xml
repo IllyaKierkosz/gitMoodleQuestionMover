@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity_gradebook>
+  <grade_items>
+    <grade_item id="27215">
+      <categoryid>3948</categoryid>
+      <itemname>In-class problem: rocket launch (submission)</itemname>
+      <itemtype>mod</itemtype>
+      <itemmodule>workshop</itemmodule>
+      <iteminstance>51</iteminstance>
+      <itemnumber>0</itemnumber>
+      <iteminfo>$@NULL@$</iteminfo>
+      <idnumber>$@NULL@$</idnumber>
+      <calculation>$@NULL@$</calculation>
+      <gradetype>1</gradetype>
+      <grademax>80.00000</grademax>
+      <grademin>0.00000</grademin>
+      <scaleid>$@NULL@$</scaleid>
+      <outcomeid>$@NULL@$</outcomeid>
+      <gradepass>0.00000</gradepass>
+      <multfactor>1.00000</multfactor>
+      <plusfactor>0.00000</plusfactor>
+      <aggregationcoef>0.00000</aggregationcoef>
+      <aggregationcoef2>0.12780</aggregationcoef2>
+      <weightoverride>0</weightoverride>
+      <sortorder>1309</sortorder>
+      <display>0</display>
+      <decimals>$@NULL@$</decimals>
+      <hidden>1</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <needsupdate>0</needsupdate>
+      <timecreated>1622850877</timecreated>
+      <timemodified>1639688434</timemodified>
+      <grade_grades>
+      </grade_grades>
+    </grade_item>
+    <grade_item id="27216">
+      <categoryid>3948</categoryid>
+      <itemname>In-class problem: rocket launch (assessment)</itemname>
+      <itemtype>mod</itemtype>
+      <itemmodule>workshop</itemmodule>
+      <iteminstance>51</iteminstance>
+      <itemnumber>1</itemnumber>
+      <iteminfo>$@NULL@$</iteminfo>
+      <idnumber>$@NULL@$</idnumber>
+      <calculation>$@NULL@$</calculation>
+      <gradetype>1</gradetype>
+      <grademax>20.00000</grademax>
+      <grademin>0.00000</grademin>
+      <scaleid>$@NULL@$</scaleid>
+      <outcomeid>$@NULL@$</outcomeid>
+      <gradepass>0.00000</gradepass>
+      <multfactor>1.00000</multfactor>
+      <plusfactor>0.00000</plusfactor>
+      <aggregationcoef>0.00000</aggregationcoef>
+      <aggregationcoef2>0.03195</aggregationcoef2>
+      <weightoverride>0</weightoverride>
+      <sortorder>1314</sortorder>
+      <display>0</display>
+      <decimals>$@NULL@$</decimals>
+      <hidden>1</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <needsupdate>0</needsupdate>
+      <timecreated>1622850877</timecreated>
+      <timemodified>1639688434</timemodified>
+      <grade_grades>
+      </grade_grades>
+    </grade_item>
+  </grade_items>
+  <grade_letters>
+  </grade_letters>
+</activity_gradebook>

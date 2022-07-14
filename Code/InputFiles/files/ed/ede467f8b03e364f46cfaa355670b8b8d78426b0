@@ -1,0 +1,240 @@
+# Start of question: phase at 0 (increasing) of sinusoidal wave
+:TYPE:MC:1:0:C
+:TITLE:phase at 0 (increasing) of sinusoidal wave
+:FEEDBACK:H
+
+:QUESTION:H
+A sinusoidal wave in 3D is represented by
+
+D(r, t) = A(r) sin[kr - <FONT FACE="symbol">w</FONT>t - <FONT FACE="symbol">f</FONT><sub>0</sub>].
+
+The value of the phase of this expression when D(r,t) = 0 and is increasing is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+0 or 2<FONT FACE="symbol">p</FONT>
+:ANSWER2:0:H
+-1
+:ANSWER3:0:H
+3<FONT FACE="symbol">p</FONT>/2
+:ANSWER4:0:H
+2<FONT FACE="symbol">p</FONT>
+:ANSWER5:0:H
+<FONT FACE="symbol">p</FONT>
+:CAT:2-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: phase at 0 (increasing) of sinusoidal wave
+
+# Start of question: phase difference between 0s
+:TYPE:MC:1:0:C
+:TITLE:phase difference between 0s
+:FEEDBACK:H
+
+:QUESTION:H
+A wave is represented by D(x, t) = Asin(kx - <FONT FACE="symbol">w</FONT>t + <FONT FACE="symbol">f</FONT><sub>0</sub>).  The phase difference between a place where D(x, t) = 0 and is increasing and a place where D(x, t) = 0 and is decreasing is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+<FONT FACE="symbol">p</FONT>
+:ANSWER2:0:H
+<FONT FACE="symbol">p</FONT>/2
+:ANSWER3:0:H
+1
+:ANSWER4:0:H
+half of a wavelength
+:ANSWER5:0:H
+we need more information
+:CAT:2-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: phase difference between 0s
+
+# Start of question: wave near point source in 3D
+:TYPE:MC:1:0:C
+:TITLE:wave near point source in 3D
+:FEEDBACK:H
+
+:QUESTION:H
+A speaker is acting, to a good approximation, as a point source of sound.  Near the speaker the wave fronts of sound from the speaker are
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+spheres
+:ANSWER2:0:H
+planes
+:ANSWER3:0:H
+circles
+:ANSWER4:0:H
+straight lines
+:CAT:2-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: wave near point source in 3D
+
+# Start of question: wave far from source in 3D
+:TYPE:MC:1:0:C
+:TITLE:wave far from source in 3D
+:FEEDBACK:H
+
+:QUESTION:H
+A speaker is acting, to a good approximation, as a point source of sound.  Far from the speaker the wave fronts of sound from the speaker are
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+planes
+:ANSWER2:0:H
+spheres
+:ANSWER3:0:H
+circles
+:ANSWER4:0:H
+straight lines
+:CAT:2-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: wave far from source in 3D
+
+# Start of question: What is intensity?
+:TYPE:MC:1:0:C
+:TITLE:What is intensity?
+:FEEDBACK:H
+
+:QUESTION:H
+Intensity is a measure of
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+power per unit area
+:ANSWER2:0:H
+loudness
+:ANSWER3:0:H
+energy
+:ANSWER4:0:H
+area
+:ANSWER5:0:H
+pressure
+:CAT:2-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: What is intensity?
+
+# Start of question: reducing intensity as you move away from a light
+:TYPE:MC:1:0:C
+:TITLE:reducing intensity as you move away from a light
+:FEEDBACK:H
+
+:QUESTION:H
+You have a light meter and are measuring the output of a lightbulb.  You measure the light intensity at a distance of 1.0 m.  Now you move to 2.0 m from the light and measure the light intensity again.  You should expect that the intensity at 2.0 m should be
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+1/4 of the intensity at 1.0 m
+:ANSWER2:0:H
+1/2 of the intensity at 1.0 m
+:ANSWER3:0:H
+2 times the intensity at 1.0 m
+:ANSWER4:0:H
+4 times the intensity at 1.0 m
+:ANSWER5:0:H
+the same as the intensity at 1.0 m
+:CAT:2-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: reducing intensity as you move away from a light
+
+# Start of question: Intensity level from intensity
+:TYPE:MC:1:0:C
+:TITLE:Intensity level from intensity
+:FEEDBACK:H
+
+:QUESTION:H
+If the sound <b>intensity</b> increases by a factor of 10 then the sound <b>intensity level</b> 
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+increases by 10 dB
+:ANSWER2:0:H
+increases by a factor of 10
+:ANSWER3:0:H
+doubles
+:ANSWER4:0:H
+increases by 1 dB
+:CAT:2-D Waves
+:Used By1:2870827076,3068562600,3183398896
+:Used By3:3183398896,2870827076
+# End of question: Intensity level from intensity
+
+# Start of question: phase at min. of sinusoidal wave
+:TYPE:MC:1:0:C
+:TITLE:phase at min. of sinusoidal wave
+:FEEDBACK:H
+
+:QUESTION:H
+A sinusoidal wave in 3D is represented by
+
+D(r, t) = A(r) sin[kr - <FONT FACE="symbol">w</FONT>t - <FONT FACE="symbol">f</FONT><sub>0</sub>].
+
+The value of the phase of this expression at a minimum (where D(r,t) is at its greatest negative value) is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+3<FONT FACE="symbol">p</FONT>/2
+:ANSWER2:0:H
+-1
+:ANSWER3:0:H
+<FONT FACE="symbol">p</FONT>/2
+:ANSWER4:0:H
+2<FONT FACE="symbol">p</FONT>
+:ANSWER5:0:H
+0
+:CAT:2-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: phase at min. of sinusoidal wave
+
+# Start of question: phase at max. of sinusoidal wave
+:TYPE:MC:1:0:C
+:TITLE:phase at max. of sinusoidal wave
+:FEEDBACK:H
+
+:QUESTION:H
+A sinusoidal wave in 3D is represented by
+
+D(r, t) = A(r) sin[kr - <FONT FACE="symbol">w</FONT>t - <FONT FACE="symbol">f</FONT><sub>0</sub>].
+
+The value of the phase of this expression at a maximum (where D(r,t) is at its greatest positive value) is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+<FONT FACE="symbol">p</FONT>/2
+:ANSWER2:0:H
+-1
+:ANSWER3:0:H
+3<FONT FACE="symbol">p</FONT>/2
+:ANSWER4:0:H
+2<FONT FACE="symbol">p</FONT>
+:ANSWER5:0:H
+0
+:CAT:2-D Waves
+:Used By1:3183398896
+:Used By3:3183398896
+# End of question: phase at max. of sinusoidal wave
+

@@ -1,0 +1,170 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage[hang]{subfigure}
+
+\addtolength{\textwidth}{2.5in}
+\addtolength{\textheight}{1.5in}
+\addtolength{\voffset}{-0.75in}
+\addtolength{\hoffset}{-1.25in}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{PHYS 1204 Assignment \#5 - Capacitance, Currents, Circuits}
+\rhead{Due: Sunday, Mar. 30}
+
+
+
+\begin{document}
+
+\begin{center}
+\Large \textbf{PHYS 1204 Assignment \#5 - Capacitance, Currents, Circuits} \normalsize
+\end{center}
+
+\vspace{12pt}
+
+%\nodate
+%\date{ }
+
+%\maketitle
+
+\large \textbf{Due date: Sunday, Mar. 30}\normalsize
+
+\vspace{12pt}
+
+\small 
+
+\begin{itemize}
+
+\item If you have questions about this assignment you should stop by my office, email me, or join in a discussion on the Moodle message boards.
+
+\item Remember, there are far more marks for procedure than for final answers.  Write your solutions neatly and in a well organized fashion.  Show all work.
+
+\item All work submitted must be your own work.  You are encouraged to work with other students but do not show each other the final work that you intend to submit.  If you collaborate with other students it is a good idea to cite them as sources for your work.
+
+\end{itemize}
+
+\normalsize
+
+\section*{Questions}
+
+\begin{enumerate}
+
+\item Six capacitors, each with a capacitance of $C = 5~\mu$F, are connected as shown in Figure \ref{fig:cap_circuit1}.
+
+\begin{enumerate}
+  \item Draw an equivalent circuit with one capacitor. What is the equivalent capacitance? 
+  \item What is the potential difference between points a and b in Figure \ref{fig:cap_circuit1}?
+\end{enumerate}
+
+
+\item You want to store some electric potential energy. You construct a parallel plate capacitor by placing two electrodes (each with a surface area of 200 cm$^{2}$) a distance of 3 mm apart. A battery is connected to each electrode of your capacitor until a charge of $\pm15$ nC is accumulated and is then disconnected. 
+
+
+\begin{enumerate}
+  \item How much potential energy did you manage to store in your capacitor? 
+  \item You pull the electrodes apart without discharging them so they are now separated by 6 mm. How much potential energy is now stored in your capacitor? 
+  \item How much work did you do to separate the capacitor from its initial configuration to its new configuration in part b)?    
+\end{enumerate}
+
+\item Figure \ref{fig:piston} shows a coiled wire with resistance $R=600~\Omega$ inside a thermally isolated container that is filled with an ideal gas. The container has a frictionless piston of mass $M = 10$ kg as a lid and the coiled wire is connected to an external battery. A current of $i = 300$ mA is running through the coiled wire. 
+
+\begin{enumerate}
+
+\item What emf is being delivered to the coil?
+\item How much thermal energy per second is being supplied to the gas by the coil?
+\item The temperature of an ideal gas is inversely proportional to its volume. What direction would the piston have to move to cool the gas? 
+\item With what constant speed would you have to move the piston to keep the gas at constant temperature? 
+
+\end{enumerate}
+
+\item The density of protons from the Solar wind near the Earth's surface is about 9 cm$^{-3}$. The protons have a typical speed of about 500 km s$^{-1}$.
+
+\begin{enumerate}
+\item What is the current density of these protons? 
+\item Most of the protons from the Solar wind are deflected by the Earth's magnetic field. What current would the Earth receive if we could shut off its magnetic field? 
+\end{enumerate}
+
+\item Two identical batteries, A and B, each have an emf of 1.5 V.  The positive terminal of battery A is connected via a 10 cm long piece of copper wire, 0.50 mm in diameter, to one plate of a capacitor.  The negative terminal is connected by an identical wire to the other plate of the capacitor.  The capacitor has plates of surface area 20 cm$^2$ separated by 0.10 mm.  The positive terminal of battery B is connected directly to the negative terminal of battery B via a copper wire, with 0.50 mm diameter and a length of 15 m.
+
+\begin{enumerate}
+
+\item Battery A has been connected to the capacitor for long enough that the capacitor is fully charged.  Find the electric field strengths at each of
+
+\begin{enumerate}
+
+\item a point inside the wire, halfway between the positive terminal of battery A and the capacitor
+
+\item a point inside the capacitor
+
+\item a point inside the wire, halfway between the positive and negative terminals of battery B
+
+\end{enumerate}
+
+\item Find the currents in each wire.
+
+\item A common belief is that batteries produce current.  Based on the situation in this question, comment on this belief.
+
+\end{enumerate}
+
+\item Chapter 31, Problem 74.
+
+\item Using Kirchhoff's Laws directly always works but reducing the circuit to equivalent resistances is sometimes impossible.  The circuit shown in Figure~\ref{fig:cant_reduce} is an example of a circuit which can't be reduced using equivalent resistances from the rules you have learned. 
+
+\begin{enumerate}
+
+\item Explain why you can't use the methods you know to reduce this circuit to a single battery in series with a single resistor.
+
+\item Redraw the circuit and use your diagram to define the currents through the resistors, $I_1$, $I_2$ and $I_3$, and the currents through the batteries $I_A$, $I_B$, $I_C$ that you are going to use to represent the unknown currents.
+
+\item How many equations will you need to be able to solve for all of the currents?  
+
+\item Use Kirchhoff's Laws to write a number of equations that could be used to solve for the unknown currents. Solve for the unknown currents. 
+
+\item Find the powers in each of the batteries and resistors.  For the powers in each battery, what transformation of energy is taking place?  For the powers  in each resistor what transformation of energy is taking place?
+
+\end{enumerate}
+
+
+
+\end{enumerate}
+
+
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.4\textwidth]{cap_circuit1}
+\caption{\label{fig:cap_circuit1}Capacitor circuit.}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.4\textwidth]{piston}
+\caption{\label{fig:piston}Circuit and piston.}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.4\textwidth]{cant_reduce}
+\caption{\label{fig:cant_reduce}Circuit with resistors.}
+\end{figure}
+
+
+%\begin{figure}[!h] 
+% \begin{minipage}{0.5\linewidth} 
+ % \centering 
+ % \includegraphics[width=0.75\textwidth]{snap_shot1} 
+  % \caption{\label{fig:snap_shot1}}
+ %\end{minipage}% 
+ %\begin{minipage}{0.5\linewidth} 
+  %\centering 
+  %\includegraphics[width=0.75\textwidth]{history_1} 
+  %\caption{\label{fig:history_1}}
+ %\end{minipage} 
+%\end{figure}
+
+
+
+\end{document}
+
+

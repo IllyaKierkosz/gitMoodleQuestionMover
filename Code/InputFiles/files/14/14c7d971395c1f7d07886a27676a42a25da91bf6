@@ -1,0 +1,224 @@
+# Start of question: behaviour of colliding waves
+:TYPE:MC:1:0:C
+:TITLE:behaviour of colliding waves
+:FEEDBACK:H
+
+:QUESTION:H
+What happens to two waves as they run into each other?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+They pass through each other with the displacement of the medium being the sum of the displacements due to the individual waves.
+:ANSWER2:0:H
+They bounce off of each other.
+:ANSWER3:0:H
+They bounce off of each other and during the collision the displacement of the medium is the sum of the displacements due to the individual waves.
+:ANSWER4:0:H
+They pass through each other and the displacement of the medium is the displacement due to the larger wave.
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: behaviour of colliding waves
+
+# Start of question: interference from two speakers (in line)
+:TYPE:MC:1:0:C
+:TITLE:interference from two speakers (in line)
+:FEEDBACK:H
+
+:QUESTION:H
+Two speakers, which are good approximations of point sources, are on the x-axis.  They are playing the same steady tone, in phase with each other.  The speakers are separated by exactly half of a wavelength.  If you walk away from them along the x-axis what will you hear?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+you won't hear the speakers at all because of destructive interference.
+:ANSWER2:0:H
+the sound from the speakers modulate between high pitch and low pitch as you move along the x-axis.
+:ANSWER3:0:H
+there will be as steady sound that is twice as loud as the sound from one speaker.
+:ANSWER4:0:H
+the sound from the speakers alternate between loud and silent as you move along the x-axis.
+:CAT:interference in 1-D
+:Used By1:3183399116
+:Used By3:3183399116
+# End of question: interference from two speakers (in line)
+
+# Start of question: diagram of wave interference [2]
+:TYPE:MC:1:0:C
+:TITLE:diagram of wave interference [2]
+:FEEDBACK:H
+
+:QUESTION:H
+Below is pictured two waves approaching each other on a string.  Which of A, B, C or D represents the shape of the string as the waves pass through each other (while their centers are coinciding)?
+:IMAGE:figs_for_quizzes/1-D interference/wave_interference_pic2.gif
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:100:H
+A
+:ANSWER2:0:H
+B
+:ANSWER3:0:H
+C
+:ANSWER4:0:H
+D
+:ANSWER5:0:H
+none of the above
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: diagram of wave interference [2]
+
+# Start of question: Production of standing waves
+:TYPE:MC:1:0:C
+:TITLE:Production of standing waves
+:FEEDBACK:H
+
+:QUESTION:H
+Water waves with <FONT FACE="symbol">l</FONT> = 1.0 m, frequency 1.0 s<sup>-1</sup>, and amplitude, A = 20 cm traveling to the east run into waves with the same wavelength, frequency and amplitude moving to the west.  The result is
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+standing waves of amplitude 40 cm with nodes separated by 0.5 m.
+:ANSWER2:0:H
+standing waves of amplitude 40 cm with nodes separated by 1.0 m.
+:ANSWER3:0:H
+standing waves of amplitude 20 cm with nodes separated by 0.5 m.
+:ANSWER4:0:H
+a big confused mess as the waves interfere constructively in some places and destructively in other places.
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: Production of standing waves
+
+# Start of question: wavelengths of standing waves on a string
+:TYPE:MC:1:0:C
+:TITLE:wavelengths of standing waves on a string
+:FEEDBACK:H
+
+:QUESTION:H
+A string of length, L, is fixed (tied down) at both ends.  Possible lengths of standing waves on this string are\:
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+2L, L, 2L/3, L/4, 2L/5, ...
+:ANSWER2:0:H
+all wavelengths shorter than L
+:ANSWER3:0:H
+all wavelengths shorter than 2L
+:ANSWER4:0:H
+L, L/2, L/4, L/8, L/16, ...
+:ANSWER5:0:H
+L, L/2, L/3, L/4, L/5, ...
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: wavelengths of standing waves on a string
+
+# Start of question: wavelengths of standing waves in a flute
+:TYPE:MC:1:0:C
+:TITLE:wavelengths of standing waves in a flute
+:FEEDBACK:H
+
+:QUESTION:H
+A flute is essentially a tube that is open at both ends (an "open-open" tube).  The possible wavelengths of standing waves in a flute of length, L, are\:
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+2L, L, 2L/3, L/4, 2L/5, ...
+:ANSWER2:0:H
+all wavelengths shorter than L
+:ANSWER3:0:H
+all wavelengths shorter than 2L
+:ANSWER4:0:H
+L, L/2, L/4, L/8, L/16, ...
+:ANSWER5:0:H
+L, L/2, L/3, L/4, L/5, ...
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: wavelengths of standing waves in a flute
+
+# Start of question: harmonics on a violin
+:TYPE:MC:1:0:C
+:TITLE:harmonics on a violin
+:FEEDBACK:H
+
+:QUESTION:H
+When the A string of a violin is played it produces a note at 440 Hz.  If you touch the middle of the string you force there to be a node there.  This changes the frequency of vibration of the string to
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+880 Hz
+:ANSWER2:0:H
+220 Hz
+:ANSWER3:0:H
+The frequency does not change, only the wavelength.
+:ANSWER4:0:H
+110 Hz
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: harmonics on a violin
+
+# Start of question: frequencies of harmonics of rope
+:TYPE:MC:1:0:C
+:TITLE:frequencies of harmonics of rope
+:FEEDBACK:H
+
+:QUESTION:H
+As you excite a rope to higher and higher harmonics the wavelengths of the standing waves on the rope become shorter and shorter.  What happens to the frequency of vibration?
+:IMAGE:
+:LAYOUT:vertical
+:ANSWERORDER:randomized
+:INDICES:letters
+:ANSWER1:100:H
+The frequencies become higher as you exite higher harmonics.
+:ANSWER2:0:H
+The frequencies become lower as you exite higher harmonics.
+:ANSWER3:0:H
+The frequencies of all the harmonics are the same.
+:ANSWER4:0:H
+It depends on how you excite the harmonics.
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: frequencies of harmonics of rope
+
+# Start of question: diagram of wave interference
+:TYPE:MC:1:0:C
+:TITLE:diagram of wave interference
+:FEEDBACK:H
+
+:QUESTION:H
+Below is pictured two waves approaching each other on a string.  Which of A, B, C or D represents the shape of the string as the waves pass through each other (while their centers are coinciding)?
+:IMAGE:figures_for_quizzes/1-D interference/wave_interference_pic.GIF
+:LAYOUT:vertical
+:ANSWERORDER:aslisted
+:INDICES:letters
+:ANSWER1:0:H
+A
+:ANSWER2:100:H
+B
+:ANSWER3:0:H
+C
+:ANSWER4:0:H
+D
+:ANSWER5:0:H
+none of the above
+:CAT:interference in 1-D
+:Used By1:2870834344,3073873980,3183399116
+:Used By3:3183399116,2870834344
+# End of question: diagram of wave interference
+

@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="521" moduleid="133746" modulename="lesson" contextid="204146">
+  <lesson id="521">
+    <course>3128</course>
+    <name>Lesson 4: Momentum</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>7</maxanswers>
+    <maxattempts>3</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>5</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>133747</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>1640177100</deadline>
+    <timemodified>1632789911</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="8107">
+        <prevpageid>0</prevpageid>
+        <nextpageid>8108</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1595456388</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reflect before you start</title>
+        <contents>&lt;p&gt;This lesson is called Momentum.  It will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the "natural state" of motion for any object?&lt;/li&gt;
+&lt;li&gt;Inertia, momentum, and impulse.&lt;/li&gt;
+&lt;li&gt;Physical systems&lt;/li&gt;
+&lt;li&gt;The Law of Conservation of Momentum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before you start to look at any complicated content, whether it is a textbook, a set of video lectures, a web page, whatever, it is a good idea to prepare to learn by doing a bit of reflection.  To develop the habit it is good to write some reflections.  In the space below write three things (sentences, point form, whatever you want) about what you are about to learn.  Here are some things you might write about below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List things that you think you might learn about in the lesson (in more detail than was given in the list above).&lt;/li&gt;
+&lt;li&gt;List things that you already know about the topics of this lesson.&lt;/li&gt;
+&lt;li&gt;List things that you have heard about these topics, but don't understand.&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18678">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1595456388</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8108">
+        <prevpageid>8107</prevpageid>
+        <nextpageid>8146</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542241</timecreated>
+        <timemodified>1569034228</timemodified>
+        <title>Main page - choose lesson part</title>
+        <contents>&lt;p&gt;You do not have to finish the lesson all in one sitting.  You may reattempt it if you are not satisfied with how you did.  Here is a "map" of the lesson.  This is partly because moodle has a tendency (which I haven't figured out) to skip the Reflective Writing parts of these lessons.  This map will help you see if you have missed any and find your way to where they should be.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/lesson_map_momentum.png" width="1306" height="1050" alt="Lesson Map" /&gt;&lt;/p&gt;
+&lt;p&gt;Choose one of the following lesson parts.  When you have finished that part of the lesson you will be brought back to this page.  When you have finished all parts of the lesson click the "OK, I'm done" button to end the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18581">
+            <jumpto>8146</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-1: What Do "Things" Do When Left to Their Own Devices?</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18582">
+            <jumpto>8113</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-2: Inertia</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18583">
+            <jumpto>8117</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-3: Systems</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18584">
+            <jumpto>8118</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-4: Momentum (Finally!)</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18585">
+            <jumpto>8122</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Lecture 4-5: Conservation of Momentum</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18598">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18651">
+            <jumpto>8131</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>All Reflective Writing Pages: This is a fail safe in case the lesson navigation fails and you can't view on of the Reflective Writing pages.  Normally there should be no need to click this.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8146">
+        <prevpageid>8108</prevpageid>
+        <nextpageid>8109</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462904747</timecreated>
+        <timemodified>1499616534</timemodified>
+        <title>Online Lecture 4-1: What Do "Things" Do When Left to Their Own Devices</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=_fZ46cAEt1c&amp;amp;index=1&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18578">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462904747</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8110">
+        <prevpageid>8109</prevpageid>
+        <nextpageid>8111</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499623644</timecreated>
+        <timemodified>1499625890</timemodified>
+        <title>Which is our model of "what things do"?</title>
+        <contents>&lt;p&gt;You give a book on a frozen pond a hard push and then let go.  It keeps moving after you have pushed it for quite a long time and eventually stops quite far away from you.  We are interested in its motion after you pushed it (i.e. &lt;strong&gt;when you are not touching the book&lt;/strong&gt;).  Which of the following is an explanation for its motion after you pushed it which is the most consistent with the model put forward in the video you just watched?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18630">
+            <jumpto>8112</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499623644</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book keeps going because it is not interacting strongly with any other object.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18631">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499623644</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book keeps going because there is still a force acting on it due to the push you gave it.</answer_text>
+            <response>No.  You should rewatch the video because you have missed the main point.  Can you push on something when you are not touching it?  If you are a Jedi knight perhaps you can, but otherwise I hope you agree that you cannot.  So how could there be a force (a push...) acting on the book after you are no longer touching the book?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18632">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499623644</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book keeps moving because it takes a long time for its inertia to run out.</answer_text>
+            <response>No.  Note that I never once mentioned the word "inertia" in the lecture you just watched.  (However, lecture 2 is all about inertia...).  So it would not be reasonable for me to ask you a question about inertia yet.  In any case, as you'll find out in the next lecture, inertia can't "run out".  It is an inherent property of an object.  You should rewatch the video - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18633">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499623644</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book keeps moving because the force of its motion is stronger than the friction.</answer_text>
+            <response>No.  I never mentioned the word "force" even once during the lecture you just watched.  So it would be unfair of me to ask a question where the answer had something to do with a force.  In any case, as you'll find out later in the course, there is no such thing as a "force of the motion".  Forces are exerted by physical objects.  They don't just "exist" because of something moving.  You should watch the video again - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8111">
+        <prevpageid>8110</prevpageid>
+        <nextpageid>8112</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499624404</timecreated>
+        <timemodified>0</timemodified>
+        <title>Why does it stop?</title>
+        <contents>&lt;p&gt;You give a book on a frozen pond a hard push and it moves away from you.  It keeps moving for quite along time after you have pushed it and eventually stops a long distance from you.  For clarity, we are interested in the motion of the book after you have pushed it (i.e. &lt;strong&gt;when you are not touching the book&lt;/strong&gt;).  Which of the following explanations for why the book eventually stops is the most consistent with the model proposed in the video that you just watched?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18634">
+            <jumpto>8112</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499624404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book stops because of interactions with the pond (specifically friction).  It takes so long to stop because this is a weak interaction.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18635">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499624404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book stops because eventually the push that you gave it runs out.  With no push to keep it going the book stops.</answer_text>
+            <response>No.  The push that you gave the book ends at the moment your hand stopped touching the book.  There is no push by you after the book leaves your hand.  The book does not need a push to keep it going.  You should watch the video again - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18636">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499624404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book stops because friction is stronger than the push that you gave the book.</answer_text>
+            <response>No.  This answer is incorrect for a large number of reasons.  As we will see later in the course, *while you were touching the book* the push you were giving it must have been stronger than the friction.  But *after you let go* there is no push due to your hand any more.  No push due to your hand is needed to keep the book moving.  You should watch the video again - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18637">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499624404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book stops because the push you gave it gets weaker and weaker.  Eventually it is weaker than friction and the book stops.</answer_text>
+            <response>No.  After it leaves your hand (the time we are interested in) there is *no push* due to you.  You cannot push on something if you are not touching it (unless you are a Jedi Knight...).  No push is needed to keep the book moving.  You should watch the video again - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18638">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499624404</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The book stops because all moving objects eventually stop.</answer_text>
+            <response>No.  That's what Aristotle (and most people in Europe and the Asia for 1500 years) thought.  But it is inconsistent with experiment.  You should watch the video again - you have missed the main point.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8112">
+        <prevpageid>8111</prevpageid>
+        <nextpageid>8113</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462905142</timecreated>
+        <timemodified>1499615932</timemodified>
+        <title>End of cluster 4-1</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18579">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462905142</timecreated>
+            <timemodified>1499615932</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8113">
+        <prevpageid>8112</prevpageid>
+        <nextpageid>8114</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542593</timecreated>
+        <timemodified>1499616195</timemodified>
+        <title>Online Lecture 4-2: Inertia</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=K_bW2BEEe2s&amp;amp;index=2&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18586">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8114">
+        <prevpageid>8113</prevpageid>
+        <nextpageid>8115</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499622774</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18628">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622774</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8115">
+        <prevpageid>8114</prevpageid>
+        <nextpageid>8134</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499625539</timecreated>
+        <timemodified>1499625852</timemodified>
+        <title>What is inertia ratio? - 1</title>
+        <contents>&lt;p&gt;The figure shows the v&lt;sub&gt;x&lt;/sub&gt; vs. t graph for two carts which are colliding with each other.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vx_vs_t_cart_collision_with_Deltav_numbers1.png" width="461" height="409" alt="vx vs t graph cart collision" /&gt;&lt;/p&gt;
+&lt;p&gt;What can we say about the inertias of these two carts?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18639">
+            <jumpto>8135</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499625539</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = 4$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18640">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625539</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = \frac{1}{4}$$</answer_text>
+            <response>Almost, but you need to pay closer attention to which cart has the higher inertia.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18641">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625539</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = 3$$</answer_text>
+            <response>No.  I suspect you are looking at the final velocities.  But you should be looking at the change in velocities. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18642">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625539</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = \frac{1}{3}$$</answer_text>
+            <response>No.  I suspect you are looking at the final velocities.  But you should be looking at the change in velocities.  Also think about which cart must have the larger inertia according to the graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18643">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625539</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We have not been told the inertia of either cart.  The vx vs. t graph is not enough information to determine anything about the inertias.</answer_text>
+            <response>We may not know the inertias of the carts.  But the graph certainly tells us what the ratio of their inertias is.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8134">
+        <prevpageid>8115</prevpageid>
+        <nextpageid>8135</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499625843</timecreated>
+        <timemodified>0</timemodified>
+        <title>What is inertia ratio? - 2</title>
+        <contents>&lt;p&gt;The figure shows the v&lt;span&gt;x&lt;/span&gt; vs. t graph for two carts which are colliding with each other.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/vx_vs_t_cart_collision_with_Deltav_numbers2.png" width="461" height="443" alt="vx vs t graph cart collision" /&gt;&lt;/p&gt;
+&lt;p&gt;What can we say about the inertias of these two carts?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18644">
+            <jumpto>8135</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499625843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = \frac{5}{7}$$</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18645">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = \frac{7}{5}$$</answer_text>
+            <response>Almost, but you need to pay closer attention to which cart has the higher inertia.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18646">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = 3$$</answer_text>
+            <response>No.  I suspect you are looking at the final velocities.  But you should be looking at the change in velocities. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18647">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$$\frac{m_A}{m_B} = \frac{1}{3}$$</answer_text>
+            <response>No.  I suspect you are looking at the final velocities.  But you should be looking at the change in velocities.  Also think about which cart must have the larger inertia according to the graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18648">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499625843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>We have not been told the inertia of either cart.  The vx vs. t graph is not enough information to determine anything about the inertias.</answer_text>
+            <response>We may not know the inertias of the carts.  But the graph certainly tells us what the ratio of their inertias is.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8117">
+        <prevpageid>8116</prevpageid>
+        <nextpageid>8132</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466542894</timecreated>
+        <timemodified>1568591128</timemodified>
+        <title>Online Lecture 4-3: Systems (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=qsh855Vm1Vg&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=8&amp;amp;t=8s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18587">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466542894</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8132">
+        <prevpageid>8117</prevpageid>
+        <nextpageid>8136</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1568591592</timecreated>
+        <timemodified>0</timemodified>
+        <title>What is the system? (swimming scallop)</title>
+        <contents>&lt;p&gt;Scallops swim by sucking water in at the front and then quickly shooting the water out of the back of their shell.  The diagram below shows three times during the motion of a scallop.  The system is defined in the diagram.  Which of the following is the best description of my choice of system.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/scallop_swimming.png" width="443" height="481" alt="scallop swimming - system definition" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18654">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1568591592</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The system is just the scallop.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18655">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568591592</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The system is the scallop and the water that they suck in.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;The diagram does not show the water being sucked in as part of the system.  The water is outside the dotted line that is showing the system boundary.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18656">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568591592</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The system is the region including the scallop.  The water enters the system, and then exits the system.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  We are never allowing matter to enter or leave our systems.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18657">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568591592</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The system is the scallop and a constantly changing amount of water.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  We are never allowing matter to enter or leave our systems.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8120">
+        <prevpageid>8118</prevpageid>
+        <nextpageid>8121</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499615897</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18593">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499615897</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8123">
+        <prevpageid>8119</prevpageid>
+        <nextpageid>8129</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1568690758</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 4-5: Conservation of Momentum (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=HSCZkMm9tJU&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=12&amp;amp;t=0s"&gt;video lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18663">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568690758</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8121">
+        <prevpageid>8120</prevpageid>
+        <nextpageid>8127</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499618768</timecreated>
+        <timemodified>0</timemodified>
+        <title>which has more momentum - 1</title>
+        <contents>&lt;p&gt;A 1.0 kg aluminum ball is moving to the right at 2.0 m/s. A 3.0 kg brass ball is moving to the right at 1.0 m/s. Assuming the x-axis points to the right, which ball has a greater x-component of momentum?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18609">
+            <jumpto>8128</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499618768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 3.0 kg brass ball.</answer_text>
+            <response>Yes, the aluminum ball has a momentum of 2 kg m/s and the brass one has a momentum of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18610">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The 1.0 kg aluminum ball.</answer_text>
+            <response>No.  The aluminum ball has a momentum component of 2 kg m/s and the brass one has a momentum component of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18611">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have equal momentum components.</answer_text>
+            <response>No.  The x-component of momentum  is just mv_x.  So the aluminum ball has a momentum component of 2 kg m/s and the brass one has a momentum component of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18612">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Not enough information.</answer_text>
+            <response>No.  We certainly have enough information.  No.  The x-component of momentum  is just mv_x.  So the aluminum ball has a momentum component of 2 kg m/s and the brass one has a momentum component of 3 kg m/s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8127">
+        <prevpageid>8121</prevpageid>
+        <nextpageid>8128</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499619376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Comparing truck with train car.</title>
+        <contents>&lt;p&gt;A 2000 kg truck is moving to the right at 10 m/s.  A 20 000 kg boxcar is moving to the right at 1 m/s.  Which of the following statements about the momentum and inertia of these two objects is true?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18613">
+            <jumpto>8128</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499619376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have the same momentum, but the boxcar has a larger inertia.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18614">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499619376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have the same momentum and the same inertia.</answer_text>
+            <response>No.  The truck's inertia is 2000 kg and the boxcar's is 20 000 kg.  Clearly they are not the same.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18615">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499619376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They have the same inertia but the truck has a larger momentum.</answer_text>
+            <response>No.  Their inertias are different (one is 2000 kg and the other is 20 000 kg).  We find their (magnitudes of) momenta just by multiplying their inertias by their speeds.  This gives 2 X 10^4 kg m/s for both objects.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18616">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499619376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The boxcar has a larger inertia and a larger momentum than the truck.</answer_text>
+            <response>No.  The boxcar has a larger inertia (20000 kg compared with 2000 kg).  But these two objects have the same momentum.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18617">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499619376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The boxcar has a larger inertia but a smaller momentum than the truck.</answer_text>
+            <response>No.  The boxcar has a larger inertia (20000 kg compared with 2000 kg).  But these two objects have the same momentum.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8119">
+        <prevpageid>8122</prevpageid>
+        <nextpageid>8123</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1568691998</timecreated>
+        <timemodified>0</timemodified>
+        <title>Is the scallop isolated?</title>
+        <contents>&lt;p&gt;A swimming scallop sucks in some water.  It then quickly closes its shell and squirts the water out of the back of the scallop.  This causes the scallop to speed up.  If the system is defined as just the scallop, is the system isolated?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/scallop_swimming.png" width="443" height="481" alt="a scallop swimming" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18666">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1568691998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;No, because its momentum changes.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  A system's momentum changes because of external interactions, and if the system (the scallop) is interacting with objects outside the system, then by definition it is not isolated.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18667">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Yes, because it doesn’t collide with anything.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;I totally disagree.  Recall that a collision is any interaction between objects which occurs in a limited amount of time.  The scallop and the water both accelerate, so they interact (remember that our current definition of interaction is that it causes acceleration).  They interact for a brief time.  So this may not be what you are used to thinking of as a collision, but it is what we call a collision in physics.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18668">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;No, because water enters the system and then leaves it.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  My system is the scallop, full stop.  The water is not in the system.  In this course we are never allowing objects to enter or leave our systems.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18669">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;No, because the system’s kinetic energy changes.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Well, you should be suspicious when I offer you a question answer that uses an idea we haven't seen yet in the course.  We haven't studied energy yet.  For us, the word "isolated" has nothing to do with energy.  As I'll discuss in the unit on energy (coming up...) I will point out that people are very inconsistent in their use of the term isolated.  However, I've been very clear about what *I* mean by "isolated", and it has nothing to do with energy.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8129">
+        <prevpageid>8123</prevpageid>
+        <nextpageid>8144</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1568692586</timecreated>
+        <timemodified>0</timemodified>
+        <title>Is the car collision isolated?</title>
+        <contents>&lt;p&gt;According to the data presented in the graph below, is the system consisting of the two cars isolated (at least approximately)?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/p_vs_t_car_collision.png" width="603" height="340" alt="momentum vs. time for car collision" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18670">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1568692586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;Yes.  The total momentum is approximately constant.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18671">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568692586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;No.  The momentums of both cars changed.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;But we are not interested in the momentum of each car individually.  If that was what determined whether the system was isolated then *no* system would be isolated (unless the objects in it were not interacting with each other, which is a pretty boring situation).  That wouldn't be a useful definition.  A system is isolated if it does not interact with external objects.  We have seen that whenever this is true there is something else that must also be true...&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18672">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568692586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;No.  The cars seem to be sticking together, not bouncing apart.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;This has nothing to do with whether the system is isolated or not.  We have seen for cart collisions that collisions between the "velcro ends" of the carts can still be isolated.  Review what the definition of isolated is.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18673">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568692586</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;We can’t tell from the data.  We need to know whether there are external interactions.&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;We most certainly can tell from the data.  In general in the sciences, data is the only way we really know anything.  It is true that we want to know whether there are external interactions, because that is how we define "isolated".  But we have seen that something (about the data...) is always true if a system is isolated.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8125">
+        <prevpageid>8124</prevpageid>
+        <nextpageid>8126</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1501105595</timecreated>
+        <timemodified>1569034117</timemodified>
+        <title>Online Lecture 4-5A: Analysis of Cart Collision Data</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=lzfxZwrUZKY&amp;amp;index=6&amp;amp;list=PLqogu67XpeieCiG2bEuKhtlKdCeoBXRi0"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This optional lecture includes material relevant to the Energy unit and to the Principle of Relativity unit.  So if you have only done the Momentum unit the last half of this video may not be very meaningful to you yet.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18649">
+            <jumpto>8142</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501105595</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18676">
+            <jumpto>8126</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501105595</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>If you want to go to the other supplemental video (Example problems) then click here</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8126">
+        <prevpageid>8125</prevpageid>
+        <nextpageid>8131</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1569034026</timecreated>
+        <timemodified>1569034093</timemodified>
+        <title>Online Lecture 4-5B: Examples of Collision Problems</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=XZqWnq93OZg&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=12&amp;amp;t=0s"&gt;video lecture:&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18674">
+            <jumpto>8142</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1569034026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18675">
+            <jumpto>8125</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1569034026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>If you want to go to the other supplemental video (Analysis of cart collisions) click here.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8131">
+        <prevpageid>8126</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1530198601</timecreated>
+        <timemodified>1642271882</timemodified>
+        <title>All reflections</title>
+        <contents>&lt;p&gt;This is only here so that if the Lesson navigation failed and you couldn't access one of the Reflective Writing pages you can view their content here.  Most of the time there should be no need for you to visit this page.&lt;/p&gt;
+&lt;p&gt;----------First Half-----------&lt;/p&gt;
+&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 4 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. In your own words, explain what properties of an object determine its inertia.  To be clear, I'm &lt;strong&gt;not&lt;/strong&gt; asking how we &lt;strong&gt;measure&lt;/strong&gt; inertia.  I am asking what properties of an object you might change in order to change the object's inertia.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;
+&lt;p&gt;------------End of Lesson-----------&lt;/p&gt;
+&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. In your own words, explain what it means for a quantity to be extensive.  Give an example of a property of a bag of cookies that is an extensive property.  Give an example of a property of a bag of cookies that is not extensive.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18650">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1530198601</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8128">
+        <prevpageid>8127</prevpageid>
+        <nextpageid>8122</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499615905</timecreated>
+        <timemodified>1499615967</timemodified>
+        <title>End of cluster 4-4</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18594">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499615905</timecreated>
+            <timemodified>1499615967</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8122">
+        <prevpageid>8128</prevpageid>
+        <nextpageid>8119</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499616089</timecreated>
+        <timemodified>1568691272</timemodified>
+        <title>Online Lecture 4-5: Conservation of Momentum (Part 1)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=kHJ9BLHQnJs&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=9&amp;amp;t=2s"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18595">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499616089</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8144">
+        <prevpageid>8129</prevpageid>
+        <nextpageid>8142</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1568691526</timecreated>
+        <timemodified>1569034156</timemodified>
+        <title>Online Lecture 4-5: Conservation of Momentum (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=TTcmOLiyCzg&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=11&amp;amp;t=0s"&gt;video lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18664">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691526</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18665">
+            <jumpto>8125</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691526</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Supplementary video about analyzing data in the lab to determine whether a collision is isolated</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18677">
+            <jumpto>8126</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568691526</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Supplementary video with sample collision problems</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8124">
+        <prevpageid>8130</prevpageid>
+        <nextpageid>8125</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628861</timecreated>
+        <timemodified>1599783592</timemodified>
+        <title>Reflect on what you have learned (final summary)</title>
+        <contents>&lt;p&gt;You should already have a sheet of paper that you wrote some things on after the first half of the lesson.&lt;/p&gt;
+&lt;p&gt;Under what you wrote for the first half of the lesson write a heading saying "End of Lectures".  &lt;/p&gt;
+&lt;p&gt;Under that answer these questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Something you have seen before: Identify something from any of the videos on this unit that you have seen before.  If it was presented differently from how you have seen it previously then briefly describe the difference.  It is not acceptable to say that nothing in the videos was something you have seen before.  All knowledge is built on earlier knowledge and there must be something in these videos that was at least somewhat familiar.&lt;/p&gt;
+&lt;p&gt;3. In your own words, explain what it means for a quantity to be extensive.  Give an example of a property of a bag of cookies that is an extensive property.  Give an example of a property of a bag of cookies that is not extensive.&lt;/p&gt;
+&lt;p&gt;You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18592">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628861</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8136">
+        <prevpageid>8132</prevpageid>
+        <nextpageid>8137</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1568591270</timecreated>
+        <timemodified>0</timemodified>
+        <title>Online Lecture 4-3: Systems (Part 2)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=9SLN7P5Qr2w&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=9&amp;amp;t=2s"&gt;video lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18652">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568591270</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8118">
+        <prevpageid>8133</prevpageid>
+        <nextpageid>8120</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543065</timecreated>
+        <timemodified>1499616315</timemodified>
+        <title>Online Lecture 4-4: Momentum (Finally!)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=5K7vVP9xN3Y&amp;amp;index=4&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy"&gt;online lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18588">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8135">
+        <prevpageid>8134</prevpageid>
+        <nextpageid>8116</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499622782</timecreated>
+        <timemodified>1499622821</timemodified>
+        <title>End of cluster 4-2</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18629">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622782</timecreated>
+            <timemodified>1499622821</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8116">
+        <prevpageid>8135</prevpageid>
+        <nextpageid>8117</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466628462</timecreated>
+        <timemodified>1642271871</timemodified>
+        <title>Reflect on what you have learned</title>
+        <contents>&lt;p&gt;Take out a piece of paper.  Write "PHYS 1104 - Response to Unit 4 Video Lectures" across the top of the paper.  &lt;strong&gt;Don't put your name on it&lt;/strong&gt;; I would rather mark "blind".  Write a big heading saying "First Half".  &lt;/p&gt;
+&lt;p&gt;Under that heading answer the following questions:&lt;/p&gt;
+&lt;p&gt;1. Point of confusion: Identify something that confused you during the lecture.  If you are still confused by it then try to explain, in reasonable detail, exactly why you are confused.  If you are no longer confused then explain how you resolved your confusion (i.e. what realizations led you to no longer being confused).  Be as specific as you can about the nature of your confusion.  It is not acceptable to simply say that you were not confused by anything.  If you think you were not confused by anything then you are not thinking about the material carefully enough.&lt;/p&gt;
+&lt;p&gt;2. Question beyond the lecture: Ask a question that goes beyond what was covered in the lectures.  This could be a question about a topic that you think might be related to the lectures, or something that you suspect might be a more advanced topic that the material in these lectures might eventually lead to.  Or it might be something that I mentioned briefly, but didn't go into detail on.  Make your question as specific as you can.&lt;/p&gt;
+&lt;p&gt;3. In your own words, explain what properties of an object determine its inertia.  To be clear, I'm &lt;strong&gt;not&lt;/strong&gt; asking how we &lt;strong&gt;measure&lt;/strong&gt; inertia.  I am asking what properties of an object you might change in order to change the object's inertia.&lt;/p&gt;
+&lt;p&gt;You will add more to this sheet after one of the other lectures in this unit.  You will take a picture of your written response to the lesson with your phone and submit it to moodle after you have finished the lesson.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18591">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466628462</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>OK, I'm done writing.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8137">
+        <prevpageid>8136</prevpageid>
+        <nextpageid>8140</nextpageid>
+        <qtype>3</qtype>
+        <qoption>1</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1568592192</timecreated>
+        <timemodified>1568592217</timemodified>
+        <title>Which are extensive?</title>
+        <contents>&lt;p&gt;Consider a system of two houses containing cats.  Which of the following quantities are extensive?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/system_two_houses_with_cats.png" width="551" height="377" alt="system - two houses with cats" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18658">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568592192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The floor area of the houses&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes, the floor area is extensive.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18659">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568592192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The inertia of cats in the houses&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes, the inertia of the cats is extensive.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18660">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568592192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The amount (weight) of food eaten by cats in the houses&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;Yes.  The weight of food eaten would be proportional to system size.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18661">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568592192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The “cat density” (cats/m&lt;sup&gt;2&lt;/sup&gt;) in the houses&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  The cat density for the system would be the total number of cats divided by the total floor area.  Both the number of cats and the floor area are extensive (proportional to system size), but that means that when we divide one by the other we get a cancellation of the proportionality.  So the cat density is not proportional to system size.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18662">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568592192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p&gt;The temperatures of the houses&lt;/p&gt;</answer_text>
+            <response>&lt;p&gt;No.  If one house is 21° C and the other is also 21° C does it make sense that the temperature of the system would be the sum of those (42° C)?&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8140">
+        <prevpageid>8137</prevpageid>
+        <nextpageid>8138</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1568591339</timecreated>
+        <timemodified>1568917151</timemodified>
+        <title>Online Lecture 4-3: Systems (Part 3)</title>
+        <contents>&lt;p&gt;Watch this &lt;a href="https://www.youtube.com/watch?v=GmIQRNaFY_w&amp;amp;list=PLqogu67XpeifMgjfQlO084zfc5LG6BXdy&amp;amp;index=10&amp;amp;t=0s"&gt;video lecture.&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18653">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1568591339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Click this button when you have finished watching the lecture.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8141">
+        <prevpageid>8138</prevpageid>
+        <nextpageid>8139</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499617657</timecreated>
+        <timemodified>1499618474</timemodified>
+        <title>Which are extensive?</title>
+        <contents>&lt;p&gt;A box of gas has some temperature, pressure, volume, inertia (which you might prefer calling mass), number of atoms, and average speed of atoms.  Which of these quantities are extensive?  Hint: think of how the quantities would (or would not) change if you combined the box with an identical box so that you had twice as much gas.  For clarity, the quantities you are thinking about are:&lt;/p&gt;
+&lt;p&gt;temperature&lt;br /&gt;pressure&lt;br /&gt;volume&lt;br /&gt;inertia&lt;br /&gt;number of atoms&lt;br /&gt;average speed of atoms&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18599">
+            <jumpto>8133</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499617657</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>volume, inertia and number of atoms</answer_text>
+            <response>Yes.  If you double the size of the system (by adding another identical box of gas to the system) all of those quantities would double.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18600">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499617657</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>volume</answer_text>
+            <response>No, if you add another identical box of gas to the system then all of the extensive quantities should double.  Volume is not the only of these quantities which would double.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18601">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499617657</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>temperature, pressure and average speed of atoms</answer_text>
+            <response>No.  All of these quantities would remain *unchanged* by adding another identical box of gas.  For example, think of what cooking would be like if adding more water to a pot increased the temperature...  But if we add another identical box of gas all of the extensive quantities would double.  So these are not extensive (in fact, they are another special case of quantity which doesn't depend on system size at all - these are called "intensive" quantities)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18602">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499617657</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>pressure</answer_text>
+            <response>No.  Pressure would remain *unchanged* by adding another identical box of gas.  If pressure was extensive then if you measured the pressure in your house, then opened the door (adding the entire atmosphere to "the system" the pressure in your house would suddenly increase by an enormous amount.  We can be thankful this isn't the case.
+If we add another identical box of gas all of the extensive quantities would double...</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18603">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499617657</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>volume and number of atoms</answer_text>
+            <response>Almost.  The two you've listed are extensive, but you've missed listing one extensive quantity.  If you add another identical box of gas to the system then all of the extensive quantities should double.  Which other quantity behaves this way?  (since you are so close you will be re-asked this question instead of being asked a different one...)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8133">
+        <prevpageid>8139</prevpageid>
+        <nextpageid>8118</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466546495</timecreated>
+        <timemodified>1499615954</timemodified>
+        <title>End of cluster 4-3</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18590">
+            <jumpto>8108</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466546495</timecreated>
+            <timemodified>1499615954</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8138">
+        <prevpageid>8140</prevpageid>
+        <nextpageid>8141</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466543376</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18589">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466543376</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8139">
+        <prevpageid>8141</prevpageid>
+        <nextpageid>8133</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499618353</timecreated>
+        <timemodified>1500172236</timemodified>
+        <title>Which are extensive? - 2</title>
+        <contents>&lt;p&gt;A city could be described by many different quantities.  For example you might choose to describe cities by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;population&lt;/li&gt;
+&lt;li&gt;population density (people per square km)&lt;/li&gt;
+&lt;li&gt;area&lt;/li&gt;
+&lt;li&gt;average age of residents&lt;/li&gt;
+&lt;li&gt;number of houses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Which of these quantities are extensive?  Hint: think of how each of these quantities would change (or would not change...) if you added another identical city to "your system".&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18604">
+            <jumpto>8133</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499618353</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>population, area and number of houses</answer_text>
+            <response>Yes.  If you add another identical city to the system all of these quantities will double.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18605">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618353</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>population density</answer_text>
+            <response>No, if you add another identical city to the system then all of the extensive quantities should double.  Both population and area would double (so they are extensive...) but population density is population/area, so the factors of two in numerator and denominator would cancel.  So population density is unchanged by adding another city to our system.  Thus it is not extensive.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18606">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618353</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>population density and average age of residents</answer_text>
+            <response>No.  Both of these quantities would remain *unchanged* by adding another identical city to the system.  But if we add another identical city all of the extensive quantities would double.  So these are not extensive (in fact, they are another special case of quantity which doesn't depend on system size at all - these are called "intensive" quantities)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18607">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618353</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>average age of residents</answer_text>
+            <response>No.   Average age of residents would remain *unchanged* by adding another identical city.
+If we add another identical city to our system all of the extensive quantities would double...</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18608">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499618353</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>population and number of houses</answer_text>
+            <response>Almost.  The two you've listed are extensive, but you've missed listing one extensive quantity.  If you add another identical city to the system then all of the extensive quantities should double.  Which other quantity behaves this way?  (since you are so close you will be re-asked this question instead of being asked a different one...)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8145">
+        <prevpageid>8142</prevpageid>
+        <nextpageid>8143</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499620631</timecreated>
+        <timemodified>1499622766</timemodified>
+        <title>Collision - two carts going to right</title>
+        <contents>&lt;p&gt;Two low friction carts are both moving to the right on the same track.  Friction is negligible.  The carts collide and stick together. Consider "the system" to be both carts.  Which of the following statements is true?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18618">
+            <jumpto>8130</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499620631</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The momentum of the system after the collision is the same as the momentum before the collision.</answer_text>
+            <response>Yes.  The system should be isolated (very little friction) so the system's momentum is conserved.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18619">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499620631</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The system is not isolated because the carts stick together.  So the final momentum of the system is smaller than the initial momentum.</answer_text>
+            <response>No.  The fact that the carts stick together has nothing to do with whether the system is isolated or not, because the interaction between the carts is an internal interaction.  "Isolated" means that the *external* interactions are negligible.  You have been told that friction is negligible.  Friction is the only external interaction that we would expect to have a significant effect on the system.  Since it is negligible the system is isolated (at least to a good approximation).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18620">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499620631</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The system is not isolated because the carts are moving in the same direction.  The final momentum of the system is larger than the initial momentum.</answer_text>
+            <response>No.  Which way the carts are moving has nothing to do with whether the system is isolated or not.  "Isolated" means that the *external interactions* are negligible.  You have been told that friction is negligible.  Friction is the only external interaction that we would expect to have a significant effect on the system.  Since it is negligible the system is isolated (at least to a good approximation).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18621">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499620631</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>This collision is elastic.</answer_text>
+            <response>No.  We haven't learned about elastic/inelastic collisions yet, so it would have been unfair of me to make the correct answer have something to do with the collision being elastic.  As it happens this collision is not elastic - it is *totally inelastic*.  But we will learn about that during the next topic unit of the course.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18622">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499620631</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The momentum of the system is conserved because the carts stick together.</answer_text>
+            <response>It is true that the momentum of the system is conserved.  But it has nothing to do with the fact that the carts stick together.  The momentum is conserved because friction is negligible and so the system is isolated.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8130">
+        <prevpageid>8143</prevpageid>
+        <nextpageid>8124</nextpageid>
+        <qtype>31</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499616105</timecreated>
+        <timemodified>1499616117</timemodified>
+        <title>End of cluster 4-5</title>
+        <contents>End of cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18597">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499616105</timecreated>
+            <timemodified>1499616117</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8142">
+        <prevpageid>8144</prevpageid>
+        <nextpageid>8145</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1499616098</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18596">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499616098</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8143">
+        <prevpageid>8145</prevpageid>
+        <nextpageid>8130</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1499622248</timecreated>
+        <timemodified>0</timemodified>
+        <title>Collision - steel blocks</title>
+        <contents>&lt;p&gt;Two steel blocks are sliding on a smooth ice surface.  They collide and bounce off of each other.  Consider "the system" to be&lt;strong&gt; just one of the blocks.&lt;/strong&gt;  Which of the following statements is most likely true?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18623">
+            <jumpto>8130</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1499622248</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The momentum of the system changes during the collision.</answer_text>
+            <response>Yes.  The interaction between the blocks during the collision is presumably very strong and since only one block is in our system this is an external interaction.  So the system is not isolated and the momentum changes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18624">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622248</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Friction with the ice is probably negligible, so the system is isolated.  The system's momentum is conserved.</answer_text>
+            <response>No.  It is true that the friction is probably negligible, but note that only one block is in the system.  So the interaction with the other block (which should be a strong interaction) is an external interaction.  The system is not isolated and we should not expect its momentum to be conserved.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18625">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622248</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The collision is totally inelastic, so momentum is not conserved.</answer_text>
+            <response>No.  We haven't learned about elastic/inelastic collisions yet, so it would have been unfair of me to make the correct answer have something to do with the collision being elastic or not.  As it happens this collision is definitely not totally inelastic.  Also, momentum conservation has nothing to do with whether the collision is elastic or not.  We will learn about this during the next topic unit in the course.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18626">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622248</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Momentum is conserved because the blocks bounce off of each other.</answer_text>
+            <response>No.  Whether the blocks bounce off of each other has nothing to do with whether the momentum is conserved.  As we saw in the video, for cart collisions the momentum was conserved when they "bounced off each other magnetically", but it was *also* conserved when they stuck together.  To decide whether momentum is conserved you have to think about whether the system is isolated (i.e. are there any external interactions).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18627">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1499622248</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The system is isolated because the change of momentum of one block is equal in size to the change of momentum of the other block, but in the opposite direction.  So the system's momentum is conserved.</answer_text>
+            <response>It is true that the changes of momentum of the blocks are equal in size and opposite in direction.  But did you notice that the system only includes one block?  So while the sum of the momenta of the blocks doesn't change the system's momentum does change.  This is not an isolated system.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8109">
+        <prevpageid>8146</prevpageid>
+        <nextpageid>8110</nextpageid>
+        <qtype>30</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1462908568</timecreated>
+        <timemodified>0</timemodified>
+        <title>Cluster</title>
+        <contents>Cluster</contents>
+        <contentsformat>0</contentsformat>
+        <answers>
+          <answer id="18580">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1462908568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

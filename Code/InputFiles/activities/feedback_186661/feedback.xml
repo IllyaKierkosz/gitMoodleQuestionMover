@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2436" moduleid="186661" modulename="feedback" contextid="273130">
+  <feedback id="2436">
+    <name>Compare_momentum_changes(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1637168400</timeclose>
+    <timemodified>1638967644</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5772">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;Alice and Bob are riding their bicycles when they both run into a brick wall.  They have the same inertias and were moving with the same velocity when they hit the wall.  Bob hits bare brick.  Alice hits a place where a stack of mattresses has been left leaning on the wall.  Both of them are brought to rest.  Compare the magnitudes of their changes in momentum.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/two_cyclists_hitting_wall.png" alt="Alice and Bob hitting a wall.  Alice hits mattresses" width="234" height="400" /&gt;&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5773">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;\( \Delta p_A &lt; \Delta p_B\)
+|\( \Delta p_A = \Delta p_B\)
+|\( \Delta p_A &gt; \Delta p_B\)
+|We need more information about the situation</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

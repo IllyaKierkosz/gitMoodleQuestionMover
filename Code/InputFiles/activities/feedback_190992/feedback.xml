@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2472" moduleid="190992" modulename="feedback" contextid="278514">
+  <feedback id="2472">
+    <name>Closed - make a different argument (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1638205200</timeclose>
+    <timemodified>1638190182</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5840">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/block_rope_over_pulley_to_mass_on_spring.png" alt="cart and hanging mass and spring" width="400" height="131" /&gt;&lt;/p&gt;
+&lt;p&gt;Consider the situation shown. The spring is initially stretched, so it is pulling down on the hanging mass and the mass and cart are stationary. At the final time the spring is relaxed and the cart and mass are in motion. Friction is negligible.&lt;br /&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;System: cart, mass, Earth, string, surface (not the spring)&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Is the system closed and if not what state change happens in the environment?&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5841">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Closed
+|Not closed: mass moves lower
+|Not closed: surface warms up
+|Not closed: spring compresses
+|It depends on whether we argue from work done by external forces or from external state changes</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

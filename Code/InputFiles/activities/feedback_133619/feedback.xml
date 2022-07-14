@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1689" moduleid="133619" modulename="feedback" contextid="204019">
+  <feedback id="1689">
+    <name>Getting to Know You Survey - START HERE</name>
+    <intro>&lt;p&gt;This survey is for me to get to know a bit about you.  This isn't optional.  I really do want to get to know you all.  But also, this information will be useful to me when I form student groups.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>1</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit>&lt;p&gt;Thanks for taking the time to do this.  Your answers will help me to help you.&lt;/p&gt;</page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1620070796</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <items>
+      <item id="4099">
+        <template>0</template>
+        <name>Where are you from?  Different people think about being "from" somewhere in different ways, so answer in any way you want.</name>
+        <label>Roughlocation</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Cape Breton
+|Elsewhere in Canada
+|Outside of Canada</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>7</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4100">
+        <template>0</template>
+        <name>More specifically, where are you from? (e.g. if you are from Cape Breton you might tell me what town.  If you are from outside Canada you might tell me what country.)</name>
+        <label>Specificlocation</label>
+        <presentation>60|60</presentation>
+        <typ>textfield</typ>
+        <hasvalue>1</hasvalue>
+        <position>8</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4101">
+        <template>0</template>
+        <name>Which of these applies to you?</name>
+        <label>lastschooling</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;I have just graduated from high school.
+|I have already been at CBU for at least one year.
+|I have transferred to CBU from college or another university.
+|I am returning to school after being away for a while.
+|Other.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>11</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4102">
+        <template>0</template>
+        <name>Since you answered, "Other," to that last question, tell me a bit about your situation.</name>
+        <label>othershcooling</label>
+        <presentation>80|80</presentation>
+        <typ>textfield</typ>
+        <hasvalue>1</hasvalue>
+        <position>13</position>
+        <required>0</required>
+        <dependitem>4101</dependitem>
+        <dependvalue>Other.</dependvalue>
+        <options></options>
+      </item>
+      <item id="4103">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>6</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4104">
+        <template>0</template>
+        <name>What gender do you identify as?</name>
+        <label>gender</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Female
+|Male
+|Other/Neither
+|Would rather not say</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>4</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4105">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>14</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4106">
+        <template>0</template>
+        <name>What program are you enrolled in?</name>
+        <label>program</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;B.Eng. (transfer to Dal)
+|B.Sc. Chemistry
+|B.Sc. Math
+|Other B.Sc.
+|B.A.
+|B.B.A
+|Undecided
+|Other</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4107">
+        <template>0</template>
+        <name>You've made it this far (an intro. physics course at university), so you must have succeeded in various science/math courses in the past.  Please write a brief piece of advice (just a sentence or two) to future students giving strategies you find helpful.</name>
+        <label>advice</label>
+        <presentation>30|5</presentation>
+        <typ>textarea</typ>
+        <hasvalue>1</hasvalue>
+        <position>17</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4108">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>9</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4109">
+        <template>0</template>
+        <name>What are some of your hobbies?</name>
+        <label>hobbies</label>
+        <presentation>30|5</presentation>
+        <typ>textarea</typ>
+        <hasvalue>1</hasvalue>
+        <position>20</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4110">
+        <template>0</template>
+        <name>Tell me something else about yourself that you consider to be important.</name>
+        <label></label>
+        <presentation>30|5</presentation>
+        <typ>textarea</typ>
+        <hasvalue>1</hasvalue>
+        <position>19</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4111">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>18</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4112">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>3</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4113">
+        <template>0</template>
+        <name>What are your pronouns?  i.e. do you go by "he/him", "she/her", or do you have another preference such as "they" or "ze"?</name>
+        <label>pronoun</label>
+        <presentation>30|5</presentation>
+        <typ>textarea</typ>
+        <hasvalue>1</hasvalue>
+        <position>5</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4114">
+        <template>0</template>
+        <name>It may not be obvious to me looking at the class list what name you go by.  So, for example, while my name is Dr. Geoffrey Lee-Dadswell, I  generally just go by Geoff.  What name do people usually call you in casual settings?</name>
+        <label>Name you go by</label>
+        <presentation>30|40</presentation>
+        <typ>textfield</typ>
+        <hasvalue>1</hasvalue>
+        <position>1</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4117">
+        <template>0</template>
+        <name>You will need to take pictures of assignments and things like that to submit them online in this course.  The easiest way will be with a smart phone.  Do you own or have good access to a smart phone (e.g. i-phone or Android).</name>
+        <label>Phone?</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Yes
+|No</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>15</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4118">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>10</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4120">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>12</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="4121">
+        <template>0</template>
+        <name></name>
+        <label></label>
+        <presentation></presentation>
+        <typ>pagebreak</typ>
+        <hasvalue>0</hasvalue>
+        <position>16</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2368" moduleid="183092" modulename="feedback" contextid="268472">
+  <feedback id="2368">
+    <name>Check - inertial observers (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1635177600</timeclose>
+    <timemodified>1635162197</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5635">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;An air puck, Amandeep, and Betty are all moving on (over) a level surface.&lt;/p&gt;
+&lt;p&gt;The air puck is going right at a constant 2 m/s.&lt;/p&gt;
+&lt;p&gt;Amandeep is going left at a constant 3 m/s.&lt;/p&gt;
+&lt;p&gt;Betty is going  right, gradually speeding up from 1 m/s to 4 m/s.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5636">
+        <template>0</template>
+        <name>Which of the following are true?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The air puck obeys the Principle of Inertia, no matter who is observing it.
+|The air puck obeys the Principle of Inertia, according to  Amandeep, but not according to Betty.
+|The air puck obeys the Principle of Inertia, according to  Betty, but not according to Amandeep.
+|The air puck does not obey the Principle of Inertia.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

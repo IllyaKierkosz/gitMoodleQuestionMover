@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2434" moduleid="186659" modulename="feedback" contextid="273128">
+  <feedback id="2434">
+    <name>Astronaut_on_a_spacewalk(copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1635933600</timeclose>
+    <timemodified>1638967987</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5768">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;An astronaut is on a spacewalk attaching a new solar panel to the International Space Station.  The astronaut’s boots have been fastened to the station to hold her in place.  The panel is near the right position, but it is out of position by a few cm.  The astronaut decides to pull it into position by hand.  The panel was weighed on Earth and was found to have a mass of 1000 kg.  The astronaut finds that&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5769">
+        <template>0</template>
+        <name></name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;a large push on the panel produces only a very small acceleration because it is so massive. 
+|the panel can be moved effortlessly because it is weightless.
+|the panel is too heavy to move by hand, just as it would be on Earth.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

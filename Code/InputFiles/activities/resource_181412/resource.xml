@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="69999" moduleid="181412" modulename="resource" contextid="266429">
+  <resource id="69999">
+    <name>Midterm #1 solutions</name>
+    <intro>&lt;p&gt;There are many ways to answer many of these questions, so obviously the solutions I have written up can't cover all possibilities.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1634039111</timemodified>
+  </resource>
+</activity>

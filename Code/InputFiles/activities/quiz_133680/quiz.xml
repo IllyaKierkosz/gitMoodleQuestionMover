@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9540" moduleid="133680" modulename="quiz" contextid="204080">
+  <quiz id="9540">
+    <name>Beginning of Problem 3 from Assignment #2</name>
+    <intro>&lt;p&gt;This activity is part of Assignment #2.  It will guide you through the first few parts of problem 3 from that assignment.  The marks for it will be counted  as part of your assignment mark.  This is set up as an "interactive quiz".  If you get a question wrong then it will give you hints and allow you to reattempt the question with a slight penalty.  So, it is worth being prepared for it by understanding the basic ideas of the topic unit if you are determined to get a perfect mark on it.  But if your understanding is shaky then it should help you resolve some misunderstandings without losing a lot of marks.&lt;/p&gt;
+&lt;p&gt;The focus of this activity is on how our analysis changes when we make different choices for our axes, or when we make different choices for what we take as the reference point which we use to represent the position of an object.  These ideas are introduced in Lectures 1 and 2 of Lesson #2.  You will need to slightly generalize some of what I say in those videos to be able to do this.  These ideas about choices of axes are important when analyzing real motions as you will be doing in many labs.   The activity will end by giving  you a choice of axes which you are to use for the rest of the problem.&lt;/p&gt;
+&lt;p&gt;There is no deadline for this quiz, because if people miss the Assignment #2 due date I still want them to be able to learn from this quiz.  But you should do it by the due date of Stage 1 of Assignment #2.  The point of it is to help you understand the rest of problem 3 before you do it, so there is very little point in doing it after you have already finished Assignment #2.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>interactive</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>69888</reviewcorrectness>
+    <reviewmarks>69888</reviewmarks>
+    <reviewspecificfeedback>69888</reviewspecificfeedback>
+    <reviewgeneralfeedback>69888</reviewgeneralfeedback>
+    <reviewrightanswer>4352</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>4.00000</sumgrades>
+    <grade>4.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1631674529</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <question_instances>
+      <question_instance id="166471">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>578541</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="166472">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>578542</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="166473">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>578543</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>2.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="9755">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="32014">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>5.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

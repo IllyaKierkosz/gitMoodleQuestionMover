@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2371" moduleid="183095" modulename="feedback" contextid="268475">
+  <feedback id="2371">
+    <name>Kinetic energy zero? (copy)</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <anonymous>2</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit></page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>1</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>1635156000</timeclose>
+    <timemodified>1635165519</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <items>
+      <item id="5641">
+        <template>0</template>
+        <name>label</name>
+        <label></label>
+        <presentation>&lt;p&gt;The Planet Express ship (m&lt;sub&gt;P&lt;/sub&gt; = 5X10&lt;sup&gt;6&lt;/sup&gt; kg) is in orbit around Earth going East at 8 km/s relative to the ground.  The Nimbus (m&lt;sub&gt;N&lt;/sub&gt; = 2X10&lt;sup&gt;8&lt;/sup&gt; kg) is in orbit around Earth going West at 12 km/s relative to the ground.  They collide and stick together.  &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/nimbus_planet_express_collision.png" alt="Planet Express collides with Nimbus" width="600" height="424" /&gt;&lt;/p&gt;</presentation>
+        <typ>label</typ>
+        <hasvalue>0</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="5642">
+        <template>0</template>
+        <name>Which of the following is true about the system consisting of the two ships?</name>
+        <label>answer</label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;The kinetic energy after the collision in the ground frame is zero since they are not moving relative to each other.
+|The momentum after the collision in the ground frame is zero since they are not moving relative to each other.
+|The kinetic energy after the collision in the ground frame cannot be zero since the system momentum is not zero.
+|In the ground frame the system gains kinetic energy during the collision.
+|There is no frame in which the kinetic energy is zero after the collision.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>1</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>
