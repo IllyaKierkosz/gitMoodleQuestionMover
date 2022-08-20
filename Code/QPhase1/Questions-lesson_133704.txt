@@ -1,0 +1,1036 @@
+lesson_133704-Question 1:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1567481581</timecreated>
+        <timemodified>0</timemodified>
+        <title>Choose correct acceleration vectors for motion diagram</title>
+        <contents><p>Consider this motion diagram, which is missing its acceleration vectors.</p> <p><img src="@@PLUGINFILE@@/MD_const_speed_slow_down_stop_reverse_speed_no_a_vectors.png" width="674" height="85" alt="a motion diagram" /></p> <p>Which of the following is the correct set of acceleration vectors for this motion diagram? </p> <p><img src="@@PLUGINFILE@@/choices_for_MD_const_then_slow_down_then_reverse.png" width="1357" height="255" alt="four choices" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18553">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1567481581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>b)</p></answer_text>
+            <response><p>Yes.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18554">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>a)</p></answer_text>
+            <response><p>No.  For example, notice that the first few points are equal distances apart.  The object is moving at a constant velocity for the first little while.  What does that tell you about the acceleration during that time?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18555">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>c)</p></answer_text>
+            <response><p>No.  For example, notice that the first few points are equal distances apart.  The object is moving at a constant velocity for the first little while.  What does that tell you about the acceleration during that time?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18556">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>d)</p></answer_text>
+            <response><p>No.  Notice that for the  few points before the object stops and reverses direction the points are getting closer together.  So it is slowing down during that time.  What does this tell you about the direction of the acceleration during that time?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1567481958</timecreated>
+        <timemodified>0</timemodified>
+        <title>Choose ax vs. t</title>
+        <contents><p>Below is a v<sub>x</sub> vs. t graph.  Which of the options below is the most correct a<sub>x</sub> vs. t graph?</p> <p><img src="@@PLUGINFILE@@/match_vvst_to_correct_avst.png" width="778" height="895" alt="vx vs. t and four options for ax vs. t" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18557">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1567481958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>A</p></answer_text>
+            <response><p>Yes.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18558">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>B</p></answer_text>
+            <response><p>No.  For example, notice that for the first while the vx vs. t graph has a negative slope.  What does this tell you?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18559">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>C</p></answer_text>
+            <response><p>No.  For example, notice that for the first while the vx vs. t graph has a negative slope.  What does this tell you?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18560">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>D</p></answer_text>
+            <response><p>No.  You've chosen a graph that looks just like the vx vs. t graph.  ax is not the same as vx.  You can find ax from the slope of the vx vs. t graph...</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1498911739</timecreated>
+        <timemodified>1595596504</timemodified>
+        <title>Which mass falls faster?</title>
+        <contents><p>I have two metal masses - one 100 g and one 500 g.  If I drop them both at the same time from the same height, which will hit the ground first?</p> <p>(Note: be sure to read the feedback because the lesson will take you onwards to the next part of the lesson whether your prediction was correct or incorrect.)</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18530">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1498911739</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>They will hit at the same time.</answer_text>
+            <response>Yes, as you are about to see in the next video that is what happens.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18531">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498911739</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The heavy one hits first.</answer_text>
+            <response>No.  Watch the video to see what actually happens.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18532">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498911739</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The light one hits first.</answer_text>
+            <response>No.  Watch the video to see what actually happens.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466812946</timecreated>
+        <timemodified>1498934999</timemodified>
+        <title>which is the correct set of knowns? - 2</title>
+        <contents><p>We define east as positive.  A car starts at the origin going east at 30 m/s.  It slows down at a rate of 5 m/s<sup>2</sup> until it comes to rest.</p> <p>Which of the sets of knowns/unknowns below is consistent with this description?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18526">
+            <jumpto>8087</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = ?, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = -5 m/s<sup>2</sup>, Delta t = ? </answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18527">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = ?, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = 5 m/s<sup>2</sup>, Delta t = ? </answer_text>
+            <response>No.  Think about which way the acceleration vector points.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18528">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = ?, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = ?, Delta t = ? </answer_text>
+            <response>No, we have been told the acceleration.  Remember that objects that are slowing down are accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18529">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812946</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = ?, x<sub>f</sub> = ?, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = 5 m/s<sup>2</sup>, Delta t = ? </answer_text>
+            <response>No, we have been told the initial position (but not by being given a number.  Also, think about what direction the acceleration points.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466805694</timecreated>
+        <timemodified>1567482569</timemodified>
+        <title>match v vs. t to correct a vs. t</title>
+        <contents><p>Which of the acceleration vs. time graphs below (A, B, C or D) is the best match for the velocity vs. time graph shown?</p> <p><img src="@@PLUGINFILE@@/match_vxvst_to_correct_axvst-2.png" width="779" height="889" alt="vx vs. t and four options for ax vs. t" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18504">
+            <jumpto>8077</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>Yes, the a vs. t graph at every time is the slope of the v. vs. t graph at that time.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18505">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  For example, at the start the value of vx is constant for a while.  What does this tell you about ax during the first little while?</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18506">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  I think you are looking at the area under the vx vs. t graph (which is much harder than what you should be doing).  ax is the *slope* of the vx vs. t graph...</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18507">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466805694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>No.  This one is identical to the v vs. t graph.  But the a vs. t graph is determined from the **slope** of the v vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466806114</timecreated>
+        <timemodified>1595597867</timemodified>
+        <title>match v vs. t to correct a vs. t -1</title>
+        <contents><p>Which of the acceleration vs. time graphs below (A, B, C or D) is the best match for the velocity vs. time graph shown?</p> <p><img src="@@PLUGINFILE@@/match_vxvst_to_correct_axvst-1.png" width="776" height="891" alt="match vvst to correct avst" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18508">
+            <jumpto>8077</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Yes, the a vs. t graph is just the slope of the v vs. t graph.</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18509">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No, that's what the x vs. t graph for this motion might look like.  Remember that a vs. t is the slope of v vs. t, not the other way around.</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18510">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>There are a number of misconceptions about acceleration which might cause you to choose this answer.  You may have a misconception that a forward acceleration is needed for an object to keep moving forward.  Or you may think that smaller velocity implies smaller acceleration.  Remember, the acceleration is the **slope** of the v vs. t graph.</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18511">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466806114</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>There are a number of misconceptions about acceleration which might cause you to choose this answer.  You may have a misconception that a forward acceleration is needed for an object to keep moving forward.  Or you may think that smaller velocity implies smaller acceleration.  Remember, the acceleration is the **slope** of the v vs. t graph.</response>
+            <answerformat>1</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 7:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1498913496</timecreated>
+        <timemodified>1531148310</timemodified>
+        <title>Describe the motion</title>
+        <contents><p>Below is a v<sub>x</sub> vs. t graph for some object.  Which is the best description of this object's motion?</p> <p><img src="@@PLUGINFILE@@/vx_vs_t_quadrat_opendown_with_scale.png" width="301" height="237" alt="vvst_parabola_opendown" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18534">
+            <jumpto>8088</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1498913496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object is speeding up from t = 0 until t = 3 s.  It is momentarily at its maximum speed at t = 3 s.  It slows down after that.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18535">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object is moving to the right from t = 0 until t = 3 s.  It momentarily stops at t = 3 s.  It then moves to the left after t = 3 s.</answer_text>
+            <response>No.  You are interpreting the graph as if it is an x vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18536">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object is slowing down from t = 0 until t = 3 s.  It momentarily stops at t = 3 s.  It then moves in the opposite direction speeding up after t = 3 s.</answer_text>
+            <response>No.  You are interpreting the graph as if it is an x vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18537">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object's acceleration is increasing from t = 0 until t = 3 s.  It has its maximum acceleration momentarily at t = 3 s.  Then its acceleration decreases after t = 3 s.</answer_text>
+            <response>No.  You are interpreting the graph as if it was an a_x vs. t graph.  In fact, by the slope of this v_x vs. t graph you can tell that the acceleration is *decreasing* from t = 0 to t = 3 s and the magnitude of the acceleration is *increasing* after t = 3 s.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 8:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1567574813</timecreated>
+        <timemodified>0</timemodified>
+        <title>what is final velocity?</title>
+        <contents><p><img src="@@PLUGINFILE@@/generic_projectile.png" width="515" height="414" alt="a generic projectile" /></p> <p>Suppose we know the initial velocity and initial height of this projectile.  If we define impact with the ground as our “final” time, what is the final velocity of the projectile?</p> <p>Moodle will not let you go on until you have answered this question correctly.  It will give you hints if you give an incorrect answer.</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18572">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1567574813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>We don't know.  We would need to solve for it.</p></answer_text>
+            <response><p>Yes.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18573">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>0</p></answer_text>
+            <response><p>No.  Certainly after it hits the ground (after a bounce or two) it makes sense that the projectile would be stationary.  But that is not what we mean.  We will be using equations of uniformly accelerated motion to analyze the motion of the projectile.  Those only apply as long as the acceleration is uniform.  But when the projectile hits the ground its acceleration changes.  So our equations can't "see beyond the collision with the ground".</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18574">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574813</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>g</p></answer_text>
+            <response><p>No.  g is an acceleration and we are talking about a velocity.  This answer indicates that you may believe that objects in freefall fall with a constant *speed*.  They do not.  They fall with a constant acceleration.  Also, we are looking for a velocity, which is a vector.  But "g" is a scalar.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 9:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466812493</timecreated>
+        <timemodified>1498935156</timemodified>
+        <title>which is the correct set of knowns?</title>
+        <contents><p>We define east as positive.  A car starts at the origin going east at 30 m/s.  It is slowing down at a constant rate.  It comes to rest after going 200 m.</p> <p>Which of the sets of knowns/unknowns below is consistent with this description?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18522">
+            <jumpto>8087</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = 200 m, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = ?, Delta t = ? </answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18523">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = 200 m, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = 0, Delta t = ? </answer_text>
+            <response>No.  Remember that objects that are slowing down are accelerating in the physics meaning of the term.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18524">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = 200 m, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = ?, a<sub>x</sub> = ?, Delta t = ? </answer_text>
+            <response>No.  We know the final velocity, though it isn't given as a number in the question.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18525">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466812493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>x<sub>i</sub> = 0, x<sub>f</sub> = 200 m, v<sub>x,i</sub> = 30 m/s, v<sub>x,f</sub> = 0, a<sub>x</sub> = -30 m/s<sup>2</sup>, Delta t = ? </answer_text>
+            <response>No, we have not been given the acceleration.  Don't confuse acceleration with velocity.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 10:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1567574604</timecreated>
+        <timemodified>0</timemodified>
+        <title>Initial velocity and acceleration</title>
+        <contents><p><img src="@@PLUGINFILE@@/plane_dropping_package_horizontal_vi_with_axes.png" width="339" height="176" alt="plane dropping package" /></p> <p>A search and rescue airplane is flying horizontally at 45 m/s when it drops a package.  What are the velocity and acceleration of the package just after it is dropped using the coordinate system shown on the diagram?</p> <p></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18567">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1567574604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>$$\vec{v}_i = -(45\,\textrm{m/s}) \hat{i}, \; \vec{a}=-(9.8\,\textrm{m/s}^2)\hat{j}$$</p></answer_text>
+            <response><p>Yes.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18568">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>$$\vec{v}_i = (45\,\textrm{m/s}) \hat{i}-(9.8\,\textrm{m/s})\hat{j}, \; \vec{a}=0$$</p></answer_text>
+            <response><p>No.  First of all, after being dropped the package is only under the influence of gravity.  What does that tell you about its acceleration?  Second of all, you may not be understanding what is meant by *just* after the package has been dropped.  No time has elapsed since it was dropped and so there has been no time for its velocity to change.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18569">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>$$\vec{v}_i = -(45\,\textrm{m/s}) \hat{i}, \; \vec{a}=0$$</p></answer_text>
+            <response><p>No.  After being dropped the package is only under the influence of gravity.  What does that tell you about its acceleration?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18570">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>$$\vec{v}_i = (45\,\textrm{m/s}) \hat{i}, \; \vec{a}=-(9.8\,\textrm{m/s})\hat{j}$$</p></answer_text>
+            <response><p>No.  \( \vec{v}_i \) points left but x is defined as positive to the right.  What does that tell you about the x-component of the velocity?</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18571">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567574604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>We need to know the x and y distances to the airplane from the origin.</p></answer_text>
+            <response><p>No.  We would need that for the initial x- and y-components of *position*.  But they are not relevant at all to knowing the velocity and acceleration.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 11:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466809889</timecreated>
+        <timemodified>1643768875</timemodified>
+        <title>match motion diagram to correct acceleration vectors -1</title>
+        <contents><p>Below is a motion diagram without acceleration vectors added.  Which figure (A, B, C or D) shows the correct acceleration vectors for this motion diagram?</p> <p><img src="@@PLUGINFILE@@/match_MD_const_speed_with_a_vectors.png" alt="motion diagrams with acceleration vectors." height="362" width="688" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18512">
+            <jumpto>8071</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>Yes, the early part of the motion is with constant velocity, then it is slowing down so the acceleration points opposite to the motion.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18513">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.  Look back near the beginning of the lecture at what the only three possibilities are for acceleration vectors in one dimension.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18514">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.  Look back near the beginning of the lecture at what the only three possibilities are for acceleration vectors in one dimension.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18515">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>You may have the very common misconception that an object must acceleration to maintain a constant speed.  This may be caused by mixing up the idea of acceleration with the idea of how much "effort" it takes to walk at a constant speed.  Acceleration and effort are entirely different from each other.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18516">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466809889</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>None of them.  Without axes defined we can't figure out the sign of the acceleration vector.</answer_text>
+            <response>We eventually found that the direction of the acceleration vector for 1D motion only depends on whether the object is speeding up, slowing down, or moving with constant velocity.  Have another look at the beginning of this lecture and think about what the answer would have been if we had reversed the sign convention.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 12:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1466810849</timecreated>
+        <timemodified>1498912453</timemodified>
+        <title>match motion diagram to correct acceleration vectors -2</title>
+        <contents><p>Below is a motion diagram without acceleration vectors added.  Which figure (A, B, C or D) shows the correct acceleration vectors for this motion diagram?</p> <p><img src="@@PLUGINFILE@@/match_MD_const_speed_with_a_vectors-2.png" alt="motion diagrams with acceleration vectors." height="787" width="554" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18517">
+            <jumpto>8071</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>D</answer_text>
+            <response>Yes, it is speeding up initially (accel. points in direction of motion) then it slows down (accel. points opposite to motion)</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18518">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>A</answer_text>
+            <response>No.  You may be confusing velocity with acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18519">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>B</answer_text>
+            <response>No.  Remember that in physics terminology an object that is slowing down is accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18520">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>C</answer_text>
+            <response>No.  Remember that in physics terminology an object that is slowing down is accelerating.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18521">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466810849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>None of them.  Without axes defined we can't figure out the sign of the acceleration vector.</answer_text>
+            <response>We eventually found that the direction of the acceleration vector for 1D motion only depends on whether the object is speeding up, slowing down, or moving with constant velocity.  Have another look at the beginning of this lecture and think about what the answer would have been if we had reversed the sign convention.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 13:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1567481123</timecreated>
+        <timemodified>0</timemodified>
+        <title>Direction of acceleration of ball</title>
+        <contents><p>You throw a ball straight up. After it leaves your hand, as it moves upward it will slow down. A motion diagram for the ball during the upward part of its motion is shown below.</p> <p>Which way does the ball’s acceleration vector point during this motion?</p> <p><img src="@@PLUGINFILE@@/MD_going_up_slowing_down_times_v_vectors.png" width="135" height="825" alt="motion diagram of ball slowing down as it goes up" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18549">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>Up</p></answer_text>
+            <response><p>No.  It is *going* up, which means its velocity is up.  But that does not mean its acceleration is up.  Use the rules and/or procedures that I just explained to find the direction of the acceleration.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18550">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1567481123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>Down</p></answer_text>
+            <response><p>Yes.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18551">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>The acceleration is zero</p></answer_text>
+            <response><p>No.  If the acceleration was zero the velocity would not be changing.  But the ball is slowing down, so its velocity is changing.  Therefore the acceleration is not zero.</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18552">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1567481123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text><p>The acceleration is negative</p></answer_text>
+            <response><p>Vectors cannot be negative (or positive).  There is no such direction as "negative".</p></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133704-Question 14:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1498913935</timecreated>
+        <timemodified>1498933142</timemodified>
+        <title>Describe the motion - 2</title>
+        <contents><p>Below is a v<sub>x</sub> vs. t graph for some object.  Which of the following is the best description of this object's motion?</p> <p><img src="@@PLUGINFILE@@/vx_vs_t_s-curve_with_scale.png" width="376" height="327" alt="vvst_s-curve" /></p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18538">
+            <jumpto>8088</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1498913935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object speeds up during the whole time shown.  Its x-component of acceleration is increasing from t = 0 until t = 3 s and decreasing after t = 3 s.</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18539">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object is slowing down from t = 0 until t = 3 s and speeding up after t = 3 s.</answer_text>
+            <response>No.  The v_x is getting larger during the whole time shown (v_x is +ve and has a +ve slope).  The changes in slope on the graph are telling you about changes in the acceleration.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18540">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object's x-component of acceleration is increasing the during whole time shown.  It increases at an increasing rate from t = 0 until t = 3 s and it increases at an decreasing rate after t = 3 s.</answer_text>
+            <response>No.  The slope is telling you about the acceleration.  Notice that the graph is getting steeper early (the x-component of acceleration is increasing) but decreasing later (the x-component of acceleration is decreasing).</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18541">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1498913935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The object is speeding up from t = 0 until t = 3 s and slowing down after t = 3 s.  Around t = 6 s it stops.</answer_text>
+            <response>No you are interpreting the graph as if it was an x vs. t graph.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+

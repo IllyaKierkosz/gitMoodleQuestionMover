@@ -3,11 +3,14 @@ Tasks: (* indicates completed)
 1*. Moving questions into a readable format in a central location.
 
 2. Moving images into a readable location:
-    - Searching for images and copying them to central location
-    - Tagging images so that they can be connected to question content.
+    -* Generating a easily readible (i.e. hash) dictionary to match content ID hashes to filenames.
 
 3. Generating h5p content:
-    - Moving questions from central location to h5p location.
-    - Moving images from central location to h5p location.
-    - Generating necessary auxilliary content.
+    - [Copy template to output for every question made]
+    - Moving question text from central location to h5p location.
+        - [Use regex matching to harvest text (store in a string), use regex substitution to place          text inside template]
+        - [Should be able to use "exists" with if/else to check if an image is in a text string, then do the whole image thing]
+    - Moving images to h5p location.
+        - [When an image is encountered, use the dictionary to trace to where it is in InputFiles, then copy to Images in the output]
     - Packaging?
+        - [If time, write a shell script]

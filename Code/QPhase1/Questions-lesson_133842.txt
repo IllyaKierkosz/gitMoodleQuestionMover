@@ -1,0 +1,480 @@
+lesson_133842-Question 1:
+        <qtype>3</qtype>
+        <qoption>1</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501596732</timecreated>
+        <timemodified>0</timemodified>
+        <title>Which stay the same?</title>
+        <contents><p>Two objects, isolated from the environment, collide elastically.  <strong>During the time when the two objects are interacting</strong> which of the following quantities remain unchanged?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18862">
+            <jumpto>8216</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system momentum</answer_text>
+            <response>Yes, the system is isolated so momentum can't change</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18863">
+            <jumpto>8216</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>total system energy</answer_text>
+            <response>Yes.  The system loses kinetic energy (temporarily) but this is just converted into internal energy in the system.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18864">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>kinetic energy</answer_text>
+            <response>No.  The kinetic energy *after* the collision is the same as the kinetic energy *before* the collision.  But *during* the collision the kinetic energy changes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18865">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>relative velocity of the two objects</answer_text>
+            <response>No.  The relative velocity *after* the collision is the same as the relative velocity *before* the collision.  But *during* the collision the relative velocity must change.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18866">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501596732</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>momentum of each object</answer_text>
+            <response>No.  The objects are interacting with each other, and so each of their momentums changes.  It is only the total momentum of the system that remains unchanged.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133842-Question 2:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501599140</timecreated>
+        <timemodified>0</timemodified>
+        <title>Energy conversion during collision between car and wall</title>
+        <contents><p>A car collides with a wall and is brought suddenly to rest.  Nobody is hurt but the car is very badly damaged.  Which of the following is the most correct description of the energy conversion that took place during the process of the collision?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18873">
+            <jumpto>8231</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to thermal energy and energy associated with irreversible deformation.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18874">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted into elastic potential energy.</answer_text>
+            <response>No.  This would imply that the car is able to spring back to its original shape (i.e. that the process of deformation of the car during the collision is a reversible process).  That would be very convenient for the owner of the car, but is not the case.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18875">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to potential energy during the collision, then back to kinetic energy at the end of the collision.</answer_text>
+            <response>No.  The car is at rest at the end of the collision; it has lost all of its kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18876">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy was converted to thermal energy during the collision and then is converted back to kinetic energy at the end of the collision.</answer_text>
+            <response>No.  The car is at rest at the end of the collision; it has lost all of its kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18877">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501599140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Thermal energy, and energy associated with irreversible deformation, is converted into kinetic energy.</answer_text>
+            <response>No.  You have the order of things in time mixed up.  What you are describing is what would happen if the collision was reversed so that the car miraculously reassembled itself and ended up moving away from the wall.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133842-Question 3:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501600362</timecreated>
+        <timemodified>0</timemodified>
+        <title>Energy conversion during collision between train car and spring</title>
+        <contents><p>Where railway tracks end (such as in switching yards) there are often very large spring-loaded bumpers at the end of the track to prevent railway cars from rolling off the end of the tracks.  A railway car rolls slowly into one of these bumpers causing the spring to be compressed.  The spring then uncompresses and pushes the car away at nearly the speed that it was going before it hit the bumper.</p> <p>Which of the following is the most correct description of the energy conversions which take place during the process of the train car bouncing off of the bumper?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18878">
+            <jumpto>8231</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy and is then converted back to kinetic energy.</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18879">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to thermal energy and is then converted back to kinetic energy.</answer_text>
+            <response>No.  Conversion of kinetic energy to thermal energy is irreversible.  Once kinetic energy gets converted to thermal energy it does not get converted back spontaneously.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18880">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy.</answer_text>
+            <response>Kinetic energy *is* converted to spring potential energy, but it doesn't remain as spring potential energy because at the end of the interaction the spring is uncompressed again.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18881">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring potential energy is converted to kinetic energy.</answer_text>
+            <response>That is true, but the energy in the system didn't start out as spring potential energy; the spring was initially uncompressed.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18882">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501600362</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy is converted to spring potential energy and is then converted to thermal energy.</answer_text>
+            <response>Kinetic energy is converted to spring potential energy.  But then (most of it) is not converted to thermal energy.  Notice that the train car is moving at the nearly the same speed after colliding with the bumper as it was before.  So very little energy was lost to dissipation.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133842-Question 4:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501648545</timecreated>
+        <timemodified>0</timemodified>
+        <title>Where does energy to raise book come from?</title>
+        <contents><p>A book is resting on a table.  You pick it up and lift it to a high shelf.  When you pick up the book you increase its gravitational potential energy.  The law of conservation of energy requires that the energy to do this comes from somewhere.  Where did it come from?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18893">
+            <jumpto>8227</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Chemical energy stored in your body</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18894">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Kinetic energy of the book</answer_text>
+            <response>No.  The book was stationary before you picked it up so it had no kinetic energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18895">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Spring potential energy in the table </answer_text>
+            <response>No.  The table may have been *slightly* bent (reversibly deformed) by supporting the book.  But this wasn't enough stored energy to lift the book to the shelf.  Otherwise the table would have launched the book up onto the shelf and you wouldn't have had to lift it at all.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18896">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501648545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Gravitational potential energy in you</answer_text>
+            <response>No.  You are not changing height significantly.  Your gravitational potential energy is not changing.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133842-Question 5:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501613332</timecreated>
+        <timemodified>0</timemodified>
+        <title>burning methane to compress spring</title>
+        <contents><p>A cylinder has a piston and large spring in it.  As shown, a mixture of fuel and oxygen in the cylinder burns rapidly.  The expanding gases push down on the piston and compress the spring.  The system is the fuel/oxygen mixture, the spring and the piston.</p> <p>Which of the following is the best description of the energy conversion which takes place in this process?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18889">
+            <jumpto>8233</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( U_S \) and \( E_{th} \)</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18890">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) and \( E_{th} \) are converted to \( U_S \)</answer_text>
+            <response>Where did the thermal energy come from?  Initially we had an uncombusted (and presumably cool) mixture of oxygen and fuel.  The thermal energy was produced during the process.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18891">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( E_{th} \)</answer_text>
+            <response>The spring is compressed.  That is a state change inside the system and involves some change in a type of internal energy which you haven't identified.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18892">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501613332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( E_{chem} \) is converted to \( U_S \)</answer_text>
+            <response>We can never convert chemical energy directly to U or K without also producing thermal energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+
+lesson_133842-Question 6:
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1501649087</timecreated>
+        <timemodified>1501649702</timemodified>
+        <title>Effect of moving mass and spring</title>
+        <contents><p>A mass is hanging by a spring which is suspended from a support.  You carefully lift the support of the spring higher so that the mass and spring are now higher up.  You did this slowly and carefully so that the spring did not lengthen or compress during the process.</p> <p>How has the spring potential energy of the system changed during this process?</p></contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18897">
+            <jumpto>8227</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) hasn't changed because the spring hasn't changed state</answer_text>
+            <response>Yes.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18898">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) has increased because things got moved upwards</answer_text>
+            <response>No.  I think you are mixing up spring potential energy with gravitational potential energy.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18899">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>\( U_S \) has decreased because it has to compensate for the increase in gravitational potential energy</answer_text>
+            <response>No.  The system isn't closed.  You are putting energy into it by interacting with it. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18900">
+            <jumpto>-80</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1501649087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>U_S decreased while you were moving the mass and spring to compensate for the kinetic energy that you gave the system.  But then it returned to its initial value when you stopped moving them.</answer_text>
+            <response>No.  The system isn't closed.  You are putting energy into it by interacting with it.   </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+Q-END
+

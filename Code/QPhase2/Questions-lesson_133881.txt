@@ -1,0 +1,244 @@
+lesson_133881-Question 1:
+        <title>Why is the rate of change of momentum zero?</title>        <contents><p>You are pushing a box at constant velocity.  You are certainly exerting a force, and we have just defined force as rate of change of momentum.  Yet, the rate of change of momentum is zero.  How can the rate of change of momentum be zero when we are clearly exerting a force on the box?If you answer incorrectly you will be given a hint and asked this question again.</p></contents>
+            <score>1</score>            <answer_text>The force you are exerting on the box is not the only force that is acting on the box.</answer_text>            <response>Yes, there is also friction with the floor.</response>
+            <score>0</score>            <answer_text>The force you are exerting on the box is exactly cancelled by the force that the box exerts on you.  All forces come in pairs.</answer_text>            <response>No.  It is true that all forces come in pairs.  But the reasoning you have just given would make all motion impossible since if it was true all forces would always cancel.  Note that the force that the box exerts on you has no effect on the box.  It only affects your motion.</response>
+            <score>0</score>            <answer_text>Our definition of force as a rate of change of momentum is wrong.</answer_text>            <response>No, there is nothing wrong with our definition.</response>
+            <score>0</score>            <answer_text>Pushing on the box doesn't count as a real force since it causes no change in momentum.  It must be a fictitious force like centrifugal force.</answer_text>            <response>No.  Interactions between objects, such as the interaction between you and the box do result in real forces.</response>
+            <score>0</score>            <answer_text>The intuitive idea of pushing as a force is incorrect.  Only the rate of change of momentum counts as a force.</answer_text>            <response>No, the intuitive idea is correct (although not precise enough).  If you are pushing on the box you are interacting with it and this results in a force that you are exerting on the box and another one that the box is exerting on you.</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/person_pushing_box.png" width="248" height="128" alt="person pushing box" />
+Q-END
+
+lesson_133881-Question 2:
+        <title>car pushing truck</title>        <contents><p>A car is pushing a truck that has broken down (don't try this!).  So the car pushes forward on the truck.  The truck also pushes back on the car.  If the car and truck are speeding up, which is bigger, the force of the car on the truck, or the force of the truck on the car?</p></contents>
+            <score>1</score>            <answer_text>These two forces have the same magnitude.</answer_text>            <response>Yes.</response>
+            <score>0</score>            <answer_text>The force by the car on the truck is stronger.</answer_text>            <response>No.  The force of the car on the truck and the force of the truck on the car form an interaction pair.  What have we just learned about the magnitudes of forces in interaction pairs?</response>
+            <score>0</score>            <answer_text>The force by the truck on the car is stronger.</answer_text>            <response>No.  The force of the car on the truck and the force of the truck on the car form an interaction pair.  What have we just learned about the magnitudes of forces in interaction pairs?</response>
+            <score>0</score>            <answer_text>We need to know the inertias of the car and truck to determine this.</answer_text>            <response>No.  We know a rule which tells us.  Hint: the force of the car on the truck and the force of the truck on the car form an interaction pair.</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/FCI_car_push_truck.png" width="557" height="143" alt="car pushing a truck" />
+Q-END
+
+lesson_133881-Question 3:
+        <title>Sitting in chair - interaction pair between you and chair</title>        <contents><p>You are sitting in a chair.  The chair pushes up on you (that's why you don't fall through the chair).  This upward push is part of an interaction pair with another force.  What force is the other member of this interaction pair?</p></contents>
+            <score>1</score>            <answer_text>The downward force that you exert on the chair.</answer_text>            <response>Yes.</response>
+            <score>0</score>            <answer_text>The downward gravitational force on you.</answer_text>            <response>No.  This interaction pair results from the interaction between you and the chair.  But the gravitational force on you is part of the interaction between you and the Earth, so it can't be part of this interaction pair.</response>
+            <score>0</score>            <answer_text>Your weight.</answer_text>            <response>No, that is another word for the gravitational force on you.  But the gravitational force on you is part of the interaction between you and the Earth, so it can't be part of this interaction pair.</response>
+            <score>0</score>            <answer_text>The upward force that the floor exerts on the chair.</answer_text>            <response>No.  That is a result of a totally different interaction (the one between the floor and the chair).  We are looking at the interaction between you and the chair.</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 4:
+        <title>Reading force notation</title>        <contents><p>Two low friction carts, 1 and 2, are in the process of colliding with their magnetic ends facing each other.  The diagram below shows the forces on the right cart.According to the diagram, what are the three forces acting on cart 2?</p></contents>
+            <score>1</score>            <answer_text><p>gravity by Earth, contact force by track, magnetic force by cart 1</p></answer_text>            <response><p>Yes.  Congratulations, you can read my crazy force notation.</p></response>
+            <score>0</score>            <answer_text><p>gravity by Earth, contact force on the track, magnetic force by cart 1</p></answer_text>            <response><p>No.  These are supposed to be forces *on* the cart.  But one of the options you've chosen is a force on the track.</p></response>
+            <score>0</score>            <answer_text><p>gravity by Earth, contact force by track, contact force by cart 1</p></answer_text>            <response><p>The carts are not in contact.  There cannot be a contact force exerted by cart 1 on cart 2.</p></response>
+            <score>0</score>            <answer_text><p>gravity by cart 2, contact force by track, magnetic force by cart 1</p></answer_text>            <response><p>Objects cannot exert forces on themselves.  So the gravitational force on cart 2 can't be exerted by cart 2.  It is exerted by the Earth.</p></response>
+Image count: 2.
+<img src="@@PLUGINFILE@@/object_labels_two_carts_and_track.png" width="585" height="168" alt="labels for objects" />
+<img src="@@PLUGINFILE@@/fbd_cart.png" width="377" height="300" alt="forces on cart" />
+Q-END
+
+lesson_133881-Question 5:
+        <title>Free body diagram of woman in elevator.</title>        <contents><p>A woman is standing in an elevator.  The elevator is going up and is speeding up as it does so.  Which is the most correct free body diagram for the woman?</p></contents>
+            <score>1</score>            <answer_text><p>B</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>A</p></answer_text>            <response><p>No.  The elevator is accelerating up and so the woman must also be accelerating up.  Perhaps you are picturing her from the perspective of riding along with her in the elevator.  From that perspective she wouldn't be accelerating.  However, that is an accelerating point of view (i.e. a non-inertial reference frame).  You should not work from such a perspective because the laws of physics as we have been learning them don't apply in such a perspective.</p></response>
+            <score>0</score>            <answer_text><p>C</p></answer_text>            <response><p>The free body diagram that you have chosen includes a force exerted by the woman on the elevator.  The free body diagram of the woman should only include forces *on* the woman.  Forces exerted by the woman would have no effect on her motion and so they should not be included on her free body diagram.</p></response>
+            <score>0</score>            <answer_text><p>D</p></answer_text>            <response><p>The free body diagram that you have chosen includes a force exerted by the cable on the woman.  But the cable is not in contact with the woman, so it can't exert a force on her.</p></response>
+Image count: 2.
+<img src="@@PLUGINFILE@@/woman_in_elevator.png" width="302" height="323" alt="woman in elevator" />
+<img src="@@PLUGINFILE@@/FBDs_woman_in_elevator_4choices.png" width="867" height="927" alt="options - FBD of  wonan in elevator" />
+Q-END
+
+lesson_133881-Question 6:
+        <title>Choose FBD - box on sloped conveyor belt</title>        <contents><p>A box is being carried uphill by a conveyor belt. The belt is <strong>speeding up</strong>. The box does not slip on the belt.Which free body diagram is the most correct FBD for the box?</p></contents>
+            <score>1</score>            <answer_text><p>B</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>A</p></answer_text>            <response><p>No.  Static friction is exerted between surfaces that are not slipping on each other and kinetic friction is exerted between surfaces that are slipping on each other.  Either the box is slipping on the belt or not.  So the conveyor belt can't exert a static friction *and* a kinetic friction on the box.Also, the belt is speeding up, so the box must also  be speeding up if it is not slipping on the belt.  So the acceleration can't be zero.</p></response>
+            <score>0</score>            <answer_text><p>C</p></answer_text>            <response><p>What is exerting the "applied force" that you have chosen?  The only thing that the box is in contact with is the belt and the only forces the belt can apply on the box are a perpendicular force and a friction.</p></response>
+            <score>0</score>            <answer_text><p>D</p></answer_text>            <response><p>Kinetic friction is exerted between surfaces that are not slipping on each other.  The box is not slipping on the belt so the belt can't exert a kinetic friction on it.</p></response>
+Image count: 2.
+<img src="@@PLUGINFILE@@/box_conveyor_belt.png" width="537" height="281" alt="box on conveyor belt" />
+<img src="@@PLUGINFILE@@/FBDs_box_up_slope_by_conveyor_belt.png" width="716" height="722" alt="options - FBD of box on conveyor belt" />
+Q-END
+
+lesson_133881-Question 7:
+        <title>Spring force magnitude</title>        <contents><p>A spring is 15 cm long when it is relaxed.  It has a stiffness of 20 N/m.  At some moment it is stretched to a length of 20 cm.  What is the magnitude of the force exerted by the spring?</p></contents>
+            <score>1</score>            <answer_text><p>1 N</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>400 N</p></answer_text>            <response><p>No.  Did you take 20 N/m times 20 cm?  Notice that the units of the result would be N cm/m, not N.  Those are strange units.  Since the stiffness is in N/m you need to work with the spring length in m.</p></response>
+            <score>0</score>            <answer_text><p>4 N</p></answer_text>            <response><p>No.  Did you just take 20 N/m times 0.2 m?  But the spring force is not k times the length.  It is k times the *change* in the length from the spring's relaxed length.</p></response>
+            <score>0</score>            <answer_text><p>-4 N</p></answer_text>            <response><p>The question asks for a magnitude.  Magnitudes are positive by definition.</p></response>
+            <score>0</score>            <answer_text><p>-1 N</p></answer_text>            <response><p>The question asks for a magnitude.  Magnitudes are positive by definition.</p></response>
+            <score>0</score>            <answer_text><p>100 N</p></answer_text>            <response><p>No.  Did you take 20 N/m times 5 cm?  Notice that this gives an answer of 100 N cm/m.  Those are strange units.  Since the stiffness is given in N/m you need to work with the change in spring length in m.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 8:
+        <title>Horizontal acceleration of a Nerf ball.</title>        <contents><p>A 0.05 kg Nerf<sup>TM</sup> ball is moving at 10 m/s at a 60° angle above horizontal as shown.  Some useful information is given below.  What is the size of the horizontal component of the acceleration of the ball?Density of air: ρ = 1.2 kg/m<sup>3</sup>Cross sectional area of ball: A = 0.0080 m<sup>2</sup>Drag coefficient of ball: C<sub>d</sub> = 0.5</p></contents>
+            <score>1</score>            <answer_text><p>2.4 m/s<sup>2</sup></p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>This is projectile motion, so a<sub>x</sub> = 0</p></answer_text>            <response><p>No.  By definition, a projectile is an object for which the only interaction is gravity.  Here there is a drag force, so it is not a projectile.  As the free body diagram shows, the acceleration must not be completely vertical.</p></response>
+            <score>0</score>            <answer_text><p>1.2 m/s<sup>2</sup></p></answer_text>            <response><p>No.  I think you found the  horizontal component of the velocity and then plugged that into the drag force equation in an attempt to get the horizontal component of the drag force.  But the drag force equation explicitly asks for the speed, and it gives the component of the drag force.  So use it to get the component of the drag force, then do the usual trigonometry to get the horizontal component of the drag.</p></response>
+            <score>0</score>            <answer_text><p>4.8 m/s<sup>2</sup></p></answer_text>            <response><p>No.  I think you've used the magnitude of the drag force to find the acceleration.  But we are looking for the horizontal component.</p></response>
+            <score>0</score>            <answer_text><p>9.8 m/s<sup>2</sup></p></answer_text>            <response><p>No.  If this was projectile motion then that would be the magnitude of the *vertical* acceleration.  We are looking for the horizontal acceleration.  In any case, this is not projectile motion.  By definition, a projectile is an object for which the only interaction is gravity.  Here there is a drag force, so it is not a projectile.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/nerf_ball_60degree_angle_withFBD.png" width="466" height="702" alt="Nerf ball and FBD" />
+Q-END
+
+lesson_133881-Question 9:
+        <title>Draw Conclusions about Transition to Sliding</title>        <contents><p>You are pushing on the cabinet and it isn’t moving.  You increase how hard you are pushing, but only by tiny amount.  The cabinet not only starts to slide, it starts to accelerate.  So clearly the sum of forces is to the right now.  What made the sum go from zero to a significant sized vector to the right?</p></contents>
+            <score>1</score>            <answer_text><p>Because the size of the friction force decreased.</p></answer_text>            <response><p>Yes.  The kinetic friction is apparently smaller than the static friction which it replaced.</p></response>
+            <score>0</score>            <answer_text><p>Because the force you are exerting increased.</p></answer_text>            <response><p>No.  The force that you are exerting has barely changed.  That tiny change to the force can't explain the significant change to the acceleration.</p></response>
+            <score>0</score>            <answer_text><p>Because the cabinet started to slide.</p></answer_text>            <response><p>You've got cause and effect reversed.  The cabinet starts to slide *because* it is now accelerating, not the other way around.</p></response>
+            <score>0</score>            <answer_text><p>Because the force you were exerting overcame the friction.</p></answer_text>            <response><p>For years students have been telling me this.  I'm not sure what it means.  What does it mean for one force to "overcome" another?  Both forces are acting on the object.  The motion of the object is affected by the vector sum of the forces.  I'm not sure how any notion of one force "overcoming" another helps us to understand this.The acceleration of the object has changed.  This must be explainable by some changes to the forces acting on the object.  What changes to those forces has caused the change to the acceleration of the filing cabinet?</p></response>
+Image count: 2.
+<img src="@@PLUGINFILE@@/person_pushing_filing_cabinet.png" width="216" height="173" alt="person pushing filing cabinet" />
+<img src="@@PLUGINFILE@@/pushing_filing_cabinet_before_after_start_sliding_FBDs.png" width="620" height="356" alt="FBDs pushing filing cabinet" />
+Q-END
+
+lesson_133881-Question 10:
+        <title>forces on an air puck</title>        <contents><p>I gave an air puck a brief push.  Now (after I finished pushing) the air puck is moving to the right at a constant velocity.  Air drag is negligible.  Which of the diagrams showing forces on the puck is the most correct?</p></contents>
+            <score>1</score>            <answer_text><p>A</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>B</p></answer_text>            <response><p>Am I a Jedi Knight?  Do you think I am able to exert a force on the puck when I am not touching it?  That would be really cool!  Unfortunately, I can't.</p></response>
+            <score>0</score>            <answer_text><p>C</p></answer_text>            <response><p>What would be exerting the friction?  Friction is exerted by solid surfaces.  The whole point of an air puck is that it hovers so that there is no friction.</p></response>
+            <score>0</score>            <answer_text><p>D</p></answer_text>            <response><p>Am I a Jedi Knight?  Do you think I am able to exert a force on the puck when I am not touching it?  That would be really cool!  Unfortunately, I can't.  Also, what would be exerting the friction?  Friction is exerted by solid surfaces.  The whole point of an air puck is that it hovers so that there is no friction.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/forces_on_air_puck_options.png" width="997" height="671" alt="options - forces on an air puck" />
+Q-END
+
+lesson_133881-Question 11:
+        <title>Jump - interaction pairs</title>        <contents><p>You are in the process of jumping.  You are pushing off of the floor during the fraction of a second of "take off".  The floor exerts a force upward on you.  That force exerted by the floor is partnered with another force in an interaction pair.  What is the other force in the pair?</p></contents>
+            <score>1</score>            <answer_text><p>The force that you exert down on the floor.</p></answer_text>            <response><p>Yes.  Just swap agent and target and you find the partner.  This always works for any interaction pair.</p></response>
+            <score>0</score>            <answer_text><p>The downward gravitational force on you. </p></answer_text>            <response><p>No.  That is a force exerted by the Earth.  Also, the two forces in an interaction pair never act on the same object.  So the force we are looking for can't be a force acting on you.</p></response>
+            <score>0</score>            <answer_text><p>Your weight.</p></answer_text>            <response><p>No.  That's just another name for the gravitational force on you.  But the two forces in an interaction pair never act on the same object.  So the force we are looking for can't be a force acting on you.</p></response>
+            <score>0</score>            <answer_text><p>The force of the jump.</p></answer_text>            <response><p>What's that?  What object is exerting this force?  Every force has an agent.  "The jump" can't  be an agent because it isn't a physical object.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 12:
+        <title>Magnitude of static friction</title>        <contents><p>A block is on a horizontal surface. The coefficient of static friction between the block and the surface is 0.6. The block is being pushed horizontally with a force of 10 N.  It does not move.<strong>What is the magnitude of the static friction force?</strong>You will not be allowed to go on until you get this question right.  You will be given hints if you choose incorrect answers.</p></contents>
+            <score>1</score>            <answer_text><p>10 N</p></answer_text>            <response><p>Yes.  The acceleration of the block is zero.  The friction force must be balancing the force by the hand.</p></response>
+            <score>0</score>            <answer_text><p>30 N</p></answer_text>            <response><p>Did you do \( \mu_s mg \)?  The perpendicular force on the block is mg in this case.  But \( \mu_s mg\) does not give the static friction force.  It gives the maximum static friction force.  So we know that the force of static friction must be *less than* 30 N.</p></response>
+            <score>0</score>            <answer_text><p>0.6</p></answer_text>            <response><p>No.  That is the coefficient of static friction.  It is not a force.  It is a dimensionless number which expresses how big the static friction force can be *as a fraction* of the perpendicular force exerted by the same surface.</p></response>
+            <score>0</score>            <answer_text><p>0.6 N</p></answer_text>            <response><p>No.  \( \mu_s = 0.6 \), which is dimensionless, is the coefficient of static friction, not a friction force.   It is a dimensionless number which expresses how big the static friction force can be *as a fraction* of the perpendicular force exerted by the same surface.</p></response>
+            <score>0</score>            <answer_text><p>6 N</p></answer_text>            <response><p>Did you multiply the 10 N force by the hand by the coefficient of static friction?  Note that if this was true then the sum of horizontal components of forces would be 4 N to the right and so the block would accelerate to the right.  But the block is remaining stationary.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/hand_pushing_block_m_F_mus_given.png" width="356" height="290" alt="hand pushing block" />
+Q-END
+
+lesson_133881-Question 13:
+        <title>Cart with two strings.</title>        <contents><p>A 0.5 kg cart is attached to two strings, 1 and 2.  String 1 is exerting a 2 N force to the right on the cart.  The cart is accelerating right at a rate of 1 m/s<sup>2</sup>.  What is the strength of the force exerted by string 2 on the cart?</p></contents>
+            <score>1</score>            <answer_text><p>1.5 N</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>0.5 N</p></answer_text>            <response><p>No.  Did you just do F = ma?  Remember that inertia times acceleration is the *vector sum* of forces.  We are not looking for the vector sum of forces.  We want the force exerted by rope 2.</p></response>
+            <score>0</score>            <answer_text><p>1 N</p></answer_text>            <response><p>No.  Did you reason that a 1 m/s<sup>2</sup> acceleration would be caused by a 1 N force?  But for one thing that would only be true for a 1 kg object, and second of all this isn't the only force acting on the cart.</p></response>
+            <score>0</score>            <answer_text><p>3 N</p></answer_text>            <response><p>No.  Did you combine 2 N with 1 m/s<sup>2</sup> somehow?  They can't be added since they have different units.</p></response>
+            <score>0</score>            <answer_text><p>6 N</p></answer_text>            <response><p>No.  Not sure why you would pick this option,</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/cart_on_surface_with_two_ropes_speeding_up.png" width="1209" height="506" alt="cart with two strings" />
+Q-END
+
+lesson_133881-Question 14:
+        <title>Spring scale in elevator</title>        <contents><p>A spring scale is hanging from the ceiling of an elevator.  A 1.0 kg mass hangs from the scale.  The elevator is accelerating up at 2 m/s<sup>2</sup>.  What is the reading on the scale?</p></contents>
+            <score>1</score>            <answer_text><p>12  N</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>0</p></answer_text>            <response><p>Why would the spring scale exert a force of 0 N on the hanging mass?  If that was true then the only force on the mass would be the gravitational force and it would be in freefall.  But it is accelerating upward with the elevator.</p></response>
+            <score>0</score>            <answer_text><p>8 N</p></answer_text>            <response><p>No.  I think you've made a sign error in your calculation.</p></response>
+            <score>0</score>            <answer_text><p>10 N </p></answer_text>            <response><p>No.  Did you just do mg?  That is the size of the gravitational force acting on the mass.  If the elevator was not accelerating that is what the scale would read.  But the elevator is accelerating.</p></response>
+            <score>0</score>            <answer_text><p>2 N</p></answer_text>            <response><p>No.  Did you just do F = ma?  Remember that the inertia times the acceleration is the *vector sum* of forces.  We are not looking for the vector sum of forces.  We want to find the force exerted by the spring on the mass.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/spring_scale_in_elevator.png" width="194" height="336" alt="spring scale in elevator" />
+Q-END
+
+lesson_133881-Question 15:
+        <title>Forces on cart</title>        <contents><p>You give a low-friction cart a brief push so that it is moving along a level track at approximately constant speed to the right.  Which of the following forces act on the cart after it has left contact with your hand (choose all that apply).</p></contents>
+            <score>1</score>            <answer_text>A downward gravitational force</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>A force due to the track, nearly straight upward</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>A force to the right due to your hand</answer_text>            <response>No.  Your hand is not touching the cart.  It cannot exert a force on the cart (unless you are a Jedi...).</response>
+            <score>0</score>            <answer_text>A force to the right due to the push</answer_text>            <response>No.  Forces are exerted by physical objects.  A push is not a physical object and cannot exert a force.</response>
+            <score>0</score>            <answer_text>The velocity to the right</answer_text>            <response>No.  A velocity is not a force.</response>
+            <score>0</score>            <answer_text>The net force to the right</answer_text>            <response>No.  The net force (which is what I am calling the "vector sum of forces") is the result of adding up all of the forces acting on the object.  It is not a force on the object.  It is something we calculate from all of the forces on the object.</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 16:
+        <title>Getting going running</title>        <contents><p>You are starting from rest and speeding up to the right to start running.  Your feet are not slipping.  Which of the following is the most correct free body diagram for you during this process?  More than one may be correct, but only select one answer.  Some answers that use notation you might be familiar with from a previous physics course may be correct;  don't assume that anything not using "my" notation is wrong.  However, you can assume that at least one option using "my" notation is correct.  For forces using "my" notation, assume the following meanings of letters in subscripts for agents and targets:y = you<br />g = ground<br />E = Earth<br />v = velocity<br />a = applied force</p></contents>
+            <score>1</score>            <answer_text>C</answer_text>            <response>Yes</response>
+            <score>1</score>            <answer_text>D</answer_text>            <response>Yes</response>
+            <score>1</score>            <answer_text>E</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>A</answer_text>            <response>No.  This is wrong for several reasons.  First of all, your feet are not slipping, so there should not be a kinetic friction.  Second of all, what is the agent of the force labelled \( \vec{F}^c_{ay}?</response>
+            <score>0</score>            <answer_text>B</answer_text>            <response>No.  This is wrong for several reasons.  First of all, your feet are not slipping, so there should not be a kinetic friction.  Second of all, what is the agent of the force labelled \( \vec{F}_{app}?</response>
+            <score>0</score>            <answer_text>F</answer_text>            <response>No.  This is wrong for several reasons.  First of all, your feet are not slipping, so there should not be a kinetic friction.  Second of all, what is the agent of the force labelled \( \vec{F}^c_{vy}?</response>
+            <score>0</score>            <answer_text>G</answer_text>            <response>No.  This is wrong for several reasons.  First of all, it has a force on it that is apparently exerted by you on the ground.  But every force on an FBD of you should be a force acting *on* you, not forces exerted *by* you.  Secondly, what is the agent of the force labelled \( \vec{F}^c_{ay}?</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/all_seven.png" width="900" height="554" alt="FBDs - lots" />
+Q-END
+
+lesson_133881-Question 17:
+        <title>Elevator speeding up</title>        <contents><p>You are in an elevator that is going up while speeding up.  Only two forces act on you:\({\vec{F}}^G_{Ey}\)\({\vec{F}}^c_{fy}\)(assume y = you, E = Earth, f = floor).  Compare the magnitudes of these two forces.</p></contents>
+            <score>1</score>            <answer_text>$$F^c_{fy} > F^G_{Ey} $$</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>$$F^c_{fy} = F^G_{Ey} $$</answer_text>            <response>No.  If this was true then your acceleration would be zero because the vector sum of forces on you would be zero.  But you are accelerating up.</response>
+            <score>0</score>            <answer_text>$$F^c_{fy} < F^G_{Ey} $$</answer_text>            <response>No.  If this was true then your acceleration would point downwards because the vector sum of forces on you would point downwards.  But you are going up while speeding up so your acceleration must be accelerating upwards.</response>
+            <score>0</score>            <answer_text>We don't have enough information</answer_text>            <response>We do have enough information.</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 18:
+        <title>Rock thrown upward</title>        <contents><p>You throw a rock straight upward.  After it has left your hand, while it is still on its way up which of the following forces act on the rock? (select all that apply)</p></contents>
+            <score>1</score>            <answer_text>A downward gravitational force due to the Earth</answer_text>            <response>Yes.</response>
+            <score>0</score>            <answer_text>An upward force due to the throw</answer_text>            <response>No.  All forces result from interactions between objects.  "A throw" is not an object and cannot exert a force.</response>
+            <score>0</score>            <answer_text>An upward normal force</answer_text>            <response>No.  Did I ever mention normal forces in this lecture.  Forget about them.  What is the ball touching?  Think of what contact forces act upon it, if any.</response>
+            <score>0</score>            <answer_text>An upward force due to your hand</answer_text>            <response>No.  Your hand isn't touching the ball and so it can't exert a force on the ball (unless you are a Jedi...).</response>
+            <score>0</score>            <answer_text>The velocity upwards</answer_text>            <response>No.  A velocity is not a force.</response>
+            <score>0</score>            <answer_text>The net force downwards</answer_text>            <response>No.  The net force (which I am calling "vector sum of forces") is just all of the forces acting on the object added up.  It isn't itself a force on the object.  It is something we calculate from all of the forces acting on the object.</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 19:
+        <title>Runaway sled</title>        <contents><p>As shown, your sled has gotten away from you and is sliding down the hill without you.  It is slowing down.  Which of the following is the most correct free body diagram for the sled during this process?  More than one may be correct, but only select one answer.  Some answers that use notation you might be familiar with from a previous physics course may be correct;  don't assume that anything not using "my" notation is wrong.  However, you can assume that at least one option using "my" notation is correct.  For forces using "my" notation, assume the following meanings of letters in subscripts for agents and targets:s = sled<br />g = ground<br />E = Earth<br />v = velocity<br />a = applied force</p></contents>
+            <score>1</score>            <answer_text>A</answer_text>            <response>Yes</response>
+            <score>1</score>            <answer_text>B</answer_text>            <response>Yes</response>
+            <score>1</score>            <answer_text>G</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>C</answer_text>            <response>No.  The sled is slowing down.  It's acceleration vector should point opposite to the direction it is travelling.  Also, what is the agent of the force labelled \( \vec{F}^c_{as}\)?</response>
+            <score>0</score>            <answer_text>D</answer_text>            <response>No.  The sled is slowing down.  It's acceleration vector should point opposite to the direction it is travelling.  Also, what is the agent of the force labelled \( \vec{F}_{app}\)?</response>
+            <score>0</score>            <answer_text>E</answer_text>            <response>No.  The force labelled \( \vec{F}^\bot_{gs}\) is a perpendicular force.  It should be perpendicular to the surface exerting it.  Also, what is the agent of the force labelled \( \vec{F}^c_{vs}\)?</response>
+            <score>0</score>            <answer_text>F</answer_text>            <response>No.  This is wrong for several reasons.  First of all, it has a force on it that is apparently exerted by the sled on the ground.  But every force on an FBD of the sled should be a force acting *on* the sled, not forces exerted *by* the sled.  Secondly, what is the agent of the force labelled \( \vec{F}^c_{as}?  Thirdly, the sled is slowing down so its acceleration vector should point opposite to the direction it is going.</response>
+Image count: 2.
+<img src="@@PLUGINFILE@@/sled_going_down_hill.png" width="300" height="142" alt="sled" />
+<img src="@@PLUGINFILE@@/all_seven.png" width="900" height="552" alt="FBDs lots" />
+Q-END
+
+lesson_133881-Question 20:
+        <title>Walking</title>        <contents><p>You are walking to the right.  What direction does the vector sum of forces on you point?</p></contents>
+            <score>1</score>            <answer_text>We don't have enough information</answer_text>            <response>Correct.  We do not know your acceleration.  Are you speeding up to the right?  Slowing down?  Moving at constant speed to the right?</response>
+            <score>0</score>            <answer_text>To the right</answer_text>            <response>No.  The vector sum of forces does not point in the direction of an object's motion.  It points in the direction that the object is accelerating.</response>
+            <score>0</score>            <answer_text>To the left</answer_text>            <response>No.  How do can we determine the direction of the vector sum of forces?  What does it equal?</response>
+            <score>0</score>            <answer_text>The vector sum of forces is zero</answer_text>            <response>No.  How do can we determine the direction of the vector sum of forces?  What does it equal?</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 21:
+        <title>Impulse on two colliding balls</title>        <contents><p>Two balls collide.  They are an isolated system.  The inertia of ball A is twice the inertia of ball B.  Each ball imparts an impulse on the other during the collision.  Compare the magnitudes of the impulses:\(J_{AB}\) = the impulse that A imparts on B\(J_{BA}\) = the impulse that B imparts on A</p></contents>
+            <score>1</score>            <answer_text>$$J_{AB} = J_{BA}$$</answer_text>            <response>Yes, because momentum is conserved so the changes of momentum of the two balls have the same magnitudes.</response>
+            <score>0</score>            <answer_text>$$J_{AB} > J_{BA}$$</answer_text>            <response>No.  Remember that the impulse is equal to the change in momentum.  What do we know about the changes of momentum of these two balls during the collision?</response>
+            <score>0</score>            <answer_text>$$J_{AB} < J_{BA}$$</answer_text>            <response>No.  Remember that the impulse is equal to the change in momentum.  What do we know about the changes of momentum of these two balls during the collision?</response>
+            <score>0</score>            <answer_text>$$J_{AB} = -J_{BA}$$</answer_text>            <response>No, but you are so close that you can have another shot at this question.  You have forgotten or not noticed that the question is asking about *magnitudes* of the impulses, and magnitudes are positive by definition.</response>
+Image count: 0.
+Q-END
+
+lesson_133881-Question 22:
+        <title>Compare two impulses</title>        <contents><p>Two objects, A and B, are restricted to move along the x-axis.  They are each subjected to time varying forces with x-components shown in the graph.Which object experiences the larger change to its momentum?</p></contents>
+            <score>1</score>            <answer_text>A</answer_text>            <response>Yes</response>
+            <score>0</score>            <answer_text>B</answer_text>            <response>No compare the areas under the two graphs.</response>
+            <score>0</score>            <answer_text>Their momentums change by the same amount</answer_text>            <response>No compare the areas under the two graphs.</response>
+            <score>0</score>            <answer_text>We need to know the inertias of the objects</answer_text>            <response>No.  We would need the inertias if we wanted to know the objects' changes in velocity.  But change in momentum is *directly* related to impulse so we have all of the information we need.</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/F_vs_t_triangle_vs_steps.png" width="363" height="208" alt="F vs. t" />
+Q-END
+
+lesson_133881-Question 23:
+        <title>Pushing a box</title>        <contents><p>You are pushing a box at a constant \( \vec{v} = 1\hat{i}\) m/s.  The box has inertia, m = 30 kg.What is the rate of change of momentum of the box?If you answer incorrectly you will be given a hint and asked again.</p></contents>
+            <score>1</score>            <answer_text>0</answer_text>            <response>Yes.  The box is moving with constant velocity so its momentum is not changing.</response>
+            <score>0</score>            <answer_text>30 kg m/s</answer_text>            <response>No.  That is the momentum of the box, not its *rate of change* in momentum.  Look at the units.</response>
+            <score>0</score>            <answer_text>\( 30 \textrm{kg m/s}^2\)</answer_text>            <response>That has the correct units for a rate of change of momentum.  The rate of change of momentum must be a *change* in momentum divided by a change in time.  What is the change in the box's momentum during the process described?</response>
+            <score>0</score>            <answer_text>\(-30 \textrm{kg m/s}^2\)</answer_text>            <response>That has the correct units for a rate of change of momentum.  The rate of change of momentum must be a *change* in momentum divided by a change in time.  What is the change in the box's momentum during the process described?</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/person_pushing_box.png" width="248" height="128" alt="person pushing box" />
+Q-END
+

@@ -1,0 +1,190 @@
+lesson_133648-Question 1:
+        <title>Conservation of Mass</title>        <contents><p>Water is boiling in a kettle.  The room that the kettle is in has no windows and the door is closed.  To a good approximation, which of the following quantities is conserved?</p></contents>
+            <score>1</score>            <answer_text><p>The total amount of water (liquid in kettle + vapour in room)</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>The amount of water in the kettle</p></answer_text>            <response><p>No.  As the water boils it evapourates and steam leaves the kettle.  We expect the amount of water in the kettle to be decreasing.</p></response>
+            <score>0</score>            <answer_text><p>The amount of water vapour in the room</p></answer_text>            <response><p>No.  As steam leaves the kettle the amount of water vapour in the room should increase.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 2:
+        <title>Interpret mean, std. dev., SDOM</title>        <contents><p>150 ppm<br />150 ppm<br />175 ppm<br />250 ppm<br />275 ppmFrom the set of concentrations above we get the following statistics:mean = 200 ppm<br />std. dev. ≃ 60 ppm<br />SDOM ≃ 30 ppmWhich statement is true?</p></contents>
+            <score>1</score>            <answer_text><p>The uncertainty in the best estimate is 30 ppm</p></answer_text>            <response><p>Yes, the SDOM is the uncertainty in the best estimate.</p></response>
+            <score>0</score>            <answer_text><p>The uncertainty in each individual measurement is 30 ppm</p></answer_text>            <response><p>No.  The uncertainty in each measurement would be the standard deviation, not the SDOM.</p></response>
+            <score>0</score>            <answer_text><p>The uncertainty in each individual measurement is 200 ppm</p></answer_text>            <response><p>No.  Does that make sense?  200 ppm is the "middle" of the data set.  That is where we expect the best estimate to be, so the mean is the best estimate.  The uncertainty should have to do with how "scattered" the data set is, which is not what the mean tells us.</p></response>
+            <score>0</score>            <answer_text><p>The uncertainty in the best estimate is 60 ppm</p></answer_text>            <response><p>No.  60 ppm is the standard deviation, which is our estimate in the uncertainty in each individual measurement, not the uncertainty in the best estimate.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 3:
+        <title>which equation is dimensionally correct?  get t</title>        <contents><p>Working with standard symbols (x for positions, v for velocities, a for accelerations, t for times) which of the following equations is dimensionally correct?</p></contents>
+            <score>1</score>            <answer_text>$$t = \sqrt{\frac{2 \Delta x}{a}}$$</answer_text>            <response>Yes.  We get m/(m/s^2) = s^2 under the square root sign, which gives s.</response>
+            <score>0</score>            <answer_text>$$t = \sqrt{\frac{\Delta v}{a}}$$</answer_text>            <response>No.  The right, side of this equation has units of  $$\sqrt{s}$$ but we want it to have units of s.</response>
+            <score>0</score>            <answer_text>$$t = \frac{2 \Delta x}{a}$$</answer_text>            <response>No.  The right side of that equation has units of s^2, but we want it to have units of s.</response>
+            <score>0</score>            <answer_text>$$t = \frac{\Delta v}{x}$$</answer_text>            <response>No.  The right side of that equation has units of s^-1, but we want it to have units of s.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 4:
+        <title>Write measurement with correct sig. figs.</title>        <contents><p>We have made 16 measurements of the acceleration due to gravity (g).  The mean of our measurements is 9.761734 m/s<sup>2</sup>.  The standard deviation of the measurements is 0.1843295 m/s<sup>2</sup>.Which of the following is the correct way to write our final experimental value for g?</p></contents>
+            <score>1</score>            <answer_text>$$9.76 \pm 0.05 \, \textrm{m/s}^2$$</answer_text>            <response>Yes, you've correctly used the SDOM as the uncertainty and you have rounded correctly.</response>
+            <score>0</score>            <answer_text>$$9.761734 \pm 0.1843295 \, \textrm{m/s}^2$$</answer_text>            <response>There are two problems with this answer.  One is that you've used the standard deviation as the uncertainty in the mean.  But you should use the SDOM (it wasn't given but you can easily calculate it).  The second problem is that you are not correctly applying the significant figures rules.</response>
+            <score>0</score>            <answer_text>$$9.8 \pm 0.2\, \textrm{m/s}^2$$</answer_text>            <response>You are rounding correctly.  But you have used the standard deviation as the uncertainty when you should be using the SDOM.  The SDOM wasn't given but you can easily calculate it.</response>
+            <score>0</score>            <answer_text>$$9.761734 \pm 0.0460823 \, \textrm{m/s}^2$$</answer_text>            <response>You have (correctly) used the SDOM as the uncertainty.  But you haven't applied the rules for significant figures correctly.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 5:
+        <title>Identify this vector</title>        <contents><p>Consider the vector in this diagram:Which of the following is a correct way to write this vector?</p></contents>
+            <score>1</score>            <answer_text>$$ 3\hat{i} -7 \hat{j}$$</answer_text>            <response>Yes.</response>
+            <score>0</score>            <answer_text>$$ 4\hat{i} - \hat{j} $$</answer_text>            <response>No.  That is a vector pointing from the origin to the tip of this vector.  That is not what we mean by the vector itself.  The components of a vector give information about how far the vector "carries you" in a direction parallel to each axis.</response>
+            <score>0</score>            <answer_text>$$(4,1)$$</answer_text>            <response>No, that is the position of the tip of the vector.  But remember that if we move a vector this doesn't change its value.  So writing down a vector has nothing to do with where its tip is.</response>
+            <score>1</score>            <answer_text>$$ (3,-7) $$</answer_text>            <response>Yes.  We will generally use the notation \( 3\hat{i} -7\hat{j} \) in this course.  But there is nothing wrong with writing it as \( (3,-7) \).</response>
+            <score>0</score>            <answer_text>$$3\hat{i} + 7\hat{j} $$</answer_text>            <response>Almost.  But the positive y-axis points up and walking this vector from tail to tip carries you downward.</response>
+            <score>0</score>            <answer_text>$$(1,4) $$</answer_text>            <response>No,the position of the tip of the vector is (4,1), which might be what you were looking at, except that in that case you reversed the x and y.  But the position of the tip of the vector is not the same thing as the vector.  Remember that if we move a vector this doesn't change its value.  So writing down a vector has nothing to do with where its tip is.</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/vec3_neg7_on_axes.png" width="328" height="342" alt="A vector, on a grid" />
+Q-END
+
+lesson_133648-Question 6:
+        <title>give mag. dir. form</title>        <contents><p>Get some practise.  Here is a vector and a coordinate system with a grid.What are the magnitude and direction of this vector?</p></contents>
+            <score>1</score>            <answer_text><p>magnitude = 8.94 m<br />direction = \(63.4^\circ\)</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 12 m<br />direction = \(63.4^\circ\)</p></answer_text>            <response><p>No.  You've forgotten how to use Pythagoras' Theorem to find the length of the hypotenuse of a triangle.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 10 m<br />direction = \(53.1^\circ\)</p></answer_text>            <response><p>No, you are looking at where the end of the vector is (6,8) instead of looking at what the components of the vector are.  So you have used an x-component of this vector of 6.  However, the x-component of this vector is 4.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 8.94 m<br />direction = \(1.1^\circ\)</p></answer_text>            <response><p>No.  Look at your calculator.  Is it in radian mode?</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/vec_4_8_on_axes_with_scales_on_axes.png" width="346" height="388" alt="picture of vector" />
+Q-END
+
+lesson_133648-Question 7:
+        <title>Which is 3a - 2b?</title>        <contents><p>Given the vectors, \(\vec{a} \), and, \( \vec{b} \), below, which of the following is the best representation of \( 3\vec{a} - 2\vec{b} \)?Note: If you answer incorrectly you will be given a hint and asked the question again.  The question will not let you go on to the next video until you get it right.</p></contents>
+            <score>1</score>            <answer_text>e</answer_text>            <response>Yes.</response>
+            <score>0</score>            <answer_text>d</answer_text>            <response>No.  That is \( 3\vec{a} + 2\vec{b} \).</response>
+            <score>0</score>            <answer_text>c</answer_text>            <response>No.  That is \( \vec{a} - \vec{b} \) (and it is also a confusing way to draw it).</response>
+            <score>0</score>            <answer_text>b</answer_text>            <response>No.  The vectors which there are two of are not a correct representation of \( - \vec{b} \).  It should be "flipped end for end" compared to \( \vec{b} \), but instead it has been reflected horizontally.</response>
+            <score>0</score>            <answer_text>a</answer_text>            <response>No.  The vectors which there are two of are not a correct representation of \( - \vec{b} \).  It should be "flipped end for end" compared to \( \vec{b} \), but instead it has been reflected vertically.</response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/which_is_3A-2B.png" width="750" height="518" alt="five possibilities for 3a-2b" />
+Q-END
+
+lesson_133648-Question 8:
+        <title>add numbers with sig. fig. rule 2</title>        <contents><p>Which of the answers below to the addition142.16 kg + 3.743 kgis written with the correct number of significant figures?</p></contents>
+            <score>1</score>            <answer_text>145.90 kg</answer_text>            <response>Yes.  142.16 has two digits after the decimal whereas 3.743 has three digits after the decimal.  So in this case the sig. fig. rule for addition says we should round the answer to two digits after the decimal.</response>
+            <score>0</score>            <answer_text>145.903 kg</answer_text>            <response>No.  We don't know the 3rd digit after the decimal place in 142.16 kg, so we can't know the 3rd digit after the decimal in the answer.</response>
+            <score>0</score>            <answer_text>145.9 kg</answer_text>            <response>No.  It is likely that either you are dropping the final "0" because you've been taught you "always can" or you are mixed up with the sig. fig. rule for multiplication.  But in writing measurements we write all digits that we know, even if they are zero.  The sig. fig. rule for addition tells us that we do know the 2nd digit after the decimal place, so we should write it, even though it is zero.</response>
+            <score>0</score>            <answer_text>146 kg</answer_text>            <response>Why are you rounding to only three digits?  This isn't consistent with any of the rules for sig. figs.</response>
+            <score>0</score>            <answer_text>145.900 kg</answer_text>            <response>No.  We don't know the 3rd digit after the decimal place in 142.16 kg, so we can't know the 3rd digit after the decimal in the answer.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 9:
+        <title>Best Estimate</title>        <contents><p>In an experiment, a scientist measures the concentration of contaminant in a sample 5 times. They obtain the set of measurements below.150 ppm<br />150 ppm<br />175 ppm<br />250 ppm<br />275 ppmWhat is the best estimate for the true value of the concentration of the contaminant?</p></contents>
+            <score>1</score>            <answer_text><p>200 ppm</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>150 ppm</p></answer_text>            <response><p>No.  Did you choose it because it is the most common number in the list?  That is called the "mode" of the data.  But the best estimate is not the mode, it is the mean.</p></response>
+            <score>0</score>            <answer_text><p>175 ppm</p></answer_text>            <response><p>No.  Did you choose this because it is the "middle" value in the list?  That is the median.  But the best estimate is not the median, it is the mean.</p></response>
+            <score>0</score>            <answer_text><p>1000 ppm</p></answer_text>            <response><p>Does that make sense?  The measurements are all between 150 and 275 ppm.  So why would 1000 be the most likely value for the true value?  I think you started to take the mean, but then forgot to divide by the number of data points.</p></response>
+            <score>0</score>            <answer_text><p>No estimate can be obtained.  There is too much variation in the result.</p></answer_text>            <response><p>No.  When there is a lot of variation in the result it *may* indicate that the measurement process is not very reliable.  As we will see, this would result in the uncertainty being high.  But we can still obtain a best estimate.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 10:
+        <title>Choose 2A + 4B (algebraic)</title>        <contents><p>Suppose that\( \vec{a} = 3 \hat{i} \) and \( \vec{b} = - 2 \hat{j} \)Which of the following is \( 2\vec{a} + 4 \vec{b} \) ?</p></contents>
+            <score>1</score>            <answer_text><p>$$6\hat{i} - 8 \hat{j}$$</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>$$6\hat{i} + 8 \hat{j}$$</p></answer_text>            <response><p>Did you drop a minus sign?</p></response>
+            <score>0</score>            <answer_text><p>$$10$$</p></answer_text>            <response><p>No.  That is the magnitude of \( 2\vec{a} + 4 \vec{b} \).  I didn't ask for the magnitude.  So the answer should be a vector.</p></response>
+            <score>0</score>            <answer_text><p>$$-2$$</p></answer_text>            <response><p>No.  You have done a scalar addition of the (signed) sizes of the two vectors.  That's not how vector addition works.</p></response>
+            <score>0</score>            <answer_text><p>$$-2 \hat{i}$$</p></answer_text>            <response><p>No.  Did you not notice that one of the vectors points along the x-axis and the other points along the y-axis?</p></response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 11:
+        <title>Units for pressure</title>        <contents><p>This question is just about unit analysis, so don't worry that some of the quantities we are using are unfamiliar.You will encounter pressure in other courses, especially if you are in certain of the technology programs where you will take some fluids courses.  Here is one equation which gives a pressure (this is pressure within a stationary fluid)\(\Delta P = \rho g h \)where ΔP is a pressure change, ρ is a density (in kg/m<sup>3</sup>), g is an acceleration and h is a height (distance).  From this, determine the correct units of pressure in terms of base SI units.</p></contents>
+            <score>1</score>            <answer_text>\(\frac{kg}{m \cdot s^2}\)</answer_text>            <response>Yes.  We have $$\frac{kg}{m^3} \frac{m}{s^2} s = \frac{kg}{m \cdot s^2$$</response>
+            <score>0</score>            <answer_text>$$Pa$$</answer_text>            <response>Yes, but that isn't in terms of base SI units.  I suspect you either just knew that pressures are measured in Pa, or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <score>0</score>            <answer_text>$$\frac{N}{m^2}$$</answer_text>            <response>Yes, but that isn't in terms of base SI units.  I suspect you either just knew that pressures are measured in N/m<sup>2</sup>, or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <score>0</score>            <answer_text>$$psi$$</answer_text>            <response>Yuck!  That isn't even metric.  We are in an advanced nation that uses SI, not a primitive backwater (like a certain neighbour to the south) which still clings to antiquated units.  Anyway, you couldn't have got that from the information given, so either you just knew that psi are a unit of pressure or you googled the answer.  If you googled it I'd just like to point out that you aren't helping your own learning by trying to look up answers to things that you are supposed to find yourself.</response>
+            <score>0</score>            <answer_text>$$\frac{kg \cdot m}{s^2}$$</answer_text>            <response>No.  Those are units of a force.  Did you incorrectly cancel some of the meters?</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 12:
+        <title>Timing friend running around track</title>        <contents><p>Your friend runs once around a track.  You use a stopwatch to time them.  The stopwatch can be read to the nearest 0.01 s.  So, naively, the uncertainty in the timing is ± 0.005 s.  Do you believe that your measurement of their lap time is this precise?<strong>Note:</strong> if you get the question wrong you will be given feedback and allowed to try again.  The question will not let you go on to the next part of the video until you answer correctly.</p></contents>
+            <score>1</score>            <answer_text>No.  Other factors such as your reflexes will result in a larger uncertainty.</answer_text>            <response>Yes.  Typical human reflexes would introduce an uncertainty into this timing of the order of a few tenths of a second.  There are also issues of exactly how you judge when they passed the finish line (i.e. what part of their body crossing the line should trigger you to hit "stop" on the stopwatch?).</response>
+            <score>0</score>            <answer_text>Yes, as long as you were careful doing the timing.</answer_text>            <response>No.  In fact, we always assume that every measurement is done carefully.  If you do a measurement and realize that you were not careful enough you shouldn't record the result - you should discard it.  So the amount of caution has little to do with the precision.  The precision is determined by the measurement process, and the tools used.</response>
+            <score>0</score>            <answer_text>No.  It is possible that you've made a mistake such as misreading the stopwatch.</answer_text>            <response>No.  This is why we normally do measurements multiple times.  Measurements that involved mistakes usually "stick out like a sore thumb" compared to the others and we discard them.  The precision of a measurement has nothing to do with whether the person doing the measurement made a mistake.  It is inherent to the measurement process, even if everything was done correctly.</response>
+            <score>0</score>            <answer_text>No.  The timing should be absolutely precise.</answer_text>            <response>No.  There is no such thing as an absolutely precise measurement.  It is inherent to all measurement processes that they have limited precision.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 13:
+        <title>Which equation is dimensionally correct?</title>        <contents><p>Using the usual symbols (x for positions, v for velocities, a for accelerations, t for times) which equation below is dimensionally correct?</p></contents>
+            <score>1</score>            <answer_text>$$a = \frac{{v_f}^2}{2\Delta x}$$</answer_text>            <response>Yes.  That gives (m/s)^2/s = m/s^2</response>
+            <score>0</score>            <answer_text>$$a = \frac{{v_f}^2}{2\Delta t}$$</answer_text>            <response>No.  That gives a right hand side of m^2/s^3 which is not correct units for an acceleration.</response>
+            <score>0</score>            <answer_text>$$a = \frac{v_f}{2\Delta t^2}$$</answer_text>            <response>No.  The right side of the equation has units of m/s^3 which are not correct units for an acceleration.</response>
+            <score>0</score>            <answer_text>$$a = \frac{{v_f}^2}{2\Delta x^2}$$</answer_text>            <response>No.  The right side of the equation has units of 1/s^2 which is not correct units for an acceleration.</response>
+            <score>0</score>            <answer_text>$$a = 2 {v_f}^2 \Delta x$$</answer_text>            <response>No.  The right side of the equation has units of m^3/s^2, which is not correct for an acceleration.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 14:
+        <title>Add numbers with sig. fig. rules. 1</title>        <contents><p>Which of the answers below to the addition1.234 m + 0.0179 mis written using correct significant figures?</p></contents>
+            <score>1</score>            <answer_text><p>1.252 m</p></answer_text>            <response>Yes.  1.234 has 3 digits after the decimal and 0.0179 has 4.  In this case the sig. fig. rule for addition says we round to 3 digits after the decimal.</response>
+            <score>0</score>            <answer_text>1.2519 m</answer_text>            <response>No.  We don't know the 4th digit after the decimal place for 1.234 m.  So we don't know the 4th digit after the decimal place for the answer.</response>
+            <score>0</score>            <answer_text>1.25 m</answer_text>            <response>Have you mixed the rule up with the rule for multiplication?  You have rounded to the number of sig. figs. of the number with fewer sig. figs.  But the addition rule has to do with digits after the decimal place, not sig. figs.</response>
+            <score>0</score>            <answer_text>1.3 m</answer_text>            <response>No.  Why have you rounded to just 2 significant figures?  This isn't what any of the sig. fig. rules say to do.</response>
+            <score>0</score>            <answer_text>1.2520 m</answer_text>            <response>No.  We don't know the 4th digit after the decimal place of 1.234 m.  So we don't know the 4th digit after the decimal place in the answer.  We would only write the answer you chose if we knew that the 4th digit after the decimal place was a zero.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 15:
+        <title>Choose correct 3A-2B (algebraic)</title>        <contents><p>Suppose we have the two vectors:\( \vec{a} = -4\hat{i} \)\( \vec{b} = 2\hat{i} \)Suppose also that the vector \( \vec{c} \) is \( \vec{c} = 3 \vec{a} - 2\vec{b} \)Which of the following is the correct value for \( \vec{c} \)?</p></contents>
+            <score>1</score>            <answer_text><p>$$\vec{c} = -16\hat{i}$$</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>$$ \vec{c} = -16 $$</p></answer_text>            <response><p>No.  The answer you chose is a lot like saying "aardvark = red".  The left side, \( \vec{c} \), is a vector, but the right side, \( -16 \), is a scalar.  A vector cannot equal a scalar.</p></response>
+            <score>0</score>            <answer_text><p>$$ \vec{c} =  8 \hat{i} $$</p></answer_text>            <response><p>No.  I think you might have dropped a negative somewhere in your calculation.</p></response>
+            <score>0</score>            <answer_text><p>$$ \vec{c} = 8 $$</p></answer_text>            <response><p>No.  The answer you chose is a lot like saying "aardvark = red".  The left side, \( \vec{c} \), is a vector, but the right side, \( -16 \), is a scalar.  A vector cannot equal a scalar.</p></response>
+            <score>0</score>            <answer_text><p>$$ \vec{c} = -12 \hat{i} -4 \hat{j} $$</p></answer_text>            <response><p>No.  Notice that both vectors are parallel to the x-axis (we can tell this because they have no y-components).  So the answer must also be parallel to the x-axis.</p></response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 16:
+        <title>give components of vector</title>        <contents><p>Get some practise.  Here is a vector and a coordinate system.  Express the vector in component form.</p></contents>
+            <score>1</score>            <answer_text><p>$$-3.5\hat{i} + 6.06\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>$$-6.06\hat{i} + 3.5\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>No.  Did you draw the triangle?  Look at the side which corresponds to the x-component.  Is it the opposite or the adjacent side to the 30 degree angle?</p></response>
+            <score>0</score>            <answer_text><p>$$3.5\hat{i} + 6.06\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>Look at the vector and the axes.  Decide what the signs of the components are before you reach for your calculator.</p></response>
+            <score>0</score>            <answer_text><p>$$-3.5\hat{i} - 6.06\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>No.  Did you decide that both components of the vector are negative because the tail of the vector is in the 3rd quadrant?  But remember that you can "slide a vector around" without changing it.  The location of the tail of the vector is irrelevant.</p></response>
+            <score>0</score>            <answer_text><p>$$-6.92\hat{i} + 1.08\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>Look at the vector.  It is drawn at roughly the angle claimed.  Which should be larger, the x-component or the y-component.  Now look at your calculator.  I think you will find that it is in radian mode.</p></response>
+            <score>0</score>            <answer_text><p>$$-6.92\hat{i} - 1.08\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>Look at the vector.  It is drawn at roughly the angle claimed.  Which should be larger, the x-component or the y-component.  Now look at your calculator.  I think you will find that it is in radian mode.</p></response>
+            <score>0</score>            <answer_text><p>$$-1.08\hat{i} + 6.92\hat{j}, \, \textrm{N}$$</p></answer_text>            <response><p>Look at your calculator.  I think you will find that it is in radian mode.  Also, I think you are mixing up the two components.  Draw the triangle before trying to do the trig.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/Vector_on_axes_mag_angle_fromvert_given_2nd_quadrant.png" width="310" height="205" alt="picture of vector" />
+Q-END
+
+lesson_133648-Question 17:
+        <title>Write measurement with correct sig. figs. 2</title>        <contents><p>We are doing an experiment in which a metal ball is shot out of a launcher and later collides with a pendulum (this is called a "ballistic pendulum experiment").  We have measured the speed of the ball leaving the launcher 9 times and have found a mean speed of 6.8137104 m/s with a standard deviation of 0.590137 m/s.Which of the following is the correct way to write the experimentally determined speed of the ball as it leaves the launcher?</p></contents>
+            <score>1</score>            <answer_text>$$6.8 \pm 0.2 \, \textrm{m/s}$$</answer_text>            <response>Yes.  You have used the SDOM as the uncertainty and you have rounded correctly.</response>
+            <score>0</score>            <answer_text>$$6.8137104 \pm 0.590137 \, \textrm{m/s}$$</answer_text>            <response>There are two problems with this answer.  One is that you've used the standard deviation as the uncertainty in the mean.  But you should use the SDOM (it wasn't given but you can easily calculate it).  The second problem is that you are not correctly applying the significant figures rules.</response>
+            <score>0</score>            <answer_text>$$6.8 \pm 0.6 \, \textrm{m/s}$$</answer_text>            <response>You are rounding correctly.  But you have used the standard deviation as the uncertainty when you should be using the SDOM.  The SDOM wasn't given but you can easily calculate it.</response>
+            <score>0</score>            <answer_text>$$6.8137104 \pm 0.1967123 \, \textrm{m/s}$$</answer_text>            <response>You have (correctly) used the SDOM as the uncertainty.  But you haven't applied the rules for significant figures correctly.</response>
+Image count: 0.
+Q-END
+
+lesson_133648-Question 18:
+        <title>give mag. dir. form - 2</title>        <contents><p>Get some practise.  Here is a vector and a coordinate system with a grid. What are the magnitude and direction of this vector?</p></contents>
+            <score>1</score>            <answer_text><p>magnitude = 7.62<br />direction = \(-66.8^\circ\)</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 7.62<br />direction = \(66.8^\circ\)</p></answer_text>            <response><p>Almost.  But by convention an angle clockwise from the x-axis should be negative.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 10<br />direction = \(-66.8^\circ\)</p></answer_text>            <response><p>No.  You've forgotten how to use Pythagoras' Theorem to find the length of the hypotenuse of a triangle.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 4.12<br />direction = \(14.0^\circ\)</p></answer_text>            <response><p>No.  You are looking at the location of the tip of the vector instead of looking at its components.  So you have used (4,1) as the coordinates of the vector.</p></response>
+            <score>0</score>            <answer_text><p>magnitude = 7.62<br />direction = \(-1.17^\circ\)</p></answer_text>            <response><p>No.  Look at your calculator.  Is it in radian mode?</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/vec3_neg7_on_axes.png" width="328" height="342" alt="picture of vector" />
+Q-END
+
+lesson_133648-Question 19:
+        <title>Changes in Level of Lake Mead</title>        <contents><p>Here are the water levels in Lake Mead at three times.June 1969: h = 1141.79 feet<br />June 1999: h = 1206.40 feet<br />June 2019: h = 1084.71 feetDefine \( \Delta h_1\) as the change in water level from 1969 to 1999. Define \(\Delta h_2\) as the change from 1999 to 2019. What are the values of \( \Delta h_1 \) and \( \Delta h_2 \)?</p></contents>
+            <score>1</score>            <answer_text><p>\( \Delta h_1 \) = 64.61 feet, \( \Delta h_2 \) = -121.69 feet</p></answer_text>            <response><p>Yes.</p></response>
+            <score>0</score>            <answer_text><p>\( \Delta h_1 \) = 64.61 feet, \( \Delta h_2 \) = 121.69 feet</p></answer_text>            <response><p>Look at the signs.  Remember that a change is a final value minus an initial value.</p></response>
+            <score>0</score>            <answer_text><p>\( \Delta h_1 \) = -64.61 feet, \( \Delta h_2 \) = -121.69 feet</p></answer_text>            <response><p>Look at the signs.  Remember that a change is a final value minus an initial value.</p></response>
+            <score>0</score>            <answer_text><p>\( \Delta h_1 \) = -64.61 feet, \( \Delta h_2 \) = +121.69 feet</p></answer_text>            <response><p>Look at the signs.  Remember that a change is a final value minus an initial value.</p></response>
+Image count: 1.
+<img src="@@PLUGINFILE@@/lake_mead_water_levels.v2_744.jpg" width="600" height="398" alt="lake mead water levels" />
+Q-END
+
