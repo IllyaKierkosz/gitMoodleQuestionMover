@@ -43,14 +43,14 @@ sub QP1{
 					do{
 						if($workingText[$i] =~ m{<contents>} || $workingText[$i] =~ m{<response>}){
 							until($workingText[$i] =~ m{</contents>} || $workingText[$i] =~ m{</response>}){
-								$workingText[$i] =~ s/\&lt\;/</g;
-								$workingText[$i] =~ s/\&gt\;/>/g;
+								$workingText[$i] =~ s{\&lt\;}{<}g;
+								$workingText[$i] =~ s{\&gt\;}{>}g;
 								print $outext "$workingText[$i] ";
 								$i++;
 							}
 						} 
-						$workingText[$i] =~ s/\&lt\;/</g;
-						$workingText[$i] =~ s/\&gt\;/>/g;
+						$workingText[$i] =~ s{\&lt\;}{<}g;
+						$workingText[$i] =~ s{\&gt\;}{>}g;
 						print $outext "$workingText[$i]\n";
 						$i++;
 					} while($workingText[$i] !~ m{$targetClose});
@@ -78,7 +78,7 @@ sub QP2{
 	
 	foreach(@questionFiles){
 		my $currentFile = $_;
-		$currentFile =~ s/.txt//;
+		$currentFile =~ s{.txt}{}g;
 		print "Working on $currentFile\n";
 		open(my $intext, "<","QPhase1/$currentFile.txt") or die "Couldn't open lesson file for $currentFile: $!\n";
 		open(my $outext, ">", "QPhase2/$currentFile.txt") or die "Couldn't create output file for $currentFile: $!";
@@ -102,10 +102,10 @@ sub QP2{
 						while ($workingText[$i] =~ m{(<img src=.*?/>)}g){
 							my $image = $1;
 							push(@images, $image);
-							$workingText[$i] =~ s/$image//;
 							$imageNum++;
 						}
-						$workingText[$i] =~ s/<\/p>\s*?<p>//g;
+						$workingText[$i] =~ s{<img src=.*?/>}{}g;
+						$workingText[$i] =~ s{<\/p>\s*?<p>}{}g;
 						if($workingText[$i] !~ m{<score>}){
 						print $outext "$workingText[$i]";
 						} else {
@@ -177,8 +177,8 @@ sub Qmake{
 	print "@questionFiles\n";
 	foreach(@questionFiles){
 		my $currentLesson = $_;
-		$currentLesson =~ s/Questions-//;
-		$currentLesson =~ s/.txt//;
+		$currentLesson =~ s{Questions-}{}g;
+		$currentLesson =~ s{.txt}{}g;
 		print "Working on $currentLesson\n";
 		
 		mkdir("$currentLesson") or die "Could not make $currentLesson Questions directory: $!";
@@ -206,14 +206,21 @@ sub Qmake{
 					my $qName = "$currentLesson-Question$qNum";
 					$i++;
 					if($workingText[$i] =~m{<title>(.*?)<\/title>\s+<contents>(.*?)<\/contents>}g){
-						$title = $1; $contents = $2;
+						$title = $1; 
+						$title =~ s{\\}{\\\\}g; $title =~ s{/}{\/}g; $title =~ s{"}{\\"}g; 
+						$contents = $2; 
+						$contents =~ s{\\}{\\\\}g; $contents =~ s{/}{\/}g; $contents =~ s{"}{\\"}g;
 					} else{
 						print "Error moving $qName: title/content not in expected location.";
 					}
 					$i++;
 					while($workingText[$i] =~m{<score>(\d*)</score>\s+<answer_text>(.*?)</answer_text>\s+<response>(.*?)</response>}g){
-						push(@score, $1);
+						push(@score, $1); 
+						my $AT = $2; 
+						$AT =~ s{\\}{\\\\}g; $AT =~ s{/}{\/}g; $AT =~ s{"}{\\"}g; 
 						push(@answerText, $2);
+						my $R = $3; 
+						$R =~ s{\\}{\\\\}g; $R =~ s{"}{\\"}g; 
 						push(@response, $3);
 						$answerNumber++;
 						$i++;
@@ -274,7 +281,7 @@ sub Qmake{
 						open(OLD, "<", "h5p.json") or die "can't open h5p cover file: $!"; 
 						open(NEW, ">", "new.json") or die "can't open temporary cover file: $!"; 
 						while (my $compText = <OLD>) { 
-							$compText =~ s/_TITLE_/$title/;
+							$compText =~ s{_TITLE_}{$title}g;
 							print NEW "$compText";
 						} 
 						close(OLD) or die "can't close h5p cover file: $!"; 
@@ -285,35 +292,35 @@ sub Qmake{
 							open(OLD, "<", "content.json") or die "can't open content file: $!"; 
 							open(NEW, ">", "new.json") or die "can't open temporary content file: $!"; 
 							while (my $compText = <OLD>) {
-								$compText =~ s/_QTEXT_/$contents/;
+								$compText =~ s{_QTEXT_}{$contents}g;
 								my $answerIndex = 0;
 								do {
 									my $answer = '{"correct":_SCORE_,"tipsAndFeedback":{"chosenFeedback":"<div>_RESPONSE_<\/div>\n"},"text":"<div>_ATEXT_<\/div>\n"}';
 									if ($score[$answerIndex]==1){
-										$answer =~ s/_SCORE_/true/;
+										$answer =~ s{_SCORE_}{true}g;
 									} elsif ($score[$answerIndex]==0) {
-										$answer =~ s/_SCORE_/false/;
+										$answer =~ s{_SCORE_}{false}g;
 									} else {
 										print "Issue with answer $answerIndex in $qName\n";
 									}
-									$answer =~ s/_RESPONSE_/$response[$answerIndex]/; $answer =~ s/_ATEXT_/$answerText[$answerIndex]/;
+									$answer =~ s{_RESPONSE_}{$response[$answerIndex]}g; $answer =~ s{_ATEXT_}{$answerText[$answerIndex]}g;
 									$answerIndex++;
 									if($answerIndex==$answerNumber){
-										$compText =~ s/_ANSWER_/$answer/;
+										$compText =~ s{_ANSWER_}{$answer}g;
 									}else{
-										$compText =~ s/_ANSWER_/$answer,_ANSWER_/;
+										$compText =~ s{_ANSWER_}{$answer,_ANSWER_}g;
 									}
 								} while ($answerIndex < $answerNumber);
 								my $image = '"media":{"type":{"params":{"contentName":"Image","alt":"_ALTEXT_","title":"_IMNAME_","file":{"path":"images\/_FILENAME_","mime":"image\/png","copyright":{"license":"U"},"width":_WIDTH_,"height":_HEIGHT_}},"library":"H5P.Image 1.1","subContentId":"327a808f-1a51-493b-80d1-4c5af6b31c15","metadata":{"contentType":"Image","license":"U","title":"Untitled Image"}},"disableImageZooming":false},';
 								if ($imageCount == 1){
-									$image =~ s/_ALTEXT_/$altText[0]/;$image =~ s/_IMNAME_/$imName[0]/;$image =~ s/_FILENAME_/$imFile[0]/;$image =~ s/_WIDTH_/$width[0]/;$image =~ s/_HEIGHT_/$height[0]/;
-									$compText =~ s/_IMAGE_/$image/;
+									$image =~ s{_ALTEXT_}{$altText[0]}g;$image =~ s{_IMNAME_}{$imName[0]}g;$image =~ s{_FILENAME_}{$imFile[0]}g;$image =~ s{_WIDTH_}{$width[0]}g;$image =~ s{_HEIGHT_}{$height[0]}g;
+									$compText =~ s{_IMAGE_}{$image}g;
 									my $imHash = $ImLookup{$imFile[0]};
 									$imHash =~ m{(^\w{2})}g;
 									my $imHashFolder = $1;
 									copy("../../../../../InputFiles/files/$imHashFolder/$imHash","images/$imFile[0]") or die "Could not transfer image file for $qName: $!";
 								} else{
-									$compText =~ s/_IMAGE_//;
+									$compText =~ s{_IMAGE_}{}g;
 								}print NEW "$compText";
 							}
 							close(OLD) or die "can't close content file: $!"; 
