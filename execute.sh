@@ -1,11 +1,24 @@
 #! usr/bin/bash
 
-cd Code/
-
 perl questionMaker.pl
 
-for d in ./Questions/*/ ; do (cd "$d" && for d in ./*/ ; do (cd "$d" && rm oldOrig && cd content && rm oldOrig && cd ..); done); done
+mkdir ZippedQuestions
 
-rm -r QPhase{1,2}
+for lesson in ./Code/Questions/*/
+do
+	for qfolder in "$lesson"*/
+	do
+		question=$(echo "$qfolder" | awk -F'/' '{print $4}')
+		rm "$qfolder"oldOrig
+		rm "$qfolder"content/oldOrig
+		zip -X -D -r -q "$question".h5p "$qfolder"
+		mv "$question".h5p ./ZippedQuestions/
+		mv ./Code/FlaggedQuestions ./
+		
+		rm -r ./Code/Questions
+		rm -r ./Code/QPhase{1,2}
+	done
+done
+
 
 
